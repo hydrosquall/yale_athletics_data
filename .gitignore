@@ -70,5 +70,6 @@ target/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-/data/
+# in this case, we'll include it until it gets too large.
+# /data/
 
