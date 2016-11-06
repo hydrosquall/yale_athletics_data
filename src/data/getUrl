@@ -1,0 +1,25 @@
+#!/usr/bin/python
+
+# a test script for doing command line parsing of the soup
+
+import fileinput
+import requests
+from bs4 import BeautifulSoup
+#import json
+#import re
+
+results = []
+
+# this should really just be one line
+for line in fileinput.input():
+	entry = {}
+	url = "http://www.yalebulldogs.com" + line.strip()
+	print url
+	response = requests.get(url)
+	if response.status_code is 200:
+		entry['soup'] = BeautifulSoup(response.content, 'lxml').find('div', class_=['clearfix',"wrap-bio"])
+	else:
+		entry['soup'] = None
+
+	entry['link'] = line
+	print entry['soup']
