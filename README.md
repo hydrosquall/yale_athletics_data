@@ -60,4 +60,7 @@ Rails version: 5.0.0.1
 
 Ruby version: 2.3.1 (x86_64-darwin16)
 
+--------
+
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
