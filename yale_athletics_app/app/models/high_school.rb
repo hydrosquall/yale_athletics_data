@@ -1,0 +1,2 @@
+class HighSchool < ApplicationRecord
+end
