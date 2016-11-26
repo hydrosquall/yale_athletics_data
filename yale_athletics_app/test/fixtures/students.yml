@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bt: MyString
+  city: MyString
+  college_year: MyString
+  events: MyString
+  high_school: MyString
+  high_school_home_town: MyString
+  region_home_town: MyString
+  height: MyString
+  name: MyString
+  name_link: MyString
+  number: MyString
+  pos: MyString
+  region: MyString
+  season: MyString
+  sport: MyString
+  weapon: MyString
+  wt: MyString
+
+two:
+  bt: MyString
+  city: MyString
+  college_year: MyString
+  events: MyString
+  high_school: MyString
+  high_school_home_town: MyString
+  region_home_town: MyString
+  height: MyString
+  name: MyString
+  name_link: MyString
+  number: MyString
+  pos: MyString
+  region: MyString
+  season: MyString
+  sport: MyString
+  weapon: MyString
+  wt: MyString

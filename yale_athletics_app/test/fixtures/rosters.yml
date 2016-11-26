@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sport: MyString
+  season: MyString
+  name: MyString
+  college: MyString
+
+two:
+  sport: MyString
+  season: MyString
+  name: MyString
+  college: MyString
