@@ -1,5 +1,4 @@
 class Student < ApplicationRecord
-  require 'byebug'
   require 'csv'
   # associations
   belongs_to :university
