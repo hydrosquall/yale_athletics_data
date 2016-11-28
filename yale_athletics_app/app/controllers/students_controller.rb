@@ -5,6 +5,6 @@ class StudentsController < ApplicationController
 
   def import
     Student.import(params[:file])
-    redirect_to root_path, notice: "Athletes Data Imported Successfully!"
+    redirect_to root_url, notice: "Athletes Data Imported Successfully!"
   end
 end

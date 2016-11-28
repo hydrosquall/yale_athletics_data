@@ -1,5 +1,6 @@
 class Student < ApplicationRecord
   require 'csv'
+
   # associations
   belongs_to :university
   belongs_to :roster
@@ -8,8 +9,7 @@ class Student < ApplicationRecord
   # import data from csv
   def self.import(file)
     CSV.foreach(file.path, headers: true) do |row|
-      debugger
-      User.create! row.to_hash
+      Student.create! row.to_hash
     end
   end
 end

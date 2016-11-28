@@ -1,3 +1,4 @@
+<%= flash[:notice] %>
 <h1>All Athletes</h1>
 <table>
   <thead>
@@ -24,16 +25,17 @@
         <td><%= student.college %></td>
         <td><%= student.city %></td>
         <td><%= student.hometown %></td>
-        <td><%= student.weight %></td>
-        <td><%= student.height %></td>
-        <td><%= student.number %></td>
-        <td><%= student.high_school %></td>
-        <td><%= student.active_seasons %></td>
+        <td><%= student.read_attribute("wt.")%></td>
+        <td><%= student.read_attribute("ht.") %></td>
+        <td><%= student.read_attribute("no.") %></td>
+        <td><%= student.read_attribute("high school") %></td>
+        <td><%= student.read_attribute("active seasons") %></td>
         <td><%= student.region %></td>
         <td><%= student.position %></td>
         <td><%= student.bio %></td>
         <td><%= student.misc %></td>
       </tr>
+    <% end %>
   </tbody>
 </table>
 
