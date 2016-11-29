@@ -1,0 +1,213 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
+
+
+</script>
+<script src="https://cdn.rawgit.com/twitter/typeahead.js/master/dist/typeahead.jquery.min.js">
+</script>
+
+<head>
+	<style>
+		label {
+			display: inline-block;
+			width: 140px;
+			text-align: right;
+		}
+
+		.tt-query {
+			-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+			-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+			box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+		}
+
+		.tt-hint {
+			color: #999
+		}
+
+		.tt-menu {
+			/* used to be tt-dropdown-menu in older versions */
+			width: 422px;
+			margin-top: 4px;
+			padding: 4px 0;
+			background-color: #fff;
+		</style>
+	</head>
+
+	<body>
+		<div id="search">
+
+			<form id="searchparams">
+				<fieldset>
+					<p>
+						<label>Sport:</label>
+						<input class="typeahead-sport" name="sports" type="text" placeholder="sports">
+					</p>
+					<p>
+						<label>University:</label>
+						<select id="selUni">
+							<option value="3"></option>
+							<option value="1">Yale</option>
+							<option value="2">Harvard</option>
+						</select>
+					</p>
+					<div class="1">
+						<p>
+							<label>Residential College:</label>
+							<select id="Yale-college">
+								<option>Jonathan Edwards</option>
+								<option>Branford</option>
+								<option>Pierson</option>
+								<option>Silliman</option>
+								<option>Timothy Dwight</option>
+								<option>Berkeley</option>
+								<option>Saybrook</option>
+								<option>Morse</option>
+								<option>Ezra Stiles</option>
+								<option>Davenport</option>
+								<option>Trumbull</option>
+								<option>Calhoun</option>
+							</select>
+						</p>
+					</div>
+					<div class="2">
+						<p>
+							<label>Residential House:</label>
+							<select id="Harvard-college">
+								<option>Adams</option>
+								<option>Cabot</option>
+								<option>Currier</option>
+								<option>Dunster</option>
+								<option>Eliot</option>
+								<option>Kirkland</option>
+								<option>Leverett</option>
+								<option>Lowell</option>
+								<option>Mather</option>
+								<option>Pforzheimer</option>
+								<option>Quincy</option>
+								<option>Winthrop</option>
+							</select>
+						</p>
+					</div>
+					<p>
+						<label>Year:</label>
+						<select id="selyear">
+							<option></option>
+							<option>2016</option>
+						</select>
+					</p>
+					<p>
+						<label>First name:</label>
+						<input name="fname" type="text" />
+						<br>
+						<label>Last name:</label>
+						<input name="lname" type="text" />
+					</p>
+					<p>
+						<label>Gender:</label>
+						<input type="radio" name="gender" value="male"> Male &nbsp; &nbsp;
+						<input type="radio" name="gender" value="female"> Female &nbsp; &nbsp;
+						<input type="radio" name="gender" value="other"> Other
+						<br>
+					</p>
+					<p>
+						<label>City:</label>
+						<input class="typeahead-city" name="city" type="text" placeholder="city">
+					</p>
+					<p>
+						<label>Number:</label>
+						<input name="number" type="text" />
+					</p>
+					<p>
+						<label>Position:</label>
+						<input name="position" type="text" />
+					</p>
+					<p>
+						<label>High School:</label>
+						<input class="typeahead-hschool" name="hschool" type="text" placeholder="high school">
+					</p>
+					<input type="button" value="search" onclick="search()" />
+				</fieldset>
+			</form>
+		</div>
+
+
+
+
+		<script>
+			function search() {
+				document.getElementById("searchparams").submit();
+			}
+			$(document).ready(function() {
+				$('.1').hide();
+				$('.2').hide();
+
+				$("#selUni").change(function() {
+					if ($('#selUni option:selected').text() == "Yale") {
+						$('.1').show();
+						$('.2').hide();
+					} else if ($('#selUni option:selected').text() == "Harvard") {
+						$('.2').show();
+						$('.1').hide();
+					}
+				});
+			});
+
+			var substringMatcher = function(strs) {
+				return function findMatches(q, cb) {
+					var matches, substringRegex;
+
+        // an array that will be populated with substring matches
+        matches = [];
+
+        // regex used to determine if a string contains the substring `q`
+        substrRegex = new RegExp(q, 'i');
+
+        // iterate through the pool of strings and for any string that
+        // contains the substring `q`, add it to the `matches` array
+        $.each(strs, function(i, str) {
+        	if (substrRegex.test(str)) {
+        		matches.push(str);
+        	}
+        });
+
+        cb(matches);
+    };
+};
+
+var sports = ['Basketball', 'Volleyball', 'Tennis', 'Football', 'Lacrosse', 'Fencing', 'Crew', 'Swimming', 'Hockey', 'Water Polo', 'Golf', 'Polo'];
+
+var cities = ['New Haven', 'Los Angeles', 'Boston', 'Bar Harbor', 'New York', 'Dallas', 'Indianapolis', 'Houson', 'Santa Barbara', 'San Francisco', 'Lansing', 'Philadelphia'];
+
+var hschools = ['High School abc', 'High School def', 'High School ghi', 'High School jkl', 'High School mno', 'High School pqr', 'High School stu', 'High School vwx', 'High School yz'];
+
+$('.typeahead-sport').typeahead({
+	hint: true,
+	highlight: true,
+	minLength: 1
+}, {
+	name: 'sports',
+	source: substringMatcher(sports)
+});
+
+$('.typeahead-city').typeahead({
+	hint: true,
+	highlight: true,
+	minLength: 1
+}, {
+	name: 'city',
+	source: substringMatcher(cities)
+});
+
+$('.typeahead-hschool').typeahead({
+	hint: true,
+	highlight: true,
+	minLength: 1
+}, {
+	name: 'hschool',
+	source: substringMatcher(hschools)
+});
+
+</script>
+
+
+
+</body>
