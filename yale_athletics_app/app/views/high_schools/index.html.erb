@@ -1,0 +1,18 @@
+<%= flash[:notice] %>
+<h1>All High Schools</h1>
+<table>
+  <thead>
+    <tr>
+      <th>High_School_ID</th>
+      <th>High School</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @high_Schools.each do |high_school| %>
+      <tr>
+        <td><%= high_school.id %></td>
+        <td><%= high_school.read_attribute('high school') %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

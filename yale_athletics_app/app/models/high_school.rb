@@ -9,8 +9,8 @@ class HighSchool < ApplicationRecord
     csv_text = File.read('../data/processed/high_schools_processed.csv')
     csv = CSV.parse(csv_text, headers: true)
     csv.each do |row|
-      High_school.create!(:high_school_id => row[1],
-                          'high school'.to_sym => row[2])
+      HighSchool.create!(:high_school_id => row[1],
+                         'high school'.to_sym => row[2])
     end
   end
 end
