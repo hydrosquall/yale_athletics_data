@@ -10,13 +10,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20161129155125) do
+ActiveRecord::Schema.define(version: 20161129161337) do
 
   create_table "high_schools", force: :cascade do |t|
-    t.string   "name"
-    t.string   "city"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.datetime "created_at",     null: false
+    t.datetime "updated_at",     null: false
+    t.string   "high school"
+    t.string   "high_School_id"
   end
 
   create_table "rosters", force: :cascade do |t|
