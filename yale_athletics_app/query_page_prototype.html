@@ -1,11 +1,12 @@
+<!DOCTYPE html>
+<html>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
-
-
 </script>
 <script src="https://cdn.rawgit.com/twitter/typeahead.js/master/dist/typeahead.jquery.min.js">
 </script>
 
 <head>
+	<title>Search Records</title>
 	<style>
 		label {
 			display: inline-block;
@@ -34,7 +35,6 @@
 
 	<body>
 		<div id="search">
-
 			<form id="searchparams">
 				<fieldset>
 					<p>
@@ -129,9 +129,6 @@
 			</form>
 		</div>
 
-
-
-
 		<script>
 			function search() {
 				document.getElementById("searchparams").submit();
@@ -170,44 +167,42 @@
         });
 
         cb(matches);
+      };
     };
-};
 
-var sports = ['Basketball', 'Volleyball', 'Tennis', 'Football', 'Lacrosse', 'Fencing', 'Crew', 'Swimming', 'Hockey', 'Water Polo', 'Golf', 'Polo'];
+    var sports = ['Basketball', 'Volleyball', 'Tennis', 'Football', 'Lacrosse', 'Fencing', 'Crew', 'Swimming', 'Hockey', 'Water Polo', 'Golf', 'Polo'];
 
-var cities = ['New Haven', 'Los Angeles', 'Boston', 'Bar Harbor', 'New York', 'Dallas', 'Indianapolis', 'Houson', 'Santa Barbara', 'San Francisco', 'Lansing', 'Philadelphia'];
+    var cities = ['New Haven', 'Los Angeles', 'Boston', 'Bar Harbor', 'New York', 'Dallas', 'Indianapolis', 'Houson', 'Santa Barbara', 'San Francisco', 'Lansing', 'Philadelphia'];
 
-var hschools = ['High School abc', 'High School def', 'High School ghi', 'High School jkl', 'High School mno', 'High School pqr', 'High School stu', 'High School vwx', 'High School yz'];
+    var hschools = ['High School abc', 'High School def', 'High School ghi', 'High School jkl', 'High School mno', 'High School pqr', 'High School stu', 'High School vwx', 'High School yz'];
 
-$('.typeahead-sport').typeahead({
-	hint: true,
-	highlight: true,
-	minLength: 1
-}, {
-	name: 'sports',
-	source: substringMatcher(sports)
-});
+    $('.typeahead-sport').typeahead({
+    	hint: true,
+    	highlight: true,
+    	minLength: 1
+    }, {
+    	name: 'sports',
+    	source: substringMatcher(sports)
+    });
 
-$('.typeahead-city').typeahead({
-	hint: true,
-	highlight: true,
-	minLength: 1
-}, {
-	name: 'city',
-	source: substringMatcher(cities)
-});
+    $('.typeahead-city').typeahead({
+    	hint: true,
+    	highlight: true,
+    	minLength: 1
+    }, {
+    	name: 'city',
+    	source: substringMatcher(cities)
+    });
 
-$('.typeahead-hschool').typeahead({
-	hint: true,
-	highlight: true,
-	minLength: 1
-}, {
-	name: 'hschool',
-	source: substringMatcher(hschools)
-});
+    $('.typeahead-hschool').typeahead({
+    	hint: true,
+    	highlight: true,
+    	minLength: 1
+    }, {
+    	name: 'hschool',
+    	source: substringMatcher(hschools)
+    });
 
-</script>
-
-
-
+  </script>
 </body>
+</html>
