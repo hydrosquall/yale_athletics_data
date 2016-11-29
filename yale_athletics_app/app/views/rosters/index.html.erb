@@ -1,0 +1,20 @@
+<%= flash[:notice] %>
+<h1>All Rosters</h1>
+<table>
+  <thead>
+    <tr>
+      <th>Sport</th>
+      <th>Season</th>
+      <th>Players</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @rosters.each do |roster| %>
+      <tr>
+        <td><%= roster.sport %></td>
+        <td><%= roster.season %></td>
+        <td><%= roster.players %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
