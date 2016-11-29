@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  get 'high_schools/index', to: 'high_schools#index'
+  get 'high_schools/import', to: 'high_schools#import'
+
   get 'rosters/index', to: 'rosters#index'
   get 'rosters/import', to: 'rosters#import'
 
