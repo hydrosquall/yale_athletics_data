@@ -19,4 +19,5 @@ class Student < ApplicationRecord
                       :bio => row[11], :college => row[12])
     end
   end
+
 end
