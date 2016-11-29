@@ -1,0 +1,3636 @@
+,High_School_ID,High School
+0,0,North County
+1,1,South Kent School
+2,2,Vista Murrieta
+3,3,Lake Brantley
+4,4,Paul D. Schreiber High School
+5,5,Panel Vallei
+6,6,Eden Prairie High School
+7,7,Governor Simcoe
+8,8,Cy-Fair
+9,9,-
+10,10,Somerset Academy
+11,11,Phillips Exeter Academy
+12,12,Brewster Academy
+13,13,Phillips Exeter
+14,14,Montgomery Blair
+15,15,Deep Run
+16,16,Newton North High School
+17,17,Robinson
+18,18,Choate Rosemary Hall (CT)
+19,19,Jericho
+20,20,Roosevelt High School
+21,21,Muskegon (USHL)
+22,22,Upper Canada College
+23,23,Casa Grande
+24,24,Whiteland Community
+25,25,Groton
+26,26,Saratoga
+27,27,Auckland Grammar
+28,28,Princeton Day School
+29,29,Georgetown Visitation
+30,30,Morgantown
+31,31,Lawrenceville School
+32,32,Nichols School
+33,33,Kinkaid School
+34,34,South Eugene
+35,35,Glenbard West
+36,36,Roxbury Latin
+37,37,IES Velazquez
+38,38,Colegio San Ignacio de Loyola
+39,39,Georgetown Preparatory School
+40,40,Detroit Country Day
+41,41,Eastport South Manor
+42,42,Park School of Baltimore
+43,43,Bishop O'Dowd
+44,44,Valparaiso HS
+45,45,Mahopac
+46,46,New Covenant Academy
+47,47,Sewickley Academy
+48,48,Olathe East
+49,49,DeSoto Central
+50,50,Capistrano Valley
+51,51,Chadwick
+52,52,Belmont Hill
+53,53,Charter School of Wilmington
+54,54,Hotchkiss
+55,55,Bishop's School
+56,56,Christian Brothers
+57,57,Mt. Lebanon
+58,58,Cathedral High School
+59,59,Ventura High School
+60,60,Sonoma Valley HS
+61,61,Harvard-Westlake
+62,62,Poly Prep Country Day
+63,63,Daniel Hand
+64,64,Deerfield Academy
+65,65,Liberty
+66,66,Reno
+67,67,Notre Dame Academy
+68,68,Toms River High School North
+69,69,Ravenwood High School
+70,70,Henry M. Gunn
+71,71,Hinsdale Central
+72,72,University School of Nashville
+73,73,Eton College
+74,74,Sacred Heart Academy
+75,75,Omaha (USHL)
+76,76,Sentinel Secondary School
+77,77,Davis Senior High School
+78,78,Cathedral Catholic
+79,79,Theodore Roosevelt
+80,80,Ridge
+81,81,University
+82,82,Gilbert High School
+83,83,Ansonia
+84,84,Westminster
+85,85,Columbia
+86,86,New Trier
+87,87,The Ellis School
+88,88,Ransom Everglades
+89,89,East Greenwich High School
+90,90,Choate Rosemary Hall
+91,91,Delbarton School
+92,92,Bethesda-Chevy Chase
+93,93,Kingwood
+94,94,Radley College
+95,95,Blake School
+96,96,Thacher
+97,97,Collegiate HS
+98,98,St. Xavier
+99,99,Belen Jesuit Preparatory School
+100,100,Hackley School
+101,101,Marlborough School
+102,102,Rock Island
+103,103,Rocky Hill
+104,104,The Pingry School
+105,105,St. Clement's School
+106,106,Birmingham Seaholm
+107,107,Noble and Greenough School
+108,108,Rye Country Day
+109,109,Westminster Schools
+110,110,Guilford
+111,111,Episcopal Academy
+112,112,University College School
+113,113,St. Paul's Girls' School
+114,114,H.B. Plant
+115,115,Francis Parker
+116,116,Shady Side Academy
+117,117,Edina
+118,118,American Heritage Plantation
+119,119,George Washington
+120,120,Methodist Ladies
+121,121,British Council School of Madrid
+122,122,Rancho Santa Margarita
+123,123,River Hill
+124,124,Saratoga HS
+125,125,Syosset
+126,126,Chesterton
+127,127,Council Rock North
+128,128,Moorestown Friends
+129,129,Hathaway Brown School
+130,130,Oak Grove
+131,131,Saratoga Springs
+132,132,South Grand Prairie
+133,133,University City High School
+134,134,Troy
+135,135,Benet Academy
+136,136,Germantown Academy
+137,137,Huron High School
+138,138,Menlo
+139,139,College Park
+140,140,Westhill
+141,141,Naperville North High School
+142,142,Colorado Academy
+143,143,Northview Heights
+144,144,Central Kitsap High School
+145,145,Katy
+146,146,Chico Sr.
+147,147,St. Albans
+148,148,Holton-Arms
+149,149,St. John's
+150,150,Lincoln Lutheran
+151,151,Amherst Regional
+152,152,Westlake
+153,153,Cerritos High School
+154,154,Ridley College
+155,155,Carlmont
+156,156,Depaul Catholic
+157,157,The Agnes Irwin
+158,158,Winston Churchill
+159,159,Winter Park
+160,160,Penn Charter
+161,161,Severn School
+162,162,Masuk
+163,163,Ardrey Kell
+164,164,The Lady Eleanor Holles School
+165,165,HB Plant
+166,166,The Winsor School
+167,167,Medfield HS
+168,168,Clarendon Girls
+169,169,Northview
+170,170,Phillips Academy
+171,171,Portage Central
+172,172,St. Andrew's
+173,173,Byron Nelson
+174,174,D.W. Daniel High School
+175,175,St. Louis Park
+176,176,Girls Preparatory School
+177,177,Atlanta International School
+178,178,Lakeside School
+179,179,Deptford Township
+180,180,Canterbury School
+181,181,Kinnelon
+182,182,Msgr. Kelly Catholic
+183,183,Eagle Rock
+184,184,Harrison
+185,185,St. Stephen's/St. Agnes
+186,186,Allderdice
+187,187,Highland Park
+188,188,Ledyard High School
+189,189,Cedar Rapids (USHL)
+190,190,Shawnee Mission East
+191,191,St. Joseph's Prep
+192,192,Cypress Bay
+193,193,Don Bosco Prep
+194,194,Lakeridge High School
+195,195,Holbrook
+196,196,McIntosh
+197,197,San Rafael High School
+198,198,Marblehead Senior High School
+199,199,Lake Forest
+200,200,Hendersonville
+201,201,Chicago (USHL)
+202,202,Bellaire
+203,203,Dobyns-Bennett
+204,204,University of Detroit Jesuit
+205,205,Canyon
+206,206,San Juan Hills
+207,207,Blair Academy
+208,208,Southwest
+209,209,Fox Chapel
+210,210,Summit
+211,211,Palisades
+212,212,Western Reserve Academy
+213,213,Mercer Island High School
+214,214,Notre Dame
+215,215,Barrington Community
+216,216,Brisbane Grammar School
+217,217,The Shipley School
+218,218,Elkhorn
+219,219,River Hill High School
+220,220,Chadwick School
+221,221,Greenwich Academy
+222,222,Academy of Notre Dame de Namur
+223,223,Nashua High School South
+224,224,Fenton High School
+225,225,Lexington High School
+226,226,Brearley
+227,227,Garnet Valley
+228,228,National Cathedral School
+229,229,El Segundo (Calif.)
+230,230,Boise
+231,231,Edward Little
+232,232,Good Counsel HS
+233,233,Amity
+234,234,St. Ann's
+235,235,Edison
+236,236,Harpeth Hall School
+237,237,Woodlands Academy
+238,238,Joe E. Newsome
+239,239,Lake Braddock Secondary
+240,240,Upper St. Clair
+241,241,Northfield Mount Hermon
+242,242,Waterloo (USHL)
+243,243,The Benjamin School
+244,244,Cromwell
+245,245,Avon Old Farms
+246,246,Green Bay (USHL)
+247,247,Canisius
+248,248,Seaholm
+249,249,Milton
+250,250,Grady
+251,251,Jamesville-Dewitt
+252,252,Brookline
+253,253,Kinkaid
+254,254,Glenbard North
+255,255,Brighton
+256,256,St. Peter's Cambridge
+257,257,St. John's Cathedral School
+258,258,Darien High School
+259,259,Renaissance H.S.
+260,260,Hellgate
+261,261,The Park School
+262,262,Berkshire School
+263,263,West Windsor Plainsboro
+264,264,Bryn Mawr
+265,265,Kellenberg Memorial
+266,266,Lawrenceville
+267,267,Joliet West
+268,268,Rye
+269,269,Episcopal
+270,270,New Milford
+271,271,Lincoln Southwest High School
+272,272,Chatham
+273,273,Elk Grove
+274,274,UMS-Wright Prep
+275,275,Upper St. Clair High School
+276,276,Urbana
+277,277,Tenafly
+278,278,Episcopal School of Dallas
+279,279,Libertyville
+280,280,Buckingham Browne & Nichols
+281,281,St. Mildred’s Lightbourn
+282,282,Brentwood School
+283,283,"Choate Rosemary Hall (Wallingford, Conn.)"
+284,284,Oak Ridge High School
+285,285,Williamston High School
+286,286,O'Neal
+287,287,Temecula Valley
+288,288,Mission Viejo
+289,289,Haddonfield Memorial High School
+290,290,Malvern Prep
+291,291,Bolles School
+292,292,Palos Verdes Peninsula
+293,293,Richardson
+294,294,Cate School
+295,295,Flintridge  Prep
+296,296,Stanford University Online High School
+297,297,Galatasaray High School
+298,298,John Burroughs
+299,299,Montgomery Bell Academy
+300,300,"Adesoye College, Nigeria"
+301,301,Fordham Prep
+302,302,Prospect
+303,303,Scarsdale High School
+304,304,Charles Wright
+305,305,Phillips Academy Andover
+306,306,University School of Milwaukee
+307,307,Midland
+308,308,Charlotte Latin
+309,309,Lake Highlands
+310,310,Oak Park-River Forest
+311,311,Thomas Worthington
+312,312,Buchholz H.S.
+313,313,Thomas S. Wootton
+314,314,Reno High School
+315,315,Warren T. White
+316,316,Palmyra Macedon
+317,317,La Jolla High School
+318,318,Grand Ledge
+319,319,Burnside
+320,320,Haverford School
+321,321,Abington
+322,322,College Jean-de-Brebeuf
+323,323,Conestoga
+324,324,The Blake School
+325,325,Clements
+326,326,Robert E. Fitch
+327,327,Holy Names Academy
+328,328,Salmon Arm (BCJHL)
+329,329,Newport Harbor High School
+330,330,Legacy
+331,331,Laguna Beach
+332,332,Western
+333,333,Skyline
+334,334,Jackson
+335,335,Alpharetta
+336,336,Battle Ground Academy
+337,337,Charlotte Christian
+338,338,Landon School
+339,339,Acton-Boxboro
+340,340,"Graphic and Design High School, Kent School"
+341,341,Mesalonskee
+342,342,Montgomery
+343,343,The Lawrenceville School
+344,344,State College
+345,345,Ann Arbor Pioneer
+346,346,Weston
+347,347,Dutch Fork
+348,348,McDonogh
+349,349,Whitman-Hanson Regional
+350,350,Wantagh
+351,351,Glenbrook North High School
+352,352,Palmer Trinity
+353,353,Parkland
+354,354,Campbell Hall
+355,355,North Central
+356,356,Hwa Chong Institution
+357,357,Ferris High School
+358,358,Chaminade
+359,359,Shaker
+360,360,Bergen Catholic
+361,361,Nanaimo (BCJHL)
+362,362,McLean
+363,363,St. Joesph/ The Hun School of Princeton
+364,364,Westford Academy
+365,365,Corona Del Mar H.S.
+366,366,Mountain View
+367,367,Centreville
+368,368,Centerville
+369,369,Georgetown Prep
+370,370,John Jay
+371,371,St. Dominic
+372,372,The Hun School
+373,373,St. John's High School
+374,374,Chicago Steel (USHL)
+375,375,Damien
+376,376,Shawnee
+377,377,Chattahoochee
+378,378,Mission San Jose High School
+379,379,Mount Lebanon
+380,380,Leigh
+381,381,Walsh Jesuit
+382,382,Canterbury
+383,383,Memorial Senior
+384,384,Mary Institute and St. Louis Country Day School
+385,385,Lewisville Marcus
+386,386,Spanish River
+387,387,Newton South
+388,388,Thornwood
+389,389,Sanford School
+390,390,Shoreham Wading River
+391,391,Berlin
+392,392,Saint Thomas Aquinas
+393,393,Benilde-St. Margaret's
+394,394,Olathe East High School
+395,395,Cushing Academy
+396,396,Downingtown East
+397,397,Ontario
+398,398,Wayland High School
+399,399,Bronxville
+400,400,Harvard Westlake
+401,401,Parish Episcopal School
+402,402,Deerfield
+403,403,LaSalle
+404,404,XV Gymnasium
+405,405,Culver Military Academy
+406,406,West Ottawa
+407,407,Bishop Guertin
+408,408,Cardinal Newman
+409,409,Brother Rice
+410,410,Ashtabula
+411,411,Mira Costa High School
+412,412,Prestonwood Christian
+413,413,Lyman Hall
+414,414,Pittsfield HS
+415,415,Centennial
+416,416,Millburn
+417,417,Pembroke Hill
+418,418,Loomis Chaffee
+419,419,Port Angeles High School
+420,420,Olathe South
+421,421,West Orange
+422,422,Pope John XXIII High School
+423,423,Woodrow Wilson
+424,424,Independent
+425,425,The Waterford School
+426,426,Pingry
+427,427,Germantown Friends School
+428,428,Maranacook Community School
+429,429,Hotchkiss School
+430,430,Chaparral
+431,431,Loomis Chaffee School (CT)
+432,432,Garfield High School
+433,433,Woodside Priory School
+434,434,North Shore Country Day School
+435,435,Bothell
+436,436,The Westminster Schools
+437,437,The Heritage School
+438,438,Potomac School
+439,439,Trinity College School
+440,440,Adlai E. Stevenson
+441,441,West Salem
+442,442,Santa Monica
+443,443,Mt. Lebanon Senior
+444,444,Hunting Hills
+445,445,Berkeley
+446,446,Amador Valley High School
+447,447,Albuquerque Academy
+448,448,Midwood
+449,449,Shore Regional
+450,450,Minnetonka High School
+451,451,Salpointe Catholic
+452,452,Bethesda-Chevy Chase High School
+453,453,Miramonte High School
+454,454,Severn
+455,455,Mountain Lakes
+456,456,Roland Park School
+457,457,The Spence School
+458,458,Bromfield
+459,459,Rathdown School
+460,460,Darien
+461,461,Saint Francis
+462,462,Thomas Jefferson High School for Science and Technology
+463,463,Noble & Greenough
+464,464,Ft. McMurray Oil Barons (AJHL)
+465,465,Community School of Naples
+466,466,Second Baptist Upper School
+467,467,Palos Verdes High School
+468,468,Savannah Arts Academy
+469,469,South Oak Cliff
+470,470,Hamden Hall
+471,471,Henry H. Gunn
+472,472,Grosse Pointe South
+473,473,Newbury Park
+474,474,Carroll Senior
+475,475,Fredericton High School
+476,476,George Jenkins
+477,477,Sage Hill
+478,478,Wilbur L. Cross
+479,479,Western Albemarle High School
+480,480,Noble and Greenough
+481,481,The Hotchkiss School
+482,482,Bernards High School
+483,483,Manhasset
+484,484,Malborough School
+485,485,Chung Hwa School
+486,486,Crossroads
+487,487,Alan C. Pope
+488,488,Folsom
+489,489,Oak Park Independent
+490,490,Nanaimo Clippers BCJHL
+491,491,Hempfield High School
+492,492,LaGuardia Arts High School
+493,493,Des Moines (USHL)
+494,494,Woodinville High School
+495,495,Ohio Jr. Blue Jackets (USHL)
+496,496,Gulliver Preparatory
+497,497,Parish Episcopal
+498,498,Lincoln/Choate Rosemary Hall (CT)
+499,499,Surrey (BCHL)
+500,500,Brentwood High
+501,501,Brunswick School
+502,502,Saint Joseph High
+503,503,St. Mark's School of Texas
+504,504,St. Andrew's Episcopal
+505,505,Royal Grammar
+506,506,Arendell Parrott Academy
+507,507,Montclair High School
+508,508,El Toro
+509,509,Longmeadow
+510,510,Half Hollow Hills West
+511,511,South County School
+512,512,Milton Academy
+513,513,Groton School
+514,514,Adlai Stevenson
+515,515,Rolla
+516,516,Maret School
+517,517,Seton Hall Prep
+518,518,St. Ignatius
+519,519,Kingswood College
+520,520,Andover Academy
+521,521,Lassiter
+522,522,Junipero Serra
+523,523,Nazareth
+524,524,Middlesex (EJHL)
+525,525,Corona Del Mar
+526,526,Dana Hills High School
+527,527,Tallmadge High School
+528,528,Lamar H.S.
+529,529,Deerfield-Windsor School
+530,530,Nimitz Senior
+531,531,Jesuit
+532,532,Pingry School
+533,533,Newport Harbor
+534,534,Clover Hill
+535,535,Loyola
+536,536,Park Tudor School
+537,537,Westwood
+538,538,Thomas Jefferson
+539,539,Baylor
+540,540,Kent Place
+541,541,Sidwell Friends
+542,542,Bulkeley
+543,543,Philips Exeter Academy
+544,544,Tomball HS
+545,545,Punahou School
+546,546,Naperville North
+547,547,Belmont Hill School
+548,548,Saint Ignatius
+549,549,Friends Academy
+550,550,Mark Keppel High School
+551,551,Avon
+552,552,Sage Ridge School
+553,553,St. Joseph's Preparatory School
+554,554,Watchung Hills
+555,555,Glendora
+556,556,Princeton
+557,557,Greater Atlanta Christian
+558,558,Rancho Bernardo
+559,559,Magnificat
+560,560,Coppell
+561,561,La Jolla Country Day
+562,562,Blacksburg High School
+563,563,Punahou
+564,564,Grosse Pointe South High School
+565,565,Teays Valley
+566,566,'Iolani School
+567,567,St. Francis
+568,568,Rye High School
+569,569,Vista del Lago High School
+570,570,St. Stephen's and St. Agnes
+571,571,Olympia
+572,572,Lorne Park Secondary School
+573,573,Harlingen
+574,574,Brentwood High School
+575,575,OSZ TIEM
+576,576,St. Albans School
+577,577,St. Mary's Prep - Orchard Lakes
+578,578,Greenwich Adademy
+579,579,Plano West
+580,580,Starr's Mill High School
+581,581,Sachse
+582,582,Boston Junior Bruins (EJHL)
+583,583,Whitney Young
+584,584,South Lake Christian
+585,585,St. Thomas Aquinas
+586,586,Coeur d'Alene High School
+587,587,Morrilton
+588,588,St. Xavier High School
+589,589,Radnor
+590,590,Park School
+591,591,Falmouth
+592,592,Culver Academy
+593,593,Riverview
+594,594,Breck School
+595,595,The Cambridge School of Weston
+596,596,Penn Charter School
+597,597,Alamo Heights
+598,598,New Trier Township High School
+599,599,Skaneateles High School
+600,600,CBC Monkstown
+601,601,Archmere Academy
+602,602,La Salle College High School
+603,603,Brunswick
+604,604,Bellarmine College Preparatory
+605,605,Springfield Southeast
+606,606,Lone Star (NAHL)
+607,607,Old Lyme
+608,608,Wooster
+609,609,Oak Knoll
+610,610,Torrey Pines
+611,611,American Heritage
+612,612,Huntington
+613,613,Council Rock High School South
+614,614,Joliet Catholic Academy
+615,615,American Heritage School
+616,616,New Trier Township
+617,617,Washington HS
+618,618,Mira Loma
+619,619,Brophy College Prep
+620,620,Kofa
+621,621,Newton Country Day
+622,622,North Allegheny High School
+623,623,St. Paul's School
+624,624,Saint Stephens
+625,625,Ridgewood
+626,626,Montpelier High School
+627,627,Hun School
+628,628,Fenwick
+629,629,Gill St. Bernard's School
+630,630,Hingham
+631,631,Rockville
+632,632,Pharr-San Juan-Alamo
+633,633,Manalapan
+634,634,McKinley
+635,635,Palo Alto
+636,636,Westside
+637,637,Eden
+638,638,Bethesda- Chevy Chase
+639,639,Cleveland
+640,640,Winter Park HS
+641,641,Catonsville
+642,642,Sunnyslope
+643,643,Clintonville
+644,644,Acalanes
+645,645,West Seattle
+646,646,St. Stephens St. Agnes
+647,647,Pittsford Sutherland
+648,648,Neuqua Valley
+649,649,Rochester Adams
+650,650,Northport High School
+651,651,Washington-Lee
+652,652,Baylor School
+653,653,Lincoln-Sudbury
+654,654,Ramapo
+655,655,Grace Christian
+656,656,Paul Laurence Dunbar
+657,657,Bearden
+658,658,Shipley School
+659,659,Penn High School
+660,660,Hamden Hall Country Day School
+661,661,Lakeland Union High School
+662,662,Uskudar American Academy
+663,663,Poolesville
+664,664,New Hampshire (EJHL)
+665,665,Francis W. Parker
+666,666,Harborfields
+667,667,St. Ignatius College Prep
+668,668,Walnut
+669,669,Concord Academy
+670,670,Randolph High School
+671,671,The Hill Academy
+672,672,Oak Hills
+673,673,Prosper High School
+674,674,Forest Hills Northern
+675,675,Northport
+676,676,Oak Ridge
+677,677,Evangel Christian Academy
+678,678,Cheyenne
+679,679,Piedmont High School
+680,680,Rudolf Steiner Schule
+681,681,Wando
+682,682,A.C. Reynolds
+683,683,Santa Barbara
+684,684,Chestnut Hill
+685,685,New Fairfield
+686,686,Canisius High School
+687,687,Geelong Grammar School
+688,688,Thomas Edison
+689,689,Phillips Andover Academy
+690,690,Deep Run High School
+691,691,Phoenix Country Day School
+692,692,Rumson Fair Haven Regional
+693,693,Plano Senior High School
+694,694,King's College
+695,695,McCallie School
+696,696,Notre Dame Prep
+697,697,Francis Parker HS
+698,698,St. Georges School
+699,699,Wheeler School
+700,700,Grant
+701,701,Plainedge
+702,702,Aiken
+703,703,Viewpoint School
+704,704,Pleasant Grove
+705,705,Fairfield Prep
+706,706,Edge School for Athletes
+707,707,Bakersfield Christian
+708,708,Fairfield College Preparatory School
+709,709,Phillips Andover
+710,710,Mayfair
+711,711,E.O. Smith
+712,712,Gates-Chili
+713,713,Canyon High School
+714,714,The Bush School
+715,715,Agnes Irwin School
+716,716,Nobles & Greenough
+717,717,Pasadena Polytechnic
+718,718,Holland Hall
+719,719,Danbury
+720,720,"Phillips Academy, Andover"
+721,721,Francis Parker School
+722,722,Hilton Head Island High School
+723,723,Oakwood High School
+724,724,Grosse Pointe Woods North
+725,725,Cosby
+726,726,Rhinebeck
+727,727,Sacred Heart
+728,728,William Fremd High
+729,729,Strath Haven HS
+730,730,Mercer Island
+731,731,Kantonsschule Hohe Promenade
+732,732,Lakewood
+733,733,Gonzaga Prep
+734,734,Llantwit Major School
+735,735,Geelong Grammar
+736,736,Etiwanda
+737,737,Salisbury
+738,738,Kamiak High School
+739,739,Fairview
+740,740,Clearwater High School
+741,741,Villa Maria Academy
+742,742,Garrison Forest
+743,743,Evanston Township
+744,744,North American Hockey Academy
+745,745,Waterford
+746,746,Salisbury School
+747,747,Saints Peter and Paul
+748,748,Hathaway Brown
+749,749,Walt Whitman
+750,750,Harpeth Hall
+751,751,University Liggett School
+752,752,Georgetown Visitation Prep High School
+753,753,Lampeter Strasburg HS
+754,754,Hopkins School
+755,755,Madison
+756,756,Tower Hill School
+757,757,St. Ann's School
+758,758,Watchung Hills Regional High School
+759,759,Carondelet
+760,760,Bishop Guertin High School
+761,761,Middlesex
+762,762,Clifton
+763,763,Onteora High School
+764,764,Oak Park and River Forest
+765,765,Homesdale High School
+766,766,ProCivitas Privata Gymnasium
+767,767,Saint Charles East
+768,768,Burlington-Edison
+769,769,Shawnee Mission South
+770,770,Charters School
+771,771,Fort Bend Stephen F. Austin H.S.
+772,772,Winston Churchill High School
+773,773,Westborough High School
+774,774,Piedmont
+775,775,St. Stephen & St. Agnes
+776,776,Dana Hills H.S.
+777,777,James Madison Memorial
+778,778,St. Augustine
+779,779,Walt Whitman High School
+780,780,Stevens High School
+781,781,Trinity
+782,782,Randolph
+783,783,Kent Place School
+784,784,Northern Burlington
+785,785,Whitney
+786,786,Sycamore
+787,787,Homestead
+788,788,Alverno
+789,789,Kutztown
+790,790,Castilleja
+791,791,Sacred Heart Preparatory School
+792,792,Perkiomen Valley
+793,793,Robert Service
+794,794,West Chester East HS
+795,795,Shoreham-Wading River
+796,796,Garden City
+797,797,Menlo Atherton
+798,798,Regis Jesuit
+799,799,Ocean City
+800,800,Misson Viejo
+801,801,Oak Meadow
+802,802,Andover
+803,803,Elizabethton
+804,804,Dubuque (USHL)
+805,805,Polytechnic
+806,806,San Francisco University High School
+807,807,Dana Hills
+808,808,Union
+809,809,Derryfield
+810,810,Ardsley
+811,811,Spring Valley
+812,812,Loyola Academy
+813,813,Maryvale Prep
+814,814,Johns Burroughs
+815,815,Saffron Walden County
+816,816,Pymble Ladies' College
+817,817,Half Hollows Hills West
+818,818,Northwest
+819,819,San Clemente
+820,820,Bloomfield
+821,821,Loyola High School
+822,822,Seattle Prep
+823,823,Birdville High School
+824,824,Wayland Academy
+825,825,Mid-Pacific
+826,826,Boston College
+827,827,Rumson-Fair Haven Regional High School
+828,828,Glenbrook North
+829,829,Tahoe-Truckee High School
+830,830,James Madison
+831,831,Bloomington North
+832,832,Doherty
+833,833,Junipero Serra High School
+834,834,Sheldon School
+835,835,Lowell
+836,836,The Bishop's School
+837,837,Dartmouth High School
+838,838,Trinity School
+839,839,Wilton High
+840,840,Ward Melville
+841,841,Loreto Normanhurst
+842,842,Lake Forest Academy
+843,843,Bow
+844,844,Belen Jesuit Prep
+845,845,The Koc School
+846,846,Bronx School of Science
+847,847,Littleton
+848,848,William Penn Charter
+849,849,St. Clement's
+850,850,Collegiate Academy
+851,851,Antilles School
+852,852,W. Windsor Plainsboro South
+853,853,San Joaquin Memorial
+854,854,Apollo
+855,855,Bishop Moore
+856,856,C.E. Byrd H.S.
+857,857,William R. Boone
+858,858,Moorestown
+859,859,Newton North
+860,860,Greenhill School
+861,861,Notre Dame-West Haven
+862,862,Saint John's
+863,863,Chaminade College Preparatory
+864,864,Rice Memorial
+865,865,John F. Kennedy Catholic
+866,866,Chapin
+867,867,King City Secondary School
+868,868,Glenbrook North Senior
+869,869,German School of Stockholm
+870,870,Needham
+871,871,Anacortes
+872,872,Somerville House
+873,873,Skaneateles
+874,874,Harding Charter
+875,875,The Fieldston School
+876,876,Beal City
+877,877,Bellevue High School
+878,878,Becket Upper School
+879,879,St. Margaret's
+880,880,Anglican Church Grammar
+881,881,Rotorua Boys' High School
+882,882,Christ Church Episcopal
+883,883,King's
+884,884,Corona Del Mar High
+885,885,Castilleja School
+886,886,Cedar Park Christian - Bothell
+887,887,Los Gatos
+888,888,Sigrid Rudebecks
+889,889,Munich International School
+890,890,Miramonte
+891,891,New Canaan
+892,892,Lincoln
+893,893,Dover – Sherborn High School
+894,894,Lincoln-Sudbury Regional
+895,895,Martin Luther King
+896,896,Millfield School
+897,897,Flatow-Oberschule
+898,898,Montclair
+899,899,Brynteg Comprehensive School
+900,900,Yorktown
+901,901,Hoover
+902,902,Antilles
+903,903,Millburn High School
+904,904,St. Mary's Academy
+905,905,Taft
+906,906,Washington International School
+907,907,Washington Lee
+908,908,The Brearley School
+909,909,St Paul’s Girls’ School
+910,910,Cambridge Rindge and Latin
+911,911,Ladies College
+912,912,Collegiate School
+913,913,Kingwood Park
+914,914,Long Beach Poly High School
+915,915,Brebeuf Jesuit
+916,916,La Reina
+917,917,New London
+918,918,Sioux Falls (USHL)
+919,919,San Marino
+920,920,St. Ignatius College Prepatory
+921,921,Staples
+922,922,Fairfax
+923,923,Eastport-South Manor
+924,924,Saint Thomas Academy
+925,925,Brentwood
+926,926,Radnor High School
+927,927,Germantown
+928,928,The King's School
+929,929,John Burroughs School
+930,930,Cretin-Derham Hall
+931,931,Taft School
+932,932,New Canaan HS
+933,933,Princess Anne
+934,934,Thousand Oaks
+935,935,Oakridge Secondary School
+936,936,Park City
+937,937,Ooltewah
+938,938,Southmoore
+939,939,Hanover
+940,940,Manheim Township
+941,941,Salpointe
+942,942,Toms River High School South
+943,943,Jefferson Senior
+944,944,Richmond
+945,945,Corona del Mar
+946,946,Woodbridge
+947,947,Coppell High School
+948,948,Cherry Creek
+949,949,Hun School of Princeton
+950,950,Pomfret
+951,951,Charles Allen High School
+952,952,The Bolles School
+953,953,The Blake High School
+954,954,Crestwood
+955,955,Dublin-Coffman
+956,956,Vero Beach High School
+957,957,Briarcrest Christian
+958,958,Terra Linda
+959,959,Sandpoint (ID)/Loomis Chaffee
+960,960,University School
+961,961,Redwood High School
+962,962,Ridgefield High School
+963,963,O'Dea
+964,964,Latymer Upper
+965,965,Decatur
+966,966,Palmer Ridge
+967,967,Lakeside
+968,968,Staples High School
+969,969,Grosse Pointe North
+970,970,Middlesex School
+971,971,Choate
+972,972,Pope John Paul II
+973,973,Marquette
+974,974,Palatine
+975,975,Melbourne High School
+976,976,Edge School
+977,977,Mount Carmel
+978,978,Healdsburg
+979,979,College Preparatory School
+980,980,Sunny Hills
+981,981,New Haven Academy
+982,982,Xavier College Preparatory
+983,983,Rivers
+984,984,Shawnee Mission E.
+985,985,Harvard Westlake School
+986,986,Christian Brothers Academy
+987,987,Lone Peak
+988,988,Abingdon High School
+989,989,Saint John Bosco
+990,990,Corvallis
+991,991,Thornridge (IL)
+992,992,Atlantic College
+993,993,Farmington
+994,994,Suffern
+995,995,Oakville
+996,996,The Whitfield School
+997,997,Loveless Academic Magnet Program High School
+998,998,Towson
+999,999,Gunn
+1000,1000,Cowichan (BCJHL)
+1001,1001,Quesnel Millionaires
+1002,1002,Boylan Catholic
+1003,1003,Canon-McMillan
+1004,1004,Greensburg Central
+1005,1005,Westfield
+1006,1006,North Gwinnett
+1007,1007,The Rivers School
+1008,1008,Tatnall School
+1009,1009,Winchester
+1010,1010,Havergal College
+1011,1011,St. Mark
+1012,1012,Northern
+1013,1013,Moses Brown High School
+1014,1014,Thousand Oaks High School
+1015,1015,University High School
+1016,1016,George W. Hewlett
+1017,1017,Foothill
+1018,1018,Scotch Plains-Fanwood
+1019,1019,Wheatley
+1020,1020,Earl of March Secondary School
+1021,1021,Head-Royce School
+1022,1022,Sacred Heart Prep
+1023,1023,Okotoks (AJHL)
+1024,1024,Eisenhower
+1025,1025,West
+1026,1026,Dr. Phillips HS
+1027,1027,South Gate
+1028,1028,North Reading High School
+1029,1029,Exeter
+1030,1030,Tampa Prep
+1031,1031,Centerville High School
+1032,1032,St. Joseph
+1033,1033,Buhler High School
+1034,1034,Holmdel HS
+1035,1035,Ruben S Ayala
+1036,1036,Central Bucks South
+1037,1037,Choate Rosemary Academy
+1038,1038,St. Ignatius Prep
+1039,1039,Edinburg
+1040,1040,West Plains
+1041,1041,Downers Grove South
+1042,1042,Wakeland
+1043,1043,Hunter College High School
+1044,1044,Bronx High School of Science
+1045,1045,Sayville
+1046,1046,North Carolina School of Science and Mathematics
+1047,1047,Sacred Heart Cathedral
+1048,1048,Norfolk Academy
+1049,1049,Pine Crest School
+1050,1050,Sioux City (USHL)
+1051,1051,Lake Forest High School
+1052,1052,H.B. Plant High School
+1053,1053,Fargo Force/Dubuque (USHL)
+1054,1054,Twinsburg
+1055,1055,Amity Regional
+1056,1056,Bellevue
+1057,1057,Smithtown East
+1058,1058,Dos Pueblos
+1059,1059,Moorsetown Friends School
+1060,1060,Central Springs
+1061,1061,U.S. National Team
+1062,1062,Shelby County
+1063,1063,Pinkerton Academy
+1064,1064,Avon Lake
+1065,1065,Greenhills School
+1066,1066,Rockhurst
+1067,1067,Madison HS
+1068,1068,Chestnut Hill Academy
+1069,1069,Sacred Heart Prepatory
+1070,1070,Gilman
+1071,1071,Langley
+1072,1072,Hopkins
+1073,1073,St. Anthony's High School
+1074,1074,Methodist College Belfast
+1075,1075,Anderson
+1076,1076,St. Rita
+1077,1077,Charterhouse
+1078,1078,East Greenwich
+1079,1079,Hunterdon Central Regional
+1080,1080,Charterhouse School
+1081,1081,Mariemont
+1082,1082,Wayzata
+1083,1083,Wauwatosa East
+1084,1084,Crystal Springs Uplands
+1085,1085,Wethersfield
+1086,1086,Riverdale
+1087,1087,Ostrovsky
+1088,1088,Arcadia High School
+1089,1089,Hopkinton
+1090,1090,Frank W Cox High School
+1091,1091,Harrow School
+1092,1092,West Islip
+1093,1093,Wyoming
+1094,1094,duPont Manual
+1095,1095,Worthington Kilbourne
+1096,1096,St. Paul's School (NH)
+1097,1097,Palos Verdes
+1098,1098,Providence Catholic
+1099,1099,Bloomington
+1100,1100,Palo Alto/Mercersburg Academy (PA)
+1101,1101,Lawrence Central
+1102,1102,Colleyville Heritage
+1103,1103,Midland High
+1104,1104,Thomas S. Wootton High School
+1105,1105,Academia del Perpetuo Socorro
+1106,1106,Gonzaga
+1107,1107,Alexis I. DuPont High School
+1108,1108,Joel Braverman High School
+1109,1109,Dublin Coffman
+1110,1110,Methodist College
+1111,1111,Minisink Valley
+1112,1112,Boston University Academy
+1113,1113,"Desmoines, Chicago (USHL)"
+1114,1114,Desert Vista
+1115,1115,Kings
+1116,1116,Fossil Ridge High School
+1117,1117,East Wake
+1118,1118,The Sanford School
+1119,1119,Bellaire Senior High School
+1120,1120,Ladue Horton Watkins
+1121,1121,Bishop Moore Catholic
+1122,1122,Albany High School
+1123,1123,Seventy First
+1124,1124,Robbinsville High School
+1125,1125,Davis
+1126,1126,Lady Eleanor Holles
+1127,1127,Galena
+1128,1128,The Baldwin School
+1129,1129,Riverdale Country
+1130,1130,St. John's School
+1131,1131,Kuper Academy
+1132,1132,Valdosta
+1133,1133,Ursuline Academy
+1134,1134,Hersey
+1135,1135,Villa Maria
+1136,1136,Elmwood Girls School
+1137,1137,Timothy Christian School
+1138,1138,Allegany
+1139,1139,Sidwell Friends School
+1140,1140,Plainfield
+1141,1141,Kings Park
+1142,1142,Cold Spring Harbor High School
+1143,1143,West Ranch
+1144,1144,Raffles Junior College
+1145,1145,Green Mountain
+1146,1146,Orange Lutheran
+1147,1147,Kamehameha Schools Maui
+1148,1148,Peninsula
+1149,1149,Roland Park
+1150,1150,Horace Greeley High School
+1151,1151,Horace Greeley
+1152,1152,Mira Costa
+1153,1153,Ruben S. Ayala
+1154,1154,La Costa Canyon
+1155,1155,Spence School
+1156,1156,Pine View
+1157,1157,Wilton
+1158,1158,Country Day School
+1159,1159,Laurel Hill Colaiste
+1160,1160,Berkeley Prep
+1161,1161,Saline
+1162,1162,Amity High School
+1163,1163,The Taft School
+1164,1164,Suffern High School
+1165,1165,Mt. Tabor High School
+1166,1166,Philips Andover
+1167,1167,Pelham Memorial
+1168,1168,Lycee Francois 1er
+1169,1169,The Branson School
+1170,1170,Montverde Academy
+1171,1171,Westtown School
+1172,1172,Bloomington High School North
+1173,1173,Academy for the Advancement of Science & Tech.
+1174,1174,Andover HS
+1175,1175,Saint Ann's School
+1176,1176,Fallbrook Union
+1177,1177,Hershey
+1178,1178,Esperanza
+1179,1179,St. Andrew's Episcopal School
+1180,1180,Lincoln Sudbury
+1181,1181,Duxbury
+1182,1182,Briarcliff
+1183,1183,Skyview
+1184,1184,Singapore American School
+1185,1185,Manchester Essex
+1186,1186,Trumbull
+1187,1187,La Mirada
+1188,1188,Glen A. Wilson
+1189,1189,Sewickley
+1190,1190,Campolindo
+1191,1191,C. Milton Wright
+1192,1192,Saint Pius X High School
+1193,1193,Cold Spring Harbor
+1194,1194,Oakmont
+1195,1195,Redlands
+1196,1196,Archbishop Mitty
+1197,1197,Ferris
+1198,1198,Hempfield
+1199,1199,Marian
+1200,1200,Washburn Rural
+1201,1201,Lakeland Union
+1202,1202,Mahwah
+1203,1203,Garfield
+1204,1204,Fort Myers High School
+1205,1205,Loyola Blakefield
+1206,1206,South Side
+1207,1207,Bullard
+1208,1208,Shorecrest
+1209,1209,Cranford
+1210,1210,Christian Brothers College Monkstown
+1211,1211,Wall
+1212,1212,Ballard
+1213,1213,Niskayuna High School
+1214,1214,Trail Smoke Eaters (BCHL)
+1215,1215,Laguna Blanca
+1216,1216,Delbarton
+1217,1217,Spruce Grove Saints (AJHL)
+1218,1218,Saint Stephen's Episcopal
+1219,1219,Gadsden City
+1220,1220,International Connections Academy
+1221,1221,Central Newcastle
+1222,1222,Okemos HS
+1223,1223,Corona del Mar High School
+1224,1224,Westminster School
+1225,1225,Selinsgrove Area
+1226,1226,Horace Mann
+1227,1227,Shawnee Mission South High School
+1228,1228,All Saints
+1229,1229,Burnaby Central
+1230,1230,Northside College Prep HS
+1231,1231,Stone Bridge
+1232,1232,Choate Rosemary
+1233,1233,The John Cooper School
+1234,1234,Poly Prep
+1235,1235,Manchester West
+1236,1236,Buffalo Seminary
+1237,1237,Marysville
+1238,1238,Wayland Weston
+1239,1239,Hockaday School
+1240,1240,Claremont
+1241,1241,Mamaroneck
+1242,1242,H.H.H. High School West
+1243,1243,The John Carroll School
+1244,1244,Cottonwood
+1245,1245,Hopewell High School
+1246,1246,Pequannock Township
+1247,1247,St. Christopher's School
+1248,1248,Ferndale
+1249,1249,Nelson
+1250,1250,St. Josephs
+1251,1251,Burbank
+1252,1252,Los Altos
+1253,1253,Laurel Springs School
+1254,1254,Grapevine
+1255,1255,Nolan Catholic
+1256,1256,Bellarmine College Prep
+1257,1257,Whitefish Bay
+1258,1258,Hill-Murray
+1259,1259,Menlo School
+1260,1260,Lakeview HS
+1261,1261,Cherry Hill East
+1262,1262,Upper Dublin
+1263,1263,Mamaroneck High School
+1264,1264,Humble
+1265,1265,Franklin Road Academy
+1266,1266,Greenwich High School
+1267,1267,Bellingham
+1268,1268,Monta Vista
+1269,1269,Potomac
+1270,1270,Westridge
+1271,1271,Winchester HS
+1272,1272,Highland Park High School
+1273,1273,Bishop Fenwick
+1274,1274,York School
+1275,1275,Penn Manor
+1276,1276,Eastlake High School
+1277,1277,St. Mary's of Annapolis
+1278,1278,Oaks Christian
+1279,1279,Nobles School
+1280,1280,Lake Braddock
+1281,1281,American College of Sofia
+1282,1282,Ross Shepard High School
+1283,1283,St. Francis High School
+1284,1284,Woodrow Wilson High School
+1285,1285,University Prep
+1286,1286,Bergen County Academies
+1287,1287,Bernardsville High School
+1288,1288,Valley
+1289,1289,Cary-Grove
+1290,1290,Murrieta Valley
+1291,1291,Kamiak
+1292,1292,Iolani
+1293,1293,Red Bank Catholic
+1294,1294,Acton Boxborough
+1295,1295,Columbus Academy
+1296,1296,West Windsor-Plainsboro South
+1297,1297,Madera HS
+1298,1298,Adlai E. Stevenson High School
+1299,1299,Wauntosa East
+1300,1300,San Francisco Waldorf
+1301,1301,St. Stephens & St. Agnes
+1302,1302,Northampton School
+1303,1303,Medfield
+1304,1304,Tamalpais
+1305,1305,Crossroads School
+1306,1306,Central Catholic High School
+1307,1307,Pine Crest
+1308,1308,Carroll Sr.
+1309,1309,Cramlington Learning Village
+1310,1310,Wheeler
+1311,1311,LaGuardia High School
+1312,1312,Northwood
+1313,1313,LaSalle College High School
+1314,1314,Brookline H.S.
+1315,1315,Markham District
+1316,1316,Falmouth Academy
+1317,1317,Westlake High School
+1318,1318,Sandia Preparatory School
+1319,1319,Rocklin
+1320,1320,La Jolla
+1321,1321,The Ursuline School
+1322,1322,Spring Ford
+1323,1323,Page
+1324,1324,Barrington
+1325,1325,Ecclesbourne
+1326,1326,Ursuline School
+1327,1327,San Ramon
+1328,1328,Marjory Stoneman Douglas
+1329,1329,St. Paul's School For Girls
+1330,1330,Glen Ridge
+1331,1331,East Hampton
+1332,1332,Tower Hill
+1333,1333,Stuyvesant
+1334,1334,Athol Murray College of Notre Dame
+1335,1335,St. Mark's School
+1336,1336,DeMatha Catholic
+1337,1337,Wellington
+1338,1338,Peak to Peak
+1339,1339,Redwood
+1340,1340,Southfield School
+1341,1341,Bryn Mawr School
+1342,1342,Kent School
+1343,1343,Bay School
+1344,1344,Burr and Burton Academy
+1345,1345,Mahindra UWC of India
+1346,1346,Methodist High School
+1347,1347,Demarest
+1348,1348,Visitation Academy
+1349,1349,Forest Hills Northern High School
+1350,1350,Pendleton
+1351,1351,Bergen Catholic High School
+1352,1352,New Trier HS
+1353,1353,Wootton
+1354,1354,Vista
+1355,1355,Technical
+1356,1356,Southampton
+1357,1357,Shady Side
+1358,1358,Academy of Richmond County
+1359,1359,Nightingale-Bamford
+1360,1360,Memorial
+1361,1361,Independence High
+1362,1362,Charter School
+1363,1363,Lake Highland
+1364,1364,W.T. Woodson
+1365,1365,Midlothian
+1366,1366,The Woodlands Christian Academy
+1367,1367,Loy Norrix
+1368,1368,St. Andrews School
+1369,1369,Institute Le Rosey
+1370,1370,Seven Lakes High School
+1371,1371,"Northwest Catholic, Salisbury School"
+1372,1372,Acalanes High School
+1373,1373,Ridgefield
+1374,1374,Farmington High School
+1375,1375,Kloof
+1376,1376,Bloomington (USHL)
+1377,1377,Valparaiso
+1378,1378,Southington
+1379,1379,North Myrtle Beach
+1380,1380,Novi High School
+1381,1381,Lafayette
+1382,1382,Hillsborough
+1383,1383,Haddonfield Memorial
+1384,1384,Maine South
+1385,1385,Lake Mary
+1386,1386,Voorhees
+1387,1387,Phillips Exeter (NH)
+1388,1388,Grayslake Central
+1389,1389,Granite Bay
+1390,1390,JJ Pearce
+1391,1391,University of Chicago Lab
+1392,1392,Midland Park High School
+1393,1393,Tauranga Boys' College
+1394,1394,St George's
+1395,1395,Wellesley High School
+1396,1396,William Fremd
+1397,1397,Anthony Wayne
+1398,1398,Holy Spirit
+1399,1399,St. George's
+1400,1400,St. John's Prep
+1401,1401,South Burlington
+1402,1402,Incarnate Word
+1403,1403,El Segundo
+1404,1404,Northgate High School
+1405,1405,North Allegheny
+1406,1406,Gulliver Prep
+1407,1407,Wilbur Cross H.S.
+1408,1408,Saint Xavier
+1409,1409,Shattuck St. Mary’s
+1410,1410,Hackettstown
+1411,1411,The Phillips Exeter Academy
+1412,1412,Norman
+1413,1413,Carroll
+1414,1414,Cicero-North Syracuse
+1415,1415,Marlborough
+1416,1416,Smithville
+1417,1417,Highlands Ranch
+1418,1418,The Hockaday School
+1419,1419,Courtice Secondary School
+1420,1420,Immaculate Heart
+1421,1421,Clear Lake
+1422,1422,Pine Creek High School
+1423,1423,Centaurus High School
+1424,1424,Sanford H. Calhoun
+1425,1425,Oaks Christian High School
+1426,1426,Beverly
+1427,1427,Springbank
+1428,1428,Serrano High School
+1429,1429,Franklin
+1430,1430,Collingwood Collegiate Institute
+1431,1431,Bronxville High School
+1432,1432,Walt Whitman HS
+1433,1433,Ozel Istanbul Cevre Lisesi
+1434,1434,Gwynedd Mercy Academy
+1435,1435,St. Cecilia Academy
+1436,1436,Mead Senior High School
+1437,1437,St. Mary's
+1438,1438,St. Mark's
+1439,1439,Bethel Park Senior
+1440,1440,McDonogh School
+1441,1441,The Woodlands
+1442,1442,Mt. Tabor
+1443,1443,Boston College High School
+1444,1444,Smoky Hill
+1445,1445,Westview
+1446,1446,Riverdale Country School
+1447,1447,Joseph Wheeler High School
+1448,1448,Holy Ghost Preparatory School
+1449,1449,Carey
+1450,1450,Mt. Sinai
+1451,1451,Los Osos
+1452,1452,Friendswood
+1453,1453,Amity Regional High School
+1454,1454,The Browning School
+1455,1455,Granite Hills
+1456,1456,Providence High School
+1457,1457,Foran
+1458,1458,University of Toronto Schools
+1459,1459,Peponi Secondary School
+1460,1460,Horace Mann High School
+1461,1461,St. Christopher's
+1462,1462,New Trier High School
+1463,1463,Wilde Lake High School
+1464,1464,Olentangy
+1465,1465,Commack
+1466,1466,New Britain
+1467,1467,Jersey Village High School
+1468,1468,Gaither
+1469,1469,Thomas Jefferson HS of Science/Technology
+1470,1470,St. Paul's
+1471,1471,Bedford
+1472,1472,Morgan Park Academy
+1473,1473,Buckingham Brown and Nichols
+1474,1474,Waterloo Black Hawks (USHL)
+1475,1475,Black River Public School
+1476,1476,Plano
+1477,1477,Viewpoint HS/ Suffield Academy
+1478,1478,Lawrence Free State
+1479,1479,Maine-Endwell
+1480,1480,John F. Kennedy HS
+1481,1481,Glenville
+1482,1482,Wheaton Academy
+1483,1483,The Lakeside School
+1484,1484,Charlotte Country Day
+1485,1485,Archbishop Spalding
+1486,1486,LaJolla High School
+1487,1487,Cathedral & John Connon School
+1488,1488,The Hopkins School
+1489,1489,Tesoro
+1490,1490,Mounds View
+1491,1491,Santa Barbara High School
+1492,1492,Baldwin
+1493,1493,John Burroughs H.S.
+1494,1494,Governor Livingston High School
+1495,1495,Brattleboro Union
+1496,1496,Roncalli
+1497,1497,Sierra H.S.
+1498,1498,Bismarck (NAHL)
+1499,1499,Hotchkiss (CT)
+1500,1500,Coronado
+1501,1501,Grissom
+1502,1502,Waterford High School
+1503,1503,E.C. Glass
+1504,1504,St. Alban's School
+1505,1505,Boston Latin Academy
+1506,1506,Shorecrest Preparatory Academy
+1507,1507,Ronald Reagan
+1508,1508,Patrick Henry High School
+1509,1509,Lick-Wilmerding
+1510,1510,Luisenschule - Gymnasium der Stadt Mülheim a.d. Ruhr
+1511,1511,Herricks High School
+1512,1512,Huron
+1513,1513,Shattuck St. Mary's (Minn.)
+1514,1514,Massapequa
+1515,1515,Elder
+1516,1516,Pine View School
+1517,1517,Tri-city Storm (USHL)
+1518,1518,Tri-City (USHL)
+1519,1519,The Brunswick School
+1520,1520,Winchendon
+1521,1521,L.V. Berkner
+1522,1522,Flushing
+1523,1523,Raffles Institution
+1524,1524,Baldwin School
+1525,1525,Fontainebleau
+1526,1526,Brentwood College School
+1527,1527,Pt. Pleasant Beach
+1528,1528,Gorham
+1529,1529,Benjamin Franklin
+1530,1530,Mahindra UWC (India)
+1531,1531,Bedford High School
+1532,1532,Cambridge High School
+1533,1533,American School in London
+1534,1534,Poolesville High School
+1535,1535,Wesley College
+1536,1536,West Geauga High School
+1537,1537,Cascia Hall
+1538,1538,Clayton
+1539,1539,Montgomery Bell
+1540,1540,Okemos
+1541,1541,St. Anthony's
+1542,1542,Choptican
+1543,1543,Schaumburg
+1544,1544,Providence Academy
+1545,1545,Chopticon
+1546,1546,Cowichan Valley (BCHL)
+1547,1547,Wylie High School (Texas)
+1548,1548,Institution des Chartreux
+1549,1549,Kingswood Oxford
+1550,1550,Crnjanski High School
+1551,1551,Hunter
+1552,1552,Twyford Church of England High School
+1553,1553,Gilman HS
+1554,1554,St. Rita of Cascia
+1555,1555,Hackley
+1556,1556,Gilman School
+1557,1557,Academy for Advancement of Science & Technology
+1558,1558,Greenhills
+1559,1559,Fayetteville-Manlius High School
+1560,1560,The Calverton School
+1561,1561,Upper Arlington
+1562,1562,English School
+1563,1563,St. John's College
+1564,1564,Melbourne Grammar School
+1565,1565,DeLand
+1566,1566,Huntsville
+1567,1567,Kent Denver School
+1568,1568,Hebron High School
+1569,1569,Harvard-Westlake School
+1570,1570,School of the Holy Child
+1571,1571,Strongsville
+1572,1572,Metuchen High School
+1573,1573,Spruce Creek
+1574,1574,Korah Collegiate and Vocational
+1575,1575,Global Christian Foreign School
+1576,1576,Mundelein
+1577,1577,Portsmouth
+1578,1578,Eton
+1579,1579,De La Salle College
+1580,1580,Beechwood
+1581,1581,Fauquier High School
+1582,1582,Westfield Senior
+1583,1583,Sharon
+1584,1584,Northampton
+1585,1585,Marvin Ridge
+1586,1586,Hall
+1587,1587,International School of Manila
+1588,1588,Trinity Pawling
+1589,1589,Columbia River
+1590,1590,Faith Lutheran
+1591,1591,La Canada
+1592,1592,Herschel Girls School
+1593,1593,Parktown Boys' High School
+1594,1594,Fox Lane
+1595,1595,Cathedral
+1596,1596,John Carroll Catholic
+1597,1597,Joel Barlow High School
+1598,1598,Jesuit Prep
+1599,1599,Westlake H.S.
+1600,1600,Robert E. Lee
+1601,1601,Chamblee
+1602,1602,Anglican Church Grammar School
+1603,1603,Bolles
+1604,1604,Pittwater House
+1605,1605,Rye Country Day School
+1606,1606,Bishop George Ahr
+1607,1607,Olinda
+1608,1608,Peddie School (NJ) and Diocesan Boys' School (HK)
+1609,1609,North Catholic
+1610,1610,Millard West
+1611,1611,The Peddie School
+1612,1612,Central Bucks H.S. West
+1613,1613,DeWitt Clinton
+1614,1614,College Du Leman
+1615,1615,Menlo-Atherton
+1616,1616,Bryam Hills
+1617,1617,East Chapel Hill High School
+1618,1618,St. John Bosco
+1619,1619,Camrose (AJHL)
+1620,1620,Petaluma High School
+1621,1621,Moon Area
+1622,1622,Carroll High School
+1623,1623,Chaminade Prep
+1624,1624,Dover
+1625,1625,Indiana Ice (USHL)
+1626,1626,Putney
+1627,1627,Bishop Eustace
+1628,1628,Wayland
+1629,1629,The Ethical Culture Fieldston School
+1630,1630,Sir Robert Borden
+1631,1631,Lake Forest HS
+1632,1632,Ysgol Gyfun Gartholwg
+1633,1633,Mercersburg Academy
+1634,1634,Brunswick Academy
+1635,1635,Worcester Academy
+1636,1636,Eugene
+1637,1637,Governor John Rogers
+1638,1638,Seekonk
+1639,1639,Oregon Episcopal
+1640,1640,Georgetown Day School
+1641,1641,Kingswood Regional High School
+1642,1642,Holy Name of Mary
+1643,1643,Whitewater
+1644,1644,Orem High
+1645,1645,University School of Milwaukee Mil
+1646,1646,Lynbrook
+1647,1647,Hank Haney IJGA/Heritage Academy
+1648,1648,Sir. William Perkin's School
+1649,1649,Lyme-Old Lyme
+1650,1650,Plant
+1651,1651,Falmouth High School
+1652,1652,Altamont
+1653,1653,Ramapo H.S.
+1654,1654,Wilton High School
+1655,1655,Southern Cayuga Central
+1656,1656,Ransom Everglades Upper School
+1657,1657,St. Thomas Aquinas High School
+1658,1658,Chase Collegiate
+1659,1659,The Tathall School
+1660,1660,Northern Highlands Regional
+1661,1661,Lincoln-Sudbury Regional HS
+1662,1662,Chilton
+1663,1663,Alameda
+1664,1664,Dalton
+1665,1665,Great Neck North
+1666,1666,Monsignor Paul Dwyer Catholic
+1667,1667,Latymer Upper School
+1668,1668,Edmond Memorial
+1669,1669,Glebe Collegiate Institute
+1670,1670,Pope John XIII High School
+1671,1671,Central Dauphin
+1672,1672,St. Andrews
+1673,1673,Newark High School
+1674,1674,Hopkins Academy
+1675,1675,Cheshire
+1676,1676,American School
+1677,1677,Bilkent Laboratory and International School
+1678,1678,International School of Geneva Campus des Nations
+1679,1679,Grossmont High
+1680,1680,Pomperaug
+1681,1681,Tullahoma
+1682,1682,Weymouth
+1683,1683,Cienega
+1684,1684,Algonac High School
+1685,1685,Broward Virtual School
+1686,1686,Winston Churchill High
+1687,1687,Hwa Kong Institution
+1688,1688,The Cherwell School
+1689,1689,Harker
+1690,1690,Modern
+1691,1691,Pärnu Koidula Gümnaasium
+1692,1692,Xavier College
+1693,1693,Concord-Carlisle High School
+1694,1694,Ecole Active Bilingue
+1695,1695,Great Neck South
+1696,1696,Saucon Valley High School
+1697,1697,Hastings
+1698,1698,Olympia High School
+1699,1699,La Canada High School
+1700,1700,Queenwood
+1701,1701,Franco-Cité
+1702,1702,Locust Valley
+1703,1703,Blessed Trinity Catholic
+1704,1704,Massaponax High School
+1705,1705,B. Reed Henderson
+1706,1706,Fox Chapel High
+1707,1707,Grimsby District Secondary School
+1708,1708,Ft. Myers
+1709,1709,Ashbury College
+1710,1710,Shepaug Valley High School
+1711,1711,Alexander von Humboldt
+1712,1712,Watertown
+1713,1713,Whittier High
+1714,1714,Methodist Ladies College
+1715,1715,John P. Stevens
+1716,1716,Concord-Carlisle HS
+1717,1717,The Overlake School
+1718,1718,East Lake
+1719,1719,Indian Springs
+1720,1720,The Potomac School
+1721,1721,Carlsbad
+1722,1722,Seton-LaSalle
+1723,1723,Loyola Blakefield High School
+1724,1724,Lancaster Catholic
+1725,1725,Lee's Summit North
+1726,1726,Academy of Allied Health and Science
+1727,1727,Cedar Rapids Roughriders (USHL)
+1728,1728,Miramonte HS
+1729,1729,Monte Vista
+1730,1730,Richard Montgomery
+1731,1731,Fairfield
+1732,1732,Bentley School
+1733,1733,Detroit Country Day School
+1734,1734,Nansemond River
+1735,1735,Loretto Academy
+1736,1736,Chamblee Charter High School
+1737,1737,Alliance
+1738,1738,Eiko Gakuen High School
+1739,1739,Menlo-Atherton High School
+1740,1740,Lassiter High School
+1741,1741,Portledge School
+1742,1742,West Morris Mendham
+1743,1743,West Island College
+1744,1744,Michael J. Petrides School
+1745,1745,El Rancho
+1746,1746,Ransom Everglades High School
+1747,1747,Pinnacle
+1748,1748,Cardinal Gibbons
+1749,1749,Cleveland Hills
+1750,1750,University City
+1751,1751,Douglas County
+1752,1752,Morris Hills High School
+1753,1753,Ursula Franklin Academy
+1754,1754,Inglemoor
+1755,1755,Ponderosa
+1756,1756,Marymount
+1757,1757,George School
+1758,1758,Pymble Ladies
+1759,1759,Pioneer
+1760,1760,New Milford High School
+1761,1761,Beacon
+1762,1762,Wyoming Seminary
+1763,1763,Horace Mann School
+1764,1764,Vernon Hills High
+1765,1765,Tolland
+1766,1766,Abingdon
+1767,1767,Rockhurst High School
+1768,1768,Omro
+1769,1769,MICDS
+1770,1770,South Windsor
+1771,1771,Acton-Boxborough Regional High School
+1772,1772,Gill St. Bernard's
+1773,1773,The Haverford School
+1774,1774,Xavier
+1775,1775,T.C. Williams
+1776,1776,The Gilman School
+1777,1777,Sparta High
+1778,1778,Torrington
+1779,1779,DuPont Manual
+1780,1780,Valencia
+1781,1781,Appleton North High School
+1782,1782,Canada Prep Academy
+1783,1783,Camp Hill
+1784,1784,El Dorado
+1785,1785,Marin Academy
+1786,1786,Walter M. Williams
+1787,1787,River Dell
+1788,1788,National Cathedral
+1789,1789,Catlin Gabel School
+1790,1790,Lake Highland Prep
+1791,1791,127 SOU Ivan Denkoglu
+1792,1792,Canton
+1793,1793,Middleton
+1794,1794,Rocky Mountain
+1795,1795,Cameron Heights Collegiate
+1796,1796,Baldwin Senior
+1797,1797,Greenhill
+1798,1798,United World College of the Adriatic
+1799,1799,Choate Rosemary Hall (Conn.)
+1800,1800,Roswell
+1801,1801,Fair Lawn
+1802,1802,Skaneatales
+1803,1803,Pasack Valley
+1804,1804,Oyster Bay
+1805,1805,Pomfret School
+1806,1806,Seven Oaks School
+1807,1807,St. Luke's
+1808,1808,Headington School
+1809,1809,De La Salle
+1810,1810,Plymouth
+1811,1811,W.P. Davidson
+1812,1812,Wharton
+1813,1813,San Pasqual
+1814,1814,South Fayette Township Jr/Sr HS
+1815,1815,Penn
+1816,1816,Elkin
+1817,1817,Governor Livingston
+1818,1818,Collegiate
+1819,1819,Lakota East
+1820,1820,Diamond Ranch
+1821,1821,Ladue
+1822,1822,Thayer Academy
+1823,1823,Lincoln (USHL)
+1824,1824,Greenwich
+1825,1825,Roxbury Latin School
+1826,1826,St. Andrews Episcopal
+1827,1827,Martin County High School
+1828,1828,Hershey High School
+1829,1829,Watkins Mill
+1830,1830,Hampton Roads Academy
+1831,1831,Walnut High School
+1832,1832,Savannah Country Day
+1833,1833,Guilderland High School
+1834,1834,Cathedral and Cannon School
+1835,1835,Surrey
+1836,1836,Ascension Catholic High School
+1837,1837,J.E.B. Stuart High School
+1838,1838,The Northwest School
+1839,1839,Venice High School
+1840,1840,Scarborough
+1841,1841,Vestavia Hills
+1842,1842,Marmion Academy
+1843,1843,Notre Dame College
+1844,1844,Joseph Case
+1845,1845,The Cathedral and John Connon School
+1846,1846,Cooper
+1847,1847,Wootton Upper School
+1848,1848,Grand Valley
+1849,1849,Sandra Day O'Connor
+1850,1850,Notre Dame HS
+1851,1851,John Abbot College
+1852,1852,Douglas S. Freeman
+1853,1853,Bowling Green
+1854,1854,Winsor School
+1855,1855,Northfield Mount Herman
+1856,1856,Bischöfliches Willigis Gymnasium Mainz
+1857,1857,Boston Latin School
+1858,1858,Latin School of Chicago
+1859,1859,Ripley
+1860,1860,Hunter College HS
+1861,1861,Stafford Grammar School
+1862,1862,Walla Walla
+1863,1863,St. Peter's School
+1864,1864,Burlington
+1865,1865,Creighton Prep
+1866,1866,Cazenovia
+1867,1867,Brookwood
+1868,1868,Elida
+1869,1869,Walpole
+1870,1870,Denton Guyer
+1871,1871,Buckingham Browne & Nichols School
+1872,1872,St. Pius X
+1873,1873,Brentwood College
+1874,1874,Wyomissing
+1875,1875,Cornwall
+1876,1876,Stone Ridge School of the Sacred Heart
+1877,1877,Archbishop Denis O'Connor High
+1878,1878,Adolfo Camarillo
+1879,1879,Noble & Greenough School
+1880,1880,Dupont Manual Magnet
+1881,1881,Bozeman
+1882,1882,Bayard Rustin
+1883,1883,Seymour
+1884,1884,Yarmouth
+1885,1885,Thompson
+1886,1886,Canadian International School of Hong Kong
+1887,1887,St. George's School
+1888,1888,Golden Valley
+1889,1889,Lincoln Southeast
+1890,1890,San Luis Obispo
+1891,1891,Shattuck-St. Mary's School (Minn.)
+1892,1892,Hudson
+1893,1893,Lancaster
+1894,1894,Shawnigan Lake
+1895,1895,Westchester Academy
+1896,1896,The Hill School
+1897,1897,Bishop Amat
+1898,1898,Shawnigan Lake School
+1899,1899,Shaker Heights
+1900,1900,The Taft School (Conn.)
+1901,1901,Ithaca
+1902,1902,University of Chicago Laboratory School
+1903,1903,Cheyenne Central
+1904,1904,SAR
+1905,1905,Zebulon Vance
+1906,1906,Concord Carlisle Regional
+1907,1907,Agoura
+1908,1908,Friends of Jaclyn
+1909,1909,Livingston
+1910,1910,Blake Schools Upper
+1911,1911,Edmund Burke School
+1912,1912,Greece Olympia
+1913,1913,MacArthur
+1914,1914,Collingwood School
+1915,1915,Charles Wright Academy
+1916,1916,Hebron
+1917,1917,Hayfield Secondary
+1918,1918,Oliver Ames
+1919,1919,The Southport School
+1920,1920,Chisipite Senior
+1921,1921,Geneva Community
+1922,1922,Concord-Carlisle
+1923,1923,Phillips Academy (Mass.)
+1924,1924,Spring Creek Academy
+1925,1925,Toronto French School
+1926,1926,St. Anthony's High
+1927,1927,Marquette University HS
+1928,1928,Lebanon
+1929,1929,Modern Education Schools
+1930,1930,Gann Academy
+1931,1931,Arvada West
+1932,1932,Peddie School
+1933,1933,Eustis
+1934,1934,Rockridge Secondary School
+1935,1935,Mark Keppel
+1936,1936,Benjamin Cardozo
+1937,1937,Marion Center
+1938,1938,Ramona
+1939,1939,Nova High School
+1940,1940,Central Catholic
+1941,1941,Chester
+1942,1942,Helena
+1943,1943,Minot
+1944,1944,Christian
+1945,1945,Sequim
+1946,1946,
+1947,1947,Silverthorn Collegiate Institute
+1948,1948,Walled Lake Western
+1949,1949,Branksome Hall
+1950,1950,King Philip Regional
+1951,1951,Hills Road Sixth Form College
+1952,1952,Pleasant Valley
+1953,1953,Durham Academy Upper School
+1954,1954,Lakota West
+1955,1955,Dominican Academy
+1956,1956,North Shore
+1957,1957,Wycliffe College
+1958,1958,Woodstock
+1959,1959,John A. Ferguson
+1960,1960,Great Falls High School
+1961,1961,Collins Hill
+1962,1962,Norcross High School
+1963,1963,Cambridge Rindge and Latin School
+1964,1964,All Saints Academy
+1965,1965,Lincoln School
+1966,1966,Lakeland High School
+1967,1967,Bel Air
+1968,1968,Belmont
+1969,1969,Holy Spirit HS
+1970,1970,Scotch College
+1971,1971,John F. Kennedy
+1972,1972,Bishop Hendircken
+1973,1973,Episcopal Collegiate
+1974,1974,Holderness
+1975,1975,Newtown HS
+1976,1976,St. Anselm's Abbey
+1977,1977,Cimarron Memorial
+1978,1978,Rosemont
+1979,1979,George Watson's College
+1980,1980,Eden Prairie
+1981,1981,Culver Academies
+1982,1982,Saint Joseph's Preparatory School (Pa.)
+1983,1983,Gainesville
+1984,1984,Mahomet-Seymour
+1985,1985,Haverford
+1986,1986,Oxford Area Community
+1987,1987,Lexington
+1988,1988,Diocesan College
+1989,1989,Northfield Mr. Hermon
+1990,1990,Passaic County Technical and Vocational School
+1991,1991,Orchard Park
+1992,1992,Mountain Pointe
+1993,1993,Walton
+1994,1994,Archbishop Moeller
+1995,1995,Henry M. Gunn High School
+1996,1996,Holton-Arms School
+1997,1997,Dulles
+1998,1998,MAST Academy
+1999,1999,The Hotchkiss School (Conn.)
+2000,2000,St. Stephen's School
+2001,2001,John Hersey
+2002,2002,Athens
+2003,2003,St. Peter Marian
+2004,2004,Frankenmuth
+2005,2005,Lansing
+2006,2006,Totino-Grace
+2007,2007,Windsor School
+2008,2008,Waynflete School
+2009,2009,Torrey Pines High School
+2010,2010,Torrance
+2011,2011,Saint Catherine's School
+2012,2012,Williamston
+2013,2013,Duluth East
+2014,2014,Swampscott
+2015,2015,Mechanicsburg Area Senior
+2016,2016,New Bedford
+2017,2017,Wakefield
+2018,2018,Tabor Academy
+2019,2019,Shattuck (Minn.)
+2020,2020,Escondido
+2021,2021,Lawrence
+2022,2022,Vail Mountain School
+2023,2023,West Torrance
+2024,2024,Woodrow Wilson Classical
+2025,2025,Martha's Vineyard
+2026,2026,Ghana International School
+2027,2027,Robert C. Byrd
+2028,2028,University of Chicago Laboratory HS
+2029,2029,University HS
+2030,2030,Penfield
+2031,2031,William Penn Charter School
+2032,2032,Saint Pauls School
+2033,2033,Connors State (OK)
+2034,2034,Mission
+2035,2035,South Pasadena
+2036,2036,Olympian
+2037,2037,East
+2038,2038,A&M Consolidated
+2039,2039,Lawrence Academy
+2040,2040,New Braunfels
+2041,2041,Bishop O’Dowd
+2042,2042,Roland Park Country School
+2043,2043,Shattuck St. Mary's
+2044,2044,College Du Christ - ROI
+2045,2045,Hermitage
+2046,2046,Centaurus
+2047,2047,Berkeley Prep School
+2048,2048,Clear Brook
+2049,2049,Arlington Country Day
+2050,2050,Cantwell-Sacred Heart of Mary (Calif.)
+2051,2051,Cardinal O'Hara
+2052,2052,Spring Branch Memorial
+2053,2053,Valley Stream
+2054,2054,Crawford Mosley
+2055,2055,London
+2056,2056,Lindbergh
+2057,2057,St. Albans Prep
+2058,2058,Minnetonka
+2059,2059,Carmel
+2060,2060,Plymouth North
+2061,2061,Cambridge Academy
+2062,2062,Kings College
+2063,2063,Forest Park
+2064,2064,Hamilton HS
+2065,2065,Marist
+2066,2066,Providence Day School
+2067,2067,Christ's College
+2068,2068,Kekaulike
+2069,2069,Taylor Allderdice
+2070,2070,Hayward
+2071,2071,Pulaski Academy
+2072,2072,Maple Grove
+2073,2073,BB&N
+2074,2074,Peter Symonds College
+2075,2075,Woodrow Wilson Senior
+2076,2076,Pittsford Mendon
+2077,2077,Athens Academy
+2078,2078,Massillon Jackson
+2079,2079,Cabrillo
+2080,2080,Scotch College HS
+2081,2081,Wellesley
+2082,2082,Hamilton
+2083,2083,Mater Dei
+2084,2084,Christelijk Lyceum Zeist
+2085,2085,Branford
+2086,2086,Our Lady of Mercy
+2087,2087,Louisiana Tech
+2088,2088,Charlevoix
+2089,2089,A.C. Flora
+2090,2090,Fremont
+2091,2091,St. Albans HS
+2092,2092,South Portland HS
+2093,2093,St. Margaret's Episcopal
+2094,2094,McDonough School
+2095,2095,Groton School (Mass.)
+2096,2096,Bishop Feehan
+2097,2097,Tuba City
+2098,2098,Sierra Canyon
+2099,2099,Pickerington Central
+2100,2100,Strathmore
+2101,2101,Moon Valley
+2102,2102,Phoenix Country Day
+2103,2103,Claremont Secondary
+2104,2104,Fork Union Military Academy
+2105,2105,Fayetteville
+2106,2106,Holy Cross
+2107,2107,Euclid Senior HS
+2108,2108,DeMatha
+2109,2109,Albert Lowry
+2110,2110,Sydney Grammar School
+2111,2111,Brookfield
+2112,2112,Lockport Township
+2113,2113,Mission San Jose
+2114,2114,Wachusett
+2115,2115,Mesa Community
+2116,2116,Boyertown
+2117,2117,Oak Park
+2118,2118,Runshaw Sixth Form College
+2119,2119,Walter Payton
+2120,2120,Seaman
+2121,2121,St. Benedict's
+2122,2122,Lewisburg
+2123,2123,Parkview
+2124,2124,The Episcopal Academy
+2125,2125,Palo Verde
+2126,2126,La Jolla Country Day School
+2127,2127,Lompoc
+2128,2128,Hopewell
+2129,2129,Three Lakes
+2130,2130,Chapin School
+2131,2131,Campbell Collegiate
+2132,2132,Pasadena
+2133,2133,Fairfield Ludlow
+2134,2134,Boston Latin
+2135,2135,Plano West Senior
+2136,2136,Ann Arbor Pioneer (Mich.)
+2137,2137,Gonzaga College HS
+2138,2138,Sunrise Mountain
+2139,2139,Pulaski County
+2140,2140,Mallard Creek
+2141,2141,Moeller HS
+2142,2142,East Bladen
+2143,2143,Valley Center
+2144,2144,Hampton HS
+2145,2145,West Bloomfield
+2146,2146,G.W. Carver
+2147,2147,Marblehead
+2148,2148,Natick
+2149,2149,Tampa Catholic
+2150,2150,Phillips Exeter Academy (N.H.)
+2151,2151,Regis
+2152,2152,Sanford
+2153,2153,St. Joseph's HS
+2154,2154,Long Beach
+2155,2155,Merrimack
+2156,2156,Cooperstown Central
+2157,2157,Winchendon School
+2158,2158,Notre Dame High School
+2159,2159,Saint Joseph's Prep
+2160,2160,Woodstock Union
+2161,2161,San Francisco Univ. HS
+2162,2162,Diocesan Boys’ School
+2163,2163,Colt's Neck
+2164,2164,Bay Shore
+2165,2165,Butte
+2166,2166,Victor
+2167,2167,Glenlyon Norfolk School
+2168,2168,Bemidji
+2169,2169,Santa Margarita
+2170,2170,Col. Zadok Magruder
+2171,2171,James Logan
+2172,2172,Sherando
+2173,2173,St. Ignatius College Preparatory
+2174,2174,Stockdale
+2175,2175,Hinsdale Central High School
+2176,2176,Emery
+2177,2177,Claudia Taylor Larybird Johnson
+2178,2178,Anglo-Chinese School
+2179,2179,The Columbus Academy
+2180,2180,The Patrick School
+2181,2181,St. Alban's
+2182,2182,Brophy Prep.
+2183,2183,Glen Rock
+2184,2184,Northern Lehigh
+2185,2185,Central
+2186,2186,Naperville Central
+2187,2187,Mary Institute Country Day
+2188,2188,South Forsyth
+2189,2189,Bishop McGuinness Catholic
+2190,2190,George Walton Comprehensive
+2191,2191,Laguna Creek
+2192,2192,St. Ignatious Prep
+2193,2193,Immaculate Heart of Mary
+2194,2194,Queensbury
+2195,2195,Durham Academy
+2196,2196,Homer
+2197,2197,Denver East
+2198,2198,Texas
+2199,2199,Mount Douglas
+2200,2200,West Vancouver Secondary School
+2201,2201,Chaminade High School
+2202,2202,Archbishop Williams
+2203,2203,Deerfield Academy (Mass.)
+2204,2204,Ramapo High School
+2205,2205,The Bronxville School
+2206,2206,Newton Country Day School
+2207,2207,Whippany Park
+2208,2208,Stevenson School
+2209,2209,San Ramon Valley
+2210,2210,Green Mountain Valley School
+2211,2211,Lynn Classical
+2212,2212,LaSalle Academy
+2213,2213,St. Cuthbert's College
+2214,2214,St. Bernard
+2215,2215,Nordhoff
+2216,2216,Ipswich School
+2217,2217,South Whidbey
+2218,2218,Landschulheim Schloss Heessen
+2219,2219,Maria Carrillo
+2220,2220,Turpin
+2221,2221,Sylvan Hills
+2222,2222,Mount Vernon
+2223,2223,Huntington Beach
+2224,2224,North
+2225,2225,Valley Christian
+2226,2226,Colonia
+2227,2227,Loyola of Los Angeles
+2228,2228,Stephens
+2229,2229,United World
+2230,2230,Springfield HS
+2231,2231,Cypress Ranch
+2232,2232,Manchester
+2233,2233,Western Canada
+2234,2234,Fossil Ridge
+2235,2235,Wissahickon Senior High
+2236,2236,Blue Valley Southwest
+2237,2237,Nardin Academy
+2238,2238,Moses Brown
+2239,2239,Louis D. Brandeis
+2240,2240,Princess Anne High School
+2241,2241,Paonia
+2242,2242,Hinsdale
+2243,2243,Avon Old Farms (Conn.)
+2244,2244,Maggie L. Walker Governor's School
+2245,2245,St. Paul’s Girls’ School
+2246,2246,Nyack
+2247,2247,Paul D. Schreiber
+2248,2248,Billings west
+2249,2249,Edison Academic Center
+2250,2250,Montverde Academy (Fla.)
+2251,2251,Orange Lutheran High School
+2252,2252,Hamilton-Wenham HS
+2253,2253,Blessed Trinity
+2254,2254,Bedford School
+2255,2255,Deering
+2256,2256,Thomas Jefferson HS
+2257,2257,Archbishop Wood
+2258,2258,Reading Memorial
+2259,2259,Sammamish
+2260,2260,Cypress Ridge
+2261,2261,The Roxbury Latin School
+2262,2262,Cactus
+2263,2263,Masconomet
+2264,2264,Bethel
+2265,2265,J.A. Foster
+2266,2266,Mullen
+2267,2267,The Baylor School
+2268,2268,Worcester Preparatory School
+2269,2269,North Point
+2270,2270,Holy Ghost Prep
+2271,2271,Wilson Central
+2272,2272,Columbia Secondary
+2273,2273,"Buckingham, Browne &amp;amp; Nichols School"
+2274,2274,Calvin Christian
+2275,2275,Eastside Catholic
+2276,2276,New Bedford HS
+2277,2277,Byram Hills
+2278,2278,Oakland Catholic
+2279,2279,Windward High School
+2280,2280,Oakville Trafalgar
+2281,2281,Lone Jack
+2282,2282,Crescenta Valley
+2283,2283,Tucson
+2284,2284,D.W. Daniel
+2285,2285,Camden Cathoilc
+2286,2286,Framingham
+2287,2287,Our Lady of Good Counsel
+2288,2288,St. Helena
+2289,2289,Palo Alto Senior
+2290,2290,Wellesley Sr High School
+2291,2291,St. Edward’s Senior School
+2292,2292,Saint John
+2293,2293,Dana Hall School
+2294,2294,Sam Houston
+2295,2295,Phillips Academy Andover (Mass.)
+2296,2296,Sacramento Country Day School
+2297,2297,Good Counsel
+2298,2298,Dover-Sherborn Regional
+2299,2299,Shawnee Mission Northwest
+2300,2300,Washington County
+2301,2301,Oakwood
+2302,2302,Birchmount Park
+2303,2303,St. Thomas Academy
+2304,2304,Barnstable
+2305,2305,Urbandale
+2306,2306,Blue Valley Northwest
+2307,2307,Warner Robins
+2308,2308,St. Stephens Episcopal
+2309,2309,St. John's Preparatory School
+2310,2310,St. Stephen's
+2311,2311,Crescent School
+2312,2312,Polytechnic School
+2313,2313,Stowe High School
+2314,2314,Booker T. Washington
+2315,2315,Sabino
+2316,2316,Kearney
+2317,2317,Plano East
+2318,2318,Evangelical Christian School
+2319,2319,Lakeridge
+2320,2320,Ryle
+2321,2321,Horizon
+2322,2322,Glenbard South
+2323,2323,Lemoore Union
+2324,2324,Utica
+2325,2325,Canisius Buffalo
+2326,2326,Santa Ynez Valley
+2327,2327,Boston College HS
+2328,2328,St. Sebastian’s School
+2329,2329,Northwood School (N.Y.)
+2330,2330,Cascia Hall Prep
+2331,2331,Vermont Academy (Vt.)
+2332,2332,Culver Academy (Ind.)
+2333,2333,Gloucester
+2334,2334,Zeeland East
+2335,2335,Jesuit HS
+2336,2336,West Seneca West
+2337,2337,Unionville
+2338,2338,Ramstein American (Germany)
+2339,2339,Ranney School
+2340,2340,Calvert Hall
+2341,2341,Southport
+2342,2342,Bolivar Central
+2343,2343,Wheelan School
+2344,2344,Combs High School
+2345,2345,Yorba Linda
+2346,2346,Hockaday
+2347,2347,Fork Union Military
+2348,2348,JSerra Catholic
+2349,2349,Seton Hall Prep.
+2350,2350,home schooled
+2351,2351,Monticello
+2352,2352,Evander Childs
+2353,2353,Lenape
+2354,2354,The Hockday School
+2355,2355,Lutheran
+2356,2356,Mead HS
+2357,2357,Morristown
+2358,2358,St. Thomas More Academy
+2359,2359,Albion
+2360,2360,M. Stoneman Douglas
+2361,2361,Greenwood College School
+2362,2362,Oceanside
+2363,2363,Gulliver Prep.
+2364,2364,Howland
+2365,2365,Roosevelt HS
+2366,2366,Simpson County Academy
+2367,2367,Somerville
+2368,2368,Norwood
+2369,2369,Los Alomos
+2370,2370,St. Louis University High School
+2371,2371,Mt. Vernon
+2372,2372,Klein
+2373,2373,Milton Acad.
+2374,2374,Immaculate HS
+2375,2375,Science Hill
+2376,2376,Geneseo
+2377,2377,St. Michael's Catholic Academy
+2378,2378,St. Xavier HS
+2379,2379,Stratton Mountain School
+2380,2380,Austin
+2381,2381,Newton
+2382,2382,Tamalapis
+2383,2383,Estevan Comprehensive School
+2384,2384,Roosevelt
+2385,2385,Newport
+2386,2386,Western Branch
+2387,2387,Miami Palmetto Senior
+2388,2388,Lycee Francais de New York
+2389,2389,State College Area High School
+2390,2390,Lunenburg
+2391,2391,Lake Highland Preparatory School
+2392,2392,Klein Collins
+2393,2393,Napa
+2394,2394,Guilderland
+2395,2395,Salisbury School (Conn.)
+2396,2396,Northbridge
+2397,2397,Wilson
+2398,2398,Forest Lake
+2399,2399,Bellville
+2400,2400,Trinity Prep
+2401,2401,Winton Woods
+2402,2402,York Preparatory School
+2403,2403,Clearwater Central Catholic
+2404,2404,Institute of Education
+2405,2405,Stratford Central
+2406,2406,Athens High School
+2407,2407,Burlingame
+2408,2408,U.S. Grant
+2409,2409,Boca Raton
+2410,2410,San Dieguito HS
+2411,2411,Leon
+2412,2412,Shorewood
+2413,2413,St. Kevin's College
+2414,2414,Holy Redeemer
+2415,2415,Judge Memorial HS
+2416,2416,Olathe East Senior High School
+2417,2417,Darien HS
+2418,2418,South Burlington HS
+2419,2419,Trinity Catholic
+2420,2420,ACS Cobham
+2421,2421,St. Paul's School (N.H.)
+2422,2422,Phillips Exeter Acad. (N.H.)
+2423,2423,Sir James Henderson British School of Milan
+2424,2424,"St. Fintans High School, Sutton"
+2425,2425,Chelsea (Mich.)
+2426,2426,St. Catharine's Collegiate
+2427,2427,Harbor Springs
+2428,2428,West Valley Coll.
+2429,2429,Pearl
+2430,2430,Dalton School
+2431,2431,Saint Raphael Academy
+2432,2432,Aledo
+2433,2433,Paideia School
+2434,2434,Willmar
+2435,2435,Forest Hill Collegiate
+2436,2436,North Carolina School of Science and Math
+2437,2437,Christ School
+2438,2438,Billings Centra; Catholic
+2439,2439,Jamesville-DeWitt
+2440,2440,Villa Walsh Academy
+2441,2441,John Carroll School
+2442,2442,Glassboro
+2443,2443,Wyoming Seminary Prep School
+2444,2444,North Broward Prep.
+2445,2445,Fort White
+2446,2446,Lancaster Central
+2447,2447,St. Sebastian's
+2448,2448,Richland
+2449,2449,Rivendell Academy
+2450,2450,Santa Catalina
+2451,2451,Foothill Technology
+2452,2452,Moreau Catholic
+2453,2453,Crystal Springs Uplands School
+2454,2454,Coeur D Alene
+2455,2455,Benet Acad.
+2456,2456,Northwood School
+2457,2457,Crown Point
+2458,2458,Analy
+2459,2459,Countryside
+2460,2460,Sydney Grammar
+2461,2461,St. Michael's College School
+2462,2462,Heritage
+2463,2463,Richard C. Lee
+2464,2464,St. Kieran's College
+2465,2465,Richard Lee
+2466,2466,Frankfurt Am.
+2467,2467,Lawrenceville (NJ)
+2468,2468,C. Leon Kings
+2469,2469,Iowa City West
+2470,2470,Hickman Mills
+2471,2471,Sam Rayburn
+2472,2472,Wellington Community
+2473,2473,St. Sebastian's School
+2474,2474,Foster
+2475,2475,Longwood
+2476,2476,Topeka
+2477,2477,Highland
+2478,2478,Calabasas
+2479,2479,St. James School
+2480,2480,Holy Cross HS
+2481,2481,Oakland Mills
+2482,2482,Canfield
+2483,2483,Logan Elm
+2484,2484,Bear Creek
+2485,2485,Columbus
+2486,2486,Eastlake
+2487,2487,The Henley College
+2488,2488,Christian Brothers High School
+2489,2489,Durfee
+2490,2490,Norwell
+2491,2491,Brien McMahon
+2492,2492,Saint Franics
+2493,2493,Haberdasher's Aske's Boys' School
+2494,2494,Iolani School
+2495,2495,Simsbury
+2496,2496,Wayne Hills
+2497,2497,Dover Sherborn
+2498,2498,State College Area
+2499,2499,San Marcos
+2500,2500,St. Ignatius College Preperatory
+2501,2501,Mäkelänrinne
+2502,2502,The Bromfield School
+2503,2503,La Salle Academy
+2504,2504,Sevenoaks School
+2505,2505,Oakland Technical
+2506,2506,Orchard Park High School
+2507,2507,Oak Knoll School of the Holy Child
+2508,2508,Acton Boxborough Regional
+2509,2509,Washington
+2510,2510,North Paulding
+2511,2511,Sacred Heart Preparatory
+2512,2512,Mount Saint Joseph Academy
+2513,2513,Binghamton
+2514,2514,Downers Grove North
+2515,2515,Mountain Ridge
+2516,2516,Marmion Military Academy
+2517,2517,Scoil Mhuire
+2518,2518,Kantonsschule Alpenquai Luzern
+2519,2519,Lloydminster Comprehensive
+2520,2520,Interlochen Arts Academy
+2521,2521,Valhalla
+2522,2522,Woodbury
+2523,2523,Brearley School
+2524,2524,Scripps Ranch
+2525,2525,The King's Academy
+2526,2526,Edina High School
+2527,2527,The Horace Mann School
+2528,2528,South Anchorage
+2529,2529,Marianopolis College
+2530,2530,Rancho
+2531,2531,Palmyra
+2532,2532,Drake
+2533,2533,Downington East
+2534,2534,Bishop Strachan School
+2535,2535,Cambridge Rindge & Latin School
+2536,2536,Sigrid Rudebecks Gymnasium
+2537,2537,Elmer L. Meyers
+2538,2538,Southeast Guilford Senior
+2539,2539,Strake Jesuit Prep.
+2540,2540,Forest Lakes HS
+2541,2541,St. Johns Country Day School
+2542,2542,Thorton Township
+2543,2543,Rio Americano
+2544,2544,Bellarmine Prep
+2545,2545,St. Joe's Prep.
+2546,2546,Newington
+2547,2547,Henry Sibley Senior High School
+2548,2548,Ward Melville High School
+2549,2549,Greendale HS
+2550,2550,St. Alabans School
+2551,2551,Wycombe
+2552,2552,H.B. Plant School
+2553,2553,The Episcopal School of Dallas
+2554,2554,Moses Brown School (R.I.)
+2555,2555,Salem
+2556,2556,McQuaid Jesuit
+2557,2557,Durham Academy Upper
+2558,2558,Seattle Preparatory School
+2559,2559,Dayton
+2560,2560,Mount St. Joseph Acadmey
+2561,2561,Assumption
+2562,2562,Jefferson High School for Science and Technology
+2563,2563,Bethesda C Chase
+2564,2564,Archbishop Molloy
+2565,2565,Arlington
+2566,2566,Naples HS
+2567,2567,Interlochen Arts Academy (Mich.)
+2568,2568,Bishp Hendricken (R.I.)
+2569,2569,Northfield Mount Hermon (Mass.)
+2570,2570,AC Davis
+2571,2571,Canandaigua Academy
+2572,2572,Egg Harbor Township High
+2573,2573,Fairport
+2574,2574,St. Paul Catholic
+2575,2575,Brockport
+2576,2576,Souhegan
+2577,2577,Northside Health Careers
+2578,2578,Manchester Essex Regional
+2579,2579,Bentley
+2580,2580,E.L. Crossley Secondary School
+2581,2581,Middletown (Ohio)
+2582,2582,St. Louis
+2583,2583,Princeton Day Prep
+2584,2584,East Ascension
+2585,2585,Edgewood HS
+2586,2586,Park Tudor HS
+2587,2587,Saint Andrew's
+2588,2588,Governor Drummer Academy
+2589,2589,St Margaret's College
+2590,2590,Hillcrest
+2591,2591,Johannes-Kepler-Gymnasium Leonberg
+2592,2592,Williston-Northampton
+2593,2593,Benjamin Franklin Senior
+2594,2594,Snohomish
+2595,2595,Etowah
+2596,2596,Blackrock College
+2597,2597,Robinson Secondary
+2598,2598,Christian Brothers Acad.
+2599,2599,Tucker
+2600,2600,Kingston
+2601,2601,Brophy College Prep.
+2602,2602,Kasson
+2603,2603,East Lyme
+2604,2604,Montclair Prep
+2605,2605,Mclean
+2606,2606,Stanstead College
+2607,2607,Fort Worth Country Day
+2608,2608,Omaha Central
+2609,2609,Wheaton Warrenville South
+2610,2610,The Westminster School
+2611,2611,Newark Academy
+2612,2612,St. Andrew's School
+2613,2613,Grove City
+2614,2614,Paisii Hilendarski
+2615,2615,Coomandook Area School
+2616,2616,Wantaugh
+2617,2617,Williston
+2618,2618,Maria Theresia Gymnasium
+2619,2619,Cohasset
+2620,2620,Montclair College Prep
+2621,2621,Saint Ignatius College Prep
+2622,2622,Langley Park Boys' School
+2623,2623,Irondale
+2624,2624,Charlotte Christian School
+2625,2625,Henry Clay
+2626,2626,Agnes Irwin
+2627,2627,Cheltenham
+2628,2628,Algonquin Regional
+2629,2629,Wenatchee
+2630,2630,Kent Denver
+2631,2631,Notre Dame de Sion
+2632,2632,Mifflin County
+2633,2633,Whitney M. Young Magnet
+2634,2634,Lynnwood
+2635,2635,Porter-Guad School
+2636,2636,Sacred Heart Preparatory Atherton
+2637,2637,Suncoast Community
+2638,2638,Fairfield College Prep.
+2639,2639,King Philip
+2640,2640,Fayetteville-Manlius
+2641,2641,Hammonton
+2642,2642,Framingdale
+2643,2643,Bedford Modern School
+2644,2644,Kearsney College
+2645,2645,Sheridan
+2646,2646,Logan-Rogersville
+2647,2647,Durango
+2648,2648,Robert A. Long
+2649,2649,Irvine
+2650,2650,Trabuco Hills
+2651,2651,Packer Collegiate Institute
+2652,2652,Vista del Lago
+2653,2653,Ironwood Ridge High School
+2654,2654,Osseo
+2655,2655,Frances Kelsey
+2656,2656,Honeoye Falls-Lima
+2657,2657,Guildford
+2658,2658,Vail Mountain
+2659,2659,The Agnes Irwin School
+2660,2660,St.Stephen's and St. Agnes School
+2661,2661,St. Joe's
+2662,2662,Viewpoint
+2663,2663,Hamden
+2664,2664,Northfield Mount Hermon School
+2665,2665,Camden County
+2666,2666,Harbord Collegiate Institute
+2667,2667,Pittsford-Mendon
+2668,2668,Laurel Springs
+2669,2669,Bronx HS of Science
+2670,2670,St. George Girls High School
+2671,2671,Hunterdon Central
+2672,2672,Harding Academy
+2673,2673,T.L. Hanna
+2674,2674,Pascagoula
+2675,2675,St. Edward
+2676,2676,Douglas
+2677,2677,Briarcrest
+2678,2678,Novato
+2679,2679,Stowe
+2680,2680,Scarsdale
+2681,2681,The Berkeley Carroll School
+2682,2682,Poway
+2683,2683,Fike
+2684,2684,Hillcrest (Idaho)
+2685,2685,Spring Lake
+2686,2686,Atholton
+2687,2687,St. Andrew's Scots School
+2688,2688,Horton Watkins
+2689,2689,The Cheltenham Ladies' College
+2690,2690,St. Bede's College
+2691,2691,3rd Grammer School
+2692,2692,Pittsford-Sutherland
+2693,2693,Oxford Academy
+2694,2694,Ridge High School
+2695,2695,Woodward Academy
+2696,2696,Episcopal (Va.)
+2697,2697,Suncoast High School
+2698,2698,St. Wilfrid's Catholic
+2699,2699,Ponte Vedra
+2700,2700,Prince Alfred College
+2701,2701,Hough
+2702,2702,Academy of Holy Angels
+2703,2703,St. Johns
+2704,2704,Dothan
+2705,2705,Deerfield Acad.
+2706,2706,Beverly Hills
+2707,2707,Convent of Sacred Heart
+2708,2708,Gaylord
+2709,2709,Murray (Ky.)
+2710,2710,Bishop Allen
+2711,2711,P.D. Schreiber
+2712,2712,Great Oak
+2713,2713,St. Anne's-Belfield
+2714,2714,Blackhawk
+2715,2715,Allen Park
+2716,2716,Moniteau
+2717,2717,Half Hollow Hills East
+2718,2718,West Waterloo
+2719,2719,Conestoga High School
+2720,2720,St. Brendan's College
+2721,2721,Limon
+2722,2722,Moorhead
+2723,2723,Cranbrook
+2724,2724,Mahtomedi
+2725,2725,Shiplake College
+2726,2726,Deerfield (Mass.)
+2727,2727,Warrenton
+2728,2728,Matignon
+2729,2729,Bonita Vista
+2730,2730,St. Peter's Prep
+2731,2731,King's School
+2732,2732,Eagle
+2733,2733,Dennis Morris
+2734,2734,Point Loma
+2735,2735,Bishops Diocesan College
+2736,2736,St. Michael's College High School
+2737,2737,Marina
+2738,2738,Archbishop Hoban
+2739,2739,Sacred Heart Preparatory (Calif.)
+2740,2740,Windward School
+2741,2741,Aiglon College
+2742,2742,Gonzaga College High School
+2743,2743,Garden City High School
+2744,2744,Pate's Grammar School
+2745,2745,Univ. Heights Academy
+2746,2746,Dawson College
+2747,2747,Glastonbury
+2748,2748,Plainview Old Bethpage
+2749,2749,Städtisches Gymnasium Löhne
+2750,2750,East Chapel Hill
+2751,2751,Old Rochester Regional
+2752,2752,Del Campo
+2753,2753,Arapahoe
+2754,2754,Zionsville Community
+2755,2755,Cinco Ranch
+2756,2756,Ticonderoga
+2757,2757,Sierra
+2758,2758,Warwick
+2759,2759,George Washington University Online High School
+2760,2760,Long Island Lutheran
+2761,2761,Dumont
+2762,2762,Episcopal School
+2763,2763,Montville
+2764,2764,Kingston Collegiate and Vocational Institute
+2765,2765,Shorecrest Prep.
+2766,2766,Servite
+2767,2767,Norland
+2768,2768,Soldan International
+2769,2769,Granada
+2770,2770,Southridge School
+2771,2771,Burnsville
+2772,2772,Brockton
+2773,2773,Kamehameha
+2774,2774,Vero Beach
+2775,2775,The College Preparatory School/K12 International Academy
+2776,2776,Rampart
+2777,2777,Oakton
+2778,2778,Webster
+2779,2779,Ellington
+2780,2780,Liverpool
+2781,2781,Cobequid
+2782,2782,Sinagua
+2783,2783,Manchester Grammar
+2784,2784,E.E. Smith
+2785,2785,Bishop Grandin
+2786,2786,Sachem
+2787,2787,Flintridge Sacred Heart Academy
+2788,2788,Droste-Hulshoff Gymnasium
+2789,2789,Norwood-Norfolk Central
+2790,2790,William Floyd
+2791,2791,Pearland
+2792,2792,Orono
+2793,2793,Rye Neck
+2794,2794,Ponahou
+2795,2795,Brecksville-Broadview Heights
+2796,2796,Perry
+2797,2797,Colonie Central
+2798,2798,Old Saybrook
+2799,2799,Crascentra Valley
+2800,2800,Mar Vista
+2801,2801,Ann Arbor Huron
+2802,2802,North Reading
+2803,2803,St. Olave's
+2804,2804,North Highlands Regional
+2805,2805,Archbishop Alter High School
+2806,2806,Gaithersburg
+2807,2807,Crespi Carmelite
+2808,2808,Hanover Area
+2809,2809,New Utrecht
+2810,2810,Malvern
+2811,2811,Staten Island Technical
+2812,2812,Auckland Grammar School
+2813,2813,Manlius
+2814,2814,Lakeville South
+2815,2815,Jersey Village
+2816,2816,Amador
+2817,2817,Sheldon
+2818,2818,Lancaster Country Day
+2819,2819,Roslyn
+2820,2820,North Muskegon
+2821,2821,Mirabeau B. Lamar
+2822,2822,Franklin Cty.
+2823,2823,Oneida
+2824,2824,Hillside
+2825,2825,Marin Catholic
+2826,2826,Licking Valley
+2827,2827,Jesuit College Prep
+2828,2828,Chaminade College Prep
+2829,2829,Bishop Watterson
+2830,2830,Evanston Twp.
+2831,2831,Ireland 745000
+2832,2832,Douglas City HS
+2833,2833,Norfolk Collegiate School
+2834,2834,Bettendorf
+2835,2835,Hotchkiss School (Conn.)
+2836,2836,Bishop Hendricken
+2837,2837,Aquinas College
+2838,2838,Malden
+2839,2839,Waldorf School of Garden City
+2840,2840,Brookfield Academy
+2841,2841,Fieldston School (N.Y.)
+2842,2842,Onteora Central
+2843,2843,St. Croix Lutheran
+2844,2844,Desert Ridge
+2845,2845,Alamogordo
+2846,2846,Riverdale Country Day
+2847,2847,Paint Branch
+2848,2848,Wellington College
+2849,2849,Ozark
+2850,2850,Hilliard Davidson
+2851,2851,Dobyns Bennett
+2852,2852,Gymnasium Altenholz
+2853,2853,Permian
+2854,2854,Staten Island Tech
+2855,2855,Massaponax
+2856,2856,Garnett Valley
+2857,2857,Champion
+2858,2858,Trinity College
+2859,2859,Marist School
+2860,2860,Coughlin
+2861,2861,Goshen Central
+2862,2862,Academy For Bus And Comp Tech
+2863,2863,Catholic Memorial
+2864,2864,Siegel HS
+2865,2865,David Douglas High School
+2866,2866,Freehold Township
+2867,2867,Brisbane Girls Grammar School
+2868,2868,Avon Park
+2869,2869,Royal
+2870,2870,Kennett
+2871,2871,Lower Merion
+2872,2872,Dos Pueblos Senior
+2873,2873,Mountain Brook
+2874,2874,Paul VI Catholic
+2875,2875,Academy of Holy Cross
+2876,2876,International School of Dakar (Senegal)
+2877,2877,McCallie
+2878,2878,Katharine Branson School
+2879,2879,The Chapin School
+2880,2880,Saint Paul's School
+2881,2881,Half Hollow Hills
+2882,2882,K12 International Academy
+2883,2883,SMK St. Joseph
+2884,2884,Tallinn Secondary Science School
+2885,2885,Capitol Christian School
+2886,2886,Detroit Jesuit
+2887,2887,Meadowdale
+2888,2888,Spartanburg
+2889,2889,Twin Lakes
+2890,2890,Raytown South
+2891,2891,North Babylon
+2892,2892,St. George's School (B.C.)
+2893,2893,Cuba City
+2894,2894,Hopkins HS
+2895,2895,Norman North
+2896,2896,Saranac Lake High School
+2897,2897,KS Kapalama
+2898,2898,North Attleboro
+2899,2899,Victor J Andrew
+2900,2900,Bishop Strachan / Westminster
+2901,2901,Colchester
+2902,2902,Pace Academy
+2903,2903,Divine Savior Holy Angel
+2904,2904,National Sport School
+2905,2905,Boulder
+2906,2906,St. Joan of Arc
+2907,2907,Traverse City Senior High School
+2908,2908,The Stony Brook School
+2909,2909,William Penn
+2910,2910,East Ridge
+2911,2911,Ostra Reals Gymnasium
+2912,2912,Phillips Andover Academy (Mass.)
+2913,2913,Vimy Ridge Academy
+2914,2914,Bishop Meige
+2915,2915,Covent of the Visitation
+2916,2916,Brea Olinda
+2917,2917,The Madeira School
+2918,2918,St Francis
+2919,2919,Hamilton Central
+2920,2920,Montpelier
+2921,2921,Ensworth
+2922,2922,Barron Collier
+2923,2923,Holmdel
+2924,2924,San Francisco University HS
+2925,2925,North Broward Prepartory School
+2926,2926,Loomis-Chaffee School
+2927,2927,International
+2928,2928,Scottsdale Arcadia
+2929,2929,Madison West
+2930,2930,Austin Preparatory School
+2931,2931,Branson Preparatory School
+2932,2932,Essex
+2933,2933,Central/Team West
+2934,2934,Mount St. Mary Academy
+2935,2935,St. Stephen's and St. Agnes School
+2936,2936,Westhill High School
+2937,2937,Bishop Miege
+2938,2938,Lo-Ellen Park
+2939,2939,UWC Costa Rica
+2940,2940,Cony
+2941,2941,Dana Hils
+2942,2942,The Holton-Arms School
+2943,2943,William S. Hart
+2944,2944,Phoenixville
+2945,2945,Masuk HS
+2946,2946,Patrick Henry
+2947,2947,The Stevenson School
+2948,2948,Moses Brown School
+2949,2949,Methuen
+2950,2950,Bunker Hill
+2951,2951,Hong Kong International School
+2952,2952,York House School
+2953,2953,Providence Senior
+2954,2954,Montini Catholic
+2955,2955,Bridgewater
+2956,2956,Lone Star
+2957,2957,Christ Church Episcopal School
+2958,2958,Homeschool
+2959,2959,San Marin
+2960,2960,Raffles
+2961,2961,Cupertino
+2962,2962,Flintridge Preparatory School
+2963,2963,Jerudong International School
+2964,2964,Springfield
+2965,2965,Westboro HS
+2966,2966,Spruce Grove Composite
+2967,2967,Saddleback College
+2968,2968,Beachwood
+2969,2969,Everett
+2970,2970,Bellarmine College Prep.
+2971,2971,Katherine Branson
+2972,2972,Concord
+2973,2973,University of San Diego HS
+2974,2974,CK McClatchy
+2975,2975,Bullis School
+2976,2976,Phillips Exter Academy
+2977,2977,Glenelg
+2978,2978,Juneau Douglas
+2979,2979,Holton Arms
+2980,2980,Cypress Falls High
+2981,2981,Lewis-Palmer
+2982,2982,Powers Catholic
+2983,2983,Notre Dame High School Belmont
+2984,2984,Thomas Sprigg Wootton
+2985,2985,Roxbury
+2986,2986,Brimmer & May
+2987,2987,West Orange HS
+2988,2988,Red Bank Reg.
+2989,2989,Cloverleaf
+2990,2990,William P. Clements
+2991,2991,Frisco Liberty
+2992,2992,Springbank Community
+2993,2993,Marion Pleasant
+2994,2994,The Shore School
+2995,2995,Cooper City HS
+2996,2996,Christ Church
+2997,2997,Flower Mound Marcus
+2998,2998,Mead
+2999,2999,Bellarmine Prep School
+3000,3000,Traverse City Central
+3001,3001,The Governor's Academy
+3002,3002,Duluth Denfeld
+3003,3003,Stony Point
+3004,3004,Prince of Wales Collegiate
+3005,3005,"Buckingham, Browne & Nichols"
+3006,3006,Mcdonogh School
+3007,3007,A.W Dreyfoos Junior School for the Arts
+3008,3008,West Springfield
+3009,3009,Shattuck-St. Mary's
+3010,3010,St. Aloysius Gonzaga
+3011,3011,Jenison
+3012,3012,College Station
+3013,3013,Rush Henrietta
+3014,3014,Upland
+3015,3015,The Dwight School
+3016,3016,Rockwall Heath
+3017,3017,Bishop Stang
+3018,3018,Esko
+3019,3019,Miami Palmetto
+3020,3020,Annie Wright
+3021,3021,Liberty Bell
+3022,3022,John Jay Senior High
+3023,3023,Bellows Free Academy
+3024,3024,Mäkelänrinne sports upper secondary
+3025,3025,Grotius College
+3026,3026,Cabot
+3027,3027,St. Paul's (N.H.)
+3028,3028,Plymouth-Salem
+3029,3029,Webb City
+3030,3030,Chamberlain
+3031,3031,East Meadow
+3032,3032,Ava Gymnasium
+3033,3033,ASC Darmstadt
+3034,3034,Auckland International College
+3035,3035,Kingswood School
+3036,3036,Pinewood School
+3037,3037,Rockland
+3038,3038,Vail Ski & Snowboard Acad.
+3039,3039,Acton-Boxborough
+3040,3040,Berkshire School (Mass.)
+3041,3041,Sydney Girls High School
+3042,3042,Millbrook
+3043,3043,Calhoun
+3044,3044,Blue Springs
+3045,3045,Lyce Stendhal de Milan
+3046,3046,Arm and Hammer United World College
+3047,3047,Valhalla High School
+3048,3048,Leland
+3049,3049,Fairfield Ludlowe
+3050,3050,Lamoille Union
+3051,3051,10th Belgrade Grammar School
+3052,3052,Westfielf
+3053,3053,Shattuck-St. Mary's School
+3054,3054,Lake Travis
+3055,3055,Glenbrook South
+3056,3056,West Mifflin
+3057,3057,International School of Americas
+3058,3058,Wilmington Friends School
+3059,3059,St. James Scool
+3060,3060,Taylor
+3061,3061,Arizona Connections Academy
+3062,3062,The Latin School of Chicago
+3063,3063,East Bridgewater
+3064,3064,Maple Grove Senior
+3065,3065,Lake Oswego
+3066,3066,St. Margaret's College
+3067,3067,Saint Joseph
+3068,3068,Dhirubhai Ambani International School
+3069,3069,Eastern Regional HS
+3070,3070,Sequoyah
+3071,3071,Xavier Prep
+3072,3072,Beekmantown Central
+3073,3073,Torrey Pines (Calif.)
+3074,3074,Commercial College of Iceland
+3075,3075,Harrisonville
+3076,3076,Sylvania Southview
+3077,3077,Phillips Andover (Mass.)
+3078,3078,Community School of Davidson
+3079,3079,North Atlanta
+3080,3080,Ironwood
+3081,3081,Naparima College
+3082,3082,New Hartford
+3083,3083,DePaul Catholic
+3084,3084,IMG Academy
+3085,3085,Honeoye Central
+3086,3086,Indian Hill
+3087,3087,Saint Clements School
+3088,3088,William Hall
+3089,3089,St. Mary's School for Girls
+3090,3090,Marcelin Berthelot
+3091,3091,Viktor Rydbergs Gymnasium
+3092,3092,Presentation of Mary
+3093,3093,Humboldt-Schule Kiel
+3094,3094,Cranbrook Kingswood
+3095,3095,Severna Park
+3096,3096,St. John's College High School
+3097,3097,Hawken
+3098,3098,Jamestown
+3099,3099,Denton Ryan
+3100,3100,Brandywine
+3101,3101,Sutton Memorial
+3102,3102,Santa Margarita Catholic
+3103,3103,T.A. Blakelock
+3104,3104,Tom Clark
+3105,3105,Governor Dummer Academy
+3106,3106,Lyons Township
+3107,3107,Rosa A. Temple
+3108,3108,Albert Einstein
+3109,3109,Enosburg
+3110,3110,Rabanus-Maurus Gymnasium
+3111,3111,HTBL u. VA Wiener Neustadt
+3112,3112,North Smithfield
+3113,3113,Valley High School
+3114,3114,Maria Regina
+3115,3115,John Bapst Memorial
+3116,3116,Southpointe Academy
+3117,3117,Myers Park
+3118,3118,Winterset
+3119,3119,Les Hydres de Québec
+3120,3120,Lynn English
+3121,3121,St. Louis Univ. HS
+3122,3122,Flint Hill
+3123,3123,Rye County Day
+3124,3124,Waltham
+3125,3125,University Preparatory School
+3126,3126,Marquette H.S.
+3127,3127,Smithtown
+3128,3128,Assumption Catholic
+3129,3129,Derby
+3130,3130,Laguna Hills
+3131,3131,Benjamin Russell
+3132,3132,Oliver Ames HS
+3133,3133,St. Vincent-St. Mary
+3134,3134,Chesterhouse
+3135,3135,St. John's Preparatory
+3136,3136,Shiloh Christian
+3137,3137,Mercersburg Acad.
+3138,3138,Littleton HS
+3139,3139,Dexter School
+3140,3140,Westmindster Schools
+3141,3141,Elmwood
+3142,3142,Abingdon School
+3143,3143,St. Joseph's College Hunters Hill
+3144,3144,Kollegium Spiritus Sanctus
+3145,3145,Stonyhurst College
+3146,3146,Asheville School
+3147,3147,Belmont  Hill School
+3148,3148,Lyons
+3149,3149,Arcadia
+3150,3150,Winnacunnet
+3151,3151,Beaver Country Day
+3152,3152,Home School
+3153,3153,Brewster Academy (N.H.)
+3154,3154,Beechcroft
+3155,3155,Chandler
+3156,3156,King's College School
+3157,3157,Southridge High School
+3158,3158,Malmo Borgarskola
+3159,3159,Middlebury Union
+3160,3160,Mount St. Joseph Academy
+3161,3161,North Broward Prep
+3162,3162,Trinity Preparatory School
+3163,3163,St. Ignatius School
+3164,3164,Floyd B. Buchanan
+3165,3165,Cape Coral
+3166,3166,Hinsdale Township Central
+3167,3167,St. Mary's High School
+3168,3168,Louisville
+3169,3169,Mansfield
+3170,3170,Mohawk
+3171,3171,Herman Gmeiner International College (Ghana)
+3172,3172,"Veritas Press (Lancaster, Pa.)"
+3173,3173,Waterville
+3174,3174,North Sydney Girl's
+3175,3175,Rumson-Fair Haven Regional
+3176,3176,Loretto
+3177,3177,Palos Verdes Pen
+3178,3178,Notre Dame Secondary
+3179,3179,Clark
+3180,3180,Montevideo Central
+3181,3181,Proctor Academy
+3182,3182,College Preparatory
+3183,3183,Marriottsville Ridge
+3184,3184,Wm. Penn Charter School
+3185,3185,Modesto
+3186,3186,Heritage Hall
+3187,3187,Woodside HS
+3188,3188,Schreiber
+3189,3189,Sydney
+3190,3190,Raritan
+3191,3191,Bristol Grammar
+3192,3192,Fox Chapel Area
+3193,3193,James A. Garfield
+3194,3194,J.K. Mullen
+3195,3195,Middleton High School
+3196,3196,Case HS
+3197,3197,St. Albans School (D.C.)
+3198,3198,Peddie School (N.J.)
+3199,3199,Palo Alto High School
+3200,3200,Lawrence North
+3201,3201,Bishop McNamara
+3202,3202,Texas Christian University
+3203,3203,Rutherford
+3204,3204,Dematha
+3205,3205,Saint Augustine High School
+3206,3206,Adams
+3207,3207,Seneca Valley
+3208,3208,Stevenson
+3209,3209,Georgetown Prep School
+3210,3210,Cranston East
+3211,3211,Palos Verdes Peninsula High School
+3212,3212,Bristol Grammar School
+3213,3213,West Central
+3214,3214,Etobicoke Collegiate Institute
+3215,3215,St. Louis University H.S.
+3216,3216,Second Baptist
+3217,3217,South Fayette
+3218,3218,Early College at Guilford
+3219,3219,Worthington Kilbourn
+3220,3220,Breck High School
+3221,3221,West Nasau
+3222,3222,West Greene
+3223,3223,Verona
+3224,3224,Warren Central
+3225,3225,Premier Elite Athletics Collegiate
+3226,3226,Ransom Everglades School
+3227,3227,Merion Mercy Academy
+3228,3228,Stanford University Online
+3229,3229,Academy of Our Lady of Peace
+3230,3230,Newtown
+3231,3231,Hohe Promenade
+3232,3232,Forest Grove
+3233,3233,Kingwood High School
+3234,3234,Edmund Burke
+3235,3235,Piscataway High School
+3236,3236,Philips Academy
+3237,3237,Genazzano FCJ College
+3238,3238,Eastside (Ga.)
+3239,3239,National Cathedral School for Girls
+3240,3240,Ecole L'essor
+3241,3241,Lodi
+3242,3242,Century
+3243,3243,Parkrose
+3244,3244,St. Stephen's Episcopal
+3245,3245,Carlsbad High School
+3246,3246,Lincoln Park Academy
+3247,3247,Maine Township South
+3248,3248,Mang'u
+3249,3249,City Honors
+3250,3250,Westhampton Beach
+3251,3251,Notre Dame Catholic Secondary School
+3252,3252,Stoney Creek
+3253,3253,South Island School
+3254,3254,Green Valley
+3255,3255,Niwot
+3256,3256,Juneau-Douglas
+3257,3257,Carl Sandburg
+3258,3258,Mattawan
+3259,3259,The Pennington School
+3260,3260,McDonough
+3261,3261,Hibriten
+3262,3262,Wilmington
+3263,3263,Eton College (England)
+3264,3264,Cathedral Catholic High School
+3265,3265,Briar Woods
+3266,3266,Mayfield
+3267,3267,Apache Junction
+3268,3268,Niskayuna
+3269,3269,Coral Springs Charter
+3270,3270,Pembroke Pines Charter
+3271,3271,Cambridge R&L (Mass.)
+3272,3272,Los Gatos (Calif.)
+3273,3273,Oslo Cathedral
+3274,3274,Ecole Moser
+3275,3275,Woodlands
+3276,3276,Billings Central Catholic
+3277,3277,Pacific Collegiate
+3278,3278,St. Edward's School
+3279,3279,Sports High School
+3280,3280,Beckman
+3281,3281,Chatfield
+3282,3282,Naples
+3283,3283,Clovis West
+3284,3284,Mascoma Valley Regional (N.H.)
+3285,3285,The Oaks
+3286,3286,Lake Placid
+3287,3287,The College Preparatory School of Oakland
+3288,3288,Fairfield (Ohio)
+3289,3289,Elizabeth Moir School
+3290,3290,The College Preparatory School
+3291,3291,Fieldston
+3292,3292,Tuscarora
+3293,3293,Mosenzon
+3294,3294,Southeast Polk
+3295,3295,Friends' Central School
+3296,3296,Thacher School
+3297,3297,Branson
+3298,3298,Bishop O'Connell
+3299,3299,Emma Willard School
+3300,3300,Memorial Place
+3301,3301,St. Michael's University School
+3302,3302,Crofton House School
+3303,3303,Northwest School
+3304,3304,The Lovette School
+3305,3305,Devon Preparatory
+3306,3306,Weymouth South
+3307,3307,High Technology
+3308,3308,Fordham Prep School
+3309,3309,A. Crawford Mosley
+3310,3310,St. Edward High School
+3311,3311,Windermere Prep
+3312,3312,Peru Central
+3313,3313,Shrewsbury School
+3314,3314,Bishop O'Dea
+3315,3315,Ashley
+3316,3316,Milton Academy (Mass.)
+3317,3317,Bolton School
+3318,3318,Viera
+3319,3319,Shrewsbury School (England)
+3320,3320,St. Edwards
+3321,3321,Orange County
+3322,3322,Dowling HS
+3323,3323,Werner-von-Siemens Gymnasium
+3324,3324,St. Cloud Tech
+3325,3325,Blake
+3326,3326,Piscataway HS
+3327,3327,East Catholic
+3328,3328,Classical
+3329,3329,Blair Academy (N.J.)
+3330,3330,Xaverian Brothers
+3331,3331,Miami Country Day
+3332,3332,Friends Acad.
+3333,3333,Buck Brown Nichols
+3334,3334,La Salle College
+3335,3335,Harley School
+3336,3336,Medford
+3337,3337,St. Ignatius College
+3338,3338,Highlands
+3339,3339,Canyon Crest Academy
+3340,3340,Polyvalente le Mistral
+3341,3341,Sugar Bowl Academy
+3342,3342,Strake Jesuit College Prep
+3343,3343,Marcus
+3344,3344,Wylie E. Groves
+3345,3345,German Swiss International School
+3346,3346,Ecole Internationale de Montreal
+3347,3347,Telluride
+3348,3348,Mission Bay
+3349,3349,Rio Mesa
+3350,3350,A.L. Johnson
+3351,3351,Queenwood School for Girls
+3352,3352,Hampden Academy
+3353,3353,Fort Lauderdale
+3354,3354,Bob Jones High School
+3355,3355,Ecole Secondarie
+3356,3356,Alameda Community Learning Center
+3357,3357,Fazekas
+3358,3358,Cthedral Prep
+3359,3359,SIDES
+3360,3360,Mason County (Ky.)
+3361,3361,Hwa Chong Jr College
+3362,3362,John Muir
+3363,3363,Pittsburgh Central Catholic
+3364,3364,Webb School of Knoxville
+3365,3365,Circle
+3366,3366,Kirkwood
+3367,3367,Mendham HS
+3368,3368,Lakeland
+3369,3369,The Walker School
+3370,3370,Abilene
+3371,3371,St. Margaret's Episcopal School
+3372,3372,Johns Creek
+3373,3373,Crispus Attucks
+3374,3374,UMS-Wright
+3375,3375,Maidstone Grammar
+3376,3376,Poughkeepsie
+3377,3377,Ocean Springs
+3378,3378,St. Bonaventure
+3379,3379,Web School
+3380,3380,Renaissance College
+3381,3381,Sir Winston Churchill
+3382,3382,Champlain Park
+3383,3383,St. Mark's (Texas)
+3384,3384,Cardinal Ritter
+3385,3385,Stratford
+3386,3386,Huron Senior
+3387,3387,Thomas Jefferson High School for  Science and Technology
+3388,3388,Lake Region
+3389,3389,University of Chicago LAB H.S.
+3390,3390,Davidson High School
+3391,3391,Madison Central
+3392,3392,St. John's Prep.
+3393,3393,Brophy Prep
+3394,3394,MNG Rämibühl
+3395,3395,Dexter
+3396,3396,Lexington Catholic
+3397,3397,North Salem
+3398,3398,Lincoln Senior
+3399,3399,Pottsville Area
+3400,3400,Hamilton Boys' High School
+3401,3401,Pacific Coast High School
+3402,3402,Rockford
+3403,3403,High Point Regional
+3404,3404,El Alsson School
+3405,3405,Benjamin N. Cardozo
+3406,3406,Dwight-Englewood School
+3407,3407,Newington College
+3408,3408,Harvard-Westlake High School
+3409,3409,Montville Township
+3410,3410,Long Beach Polytechnic
+3411,3411,Mount Greylock Regional
+3412,3412,Washburn
+3413,3413,Sacred Heart-Griffin
+3414,3414,Milton High School
+3415,3415,Conn.
+3416,3416,Sage Hill School
+3417,3417,Our Lady of Peace
+3418,3418,Wichita Collegiate School
+3419,3419,Wayne Memorial
+3420,3420,Vincent Massey Collegiate
+3421,3421,Aldai E Stevenson High School
+3422,3422,North Middlesex Regional
+3423,3423,Union-Endicott
+3424,3424,Washington and Lee
+3425,3425,Friends School
+3426,3426,Our Lady of Mount Carmel SS
+3427,3427,Skowhegan Area
+3428,3428,Northwest Catholic
+3429,3429,Jefferson Forest
+3430,3430,The Cheltenham Ladies
+3431,3431,R. A. Long
+3432,3432,Stuart Country Day School
+3433,3433,St. Paul Academy & Summitt School
+3434,3434,Pearson College
+3435,3435,Jai Hind College
+3436,3436,St. Stephens
+3437,3437,Strawberry Crest
+3438,3438,Dublin
+3439,3439,Holy Trinity
+3440,3440,Brashear
+3441,3441,Gonzaga Catholic
+3442,3442,Egg Harbor Township
+3443,3443,Detroit Catholic Central
+3444,3444,Mt. Hebran
+3445,3445,LaSalle College High
+3446,3446,Regis HS
+3447,3447,Shrewsbury School UK
+3448,3448,North Allegheny Senior HS
+3449,3449,Merritt Island
+3450,3450,Chagrin Falls
+3451,3451,Oak Park & River Forest
+3452,3452,Cascia Hall Prep School
+3453,3453,St. Johns Prep
+3454,3454,Morris Hills
+3455,3455,Cape Henry Collegiate
+3456,3456,Pickerington
+3457,3457,Lycee Saint Joseph Reims
+3458,3458,Prince George Secondary
+3459,3459,Brooks School
+3460,3460,The Pendleton School (IMG Academies)
+3461,3461,Deerfield Beach
+3462,3462,Taravella
+3463,3463,Buck Browne Nichols
+3464,3464,Early College at Carver
+3465,3465,The Wheeler School
+3466,3466,Northland
+3467,3467,Peabody
+3468,3468,Jackson Memorial
+3469,3469,Avon Grove
+3470,3470,Clarkstown South
+3471,3471,Paul Wharton
+3472,3472,Cornelia Connelly
+3473,3473,Carle Place
+3474,3474,IPS Broad Ripple
+3475,3475,Weber
+3476,3476,Tantasqua Regional Senior
+3477,3477,St. Peter's Secondary School
+3478,3478,Magee Secondary
+3479,3479,Hornsby Girls' School
+3480,3480,Champlain Valley Union
+3481,3481,Buckingham Browne and Nichols
+3482,3482,Willow Glen Senior
+3483,3483,Friedrich Dessquer Gym
+3484,3484,Governor Thomas Johnson
+3485,3485,Klein Oak
+3486,3486,Stuart Hall
+3487,3487,St. George's Independent School
+3488,3488,Hamilton-Wenham Regional
+3489,3489,Laguardia High School of Music & Arts
+3490,3490,Manheim Central
+3491,3491,Louis Bascan
+3492,3492,Suncoast
+3493,3493,Vossius Gymnasium
+3494,3494,Amherst
+3495,3495,Chaminade-Madonna College Prep
+3496,3496,Brother Rice High School
+3497,3497,Gen. Vlad Stoyechev SS
+3498,3498,Vancouver College
+3499,3499,Mount Saint Mary Academy
+3500,3500,Atascocita
+3501,3501,St. John's Jesuit
+3502,3502,Lincoln Senior High School
+3503,3503,St.Anne's-Belfield
+3504,3504,Grossmont
+3505,3505,South Eugene HS
+3506,3506,Hauppauge
+3507,3507,J.B. Conant
+3508,3508,Loomis Chaffee School
+3509,3509,Loudoun Valley
+3510,3510,Bishop Dunne
+3511,3511,Houston Christian
+3512,3512,Illinois Math and Science Academy
+3513,3513,William Howard Taft
+3514,3514,Lew Wallace
+3515,3515,Timberline
+3516,3516,Wesleyan School
+3517,3517,Brockville College
+3518,3518,St. Leonards Schools
+3519,3519,Our Lady Of Good Counsel
+3520,3520,Port Jervis
+3521,3521,Thomas Wootton
+3522,3522,Mount Carmel (Ill.)
+3523,3523,International School of Curitiba
+3524,3524,St. Patrick's
+3525,3525,Rock Canyon
+3526,3526,Daphne
+3527,3527,Withington Girls' School
+3528,3528,Beaumont School
+3529,3529,Starrs Mill
+3530,3530,Boiling Springs
+3531,3531,Pacifica
+3532,3532,Castillejia School
+3533,3533,Breck
+3534,3534,Eula
+3535,3535,Seattle Academy of Art and Science
+3536,3536,Westerville Central
+3537,3537,Gill St. Bernard’s School
+3538,3538,Windsor HS
+3539,3539,The Woodlands Prep
+3540,3540,Ridgewood HS
+3541,3541,Holderness School
+3542,3542,Sunny Hills HS
+3543,3543,Judge Memorial Catholic
+3544,3544,Carmel Valley
+3545,3545,Rocky Point
+3546,3546,Langham Creek
+3547,3547,Laguna Blanca School
+3548,3548,New Trier West
+3549,3549,Penn-Tafford
+3550,3550,Marling Grammar School
+3551,3551,Northern Valley Regional
+3552,3552,Bluffton
+3553,3553,Redmond
+3554,3554,Convent of the Sacred Heart
+3555,3555,Portsmouth Abbey
+3556,3556,Derryfield School
+3557,3557,Absegami
+3558,3558,Mt. Carmel
+3559,3559,Monrovia
+3560,3560,Laguna Hills HS
+3561,3561,Mainland Regional
+3562,3562,Philips Exeter
+3563,3563,St. Nicholas
+3564,3564,Anglican Church
+3565,3565,Lycee Chateaubriand de Rome
+3566,3566,The Kinkaid School
+3567,3567,Pateros
+3568,3568,Tokyo Gakugei University International Secondary
+3569,3569,Braintree
+3570,3570,Dunwoody
+3571,3571,Miami Beach
+3572,3572,Christ the King
+3573,3573,North Cross
+3574,3574,Half Hollow Hills High School West
+3575,3575,Lanphier
+3576,3576,Fargo South
+3577,3577,Millard North
+3578,3578,Jenks
+3579,3579,Souhegan High School
+3580,3580,Glendale HS
+3581,3581,Malibu
+3582,3582,Nazareth Area
+3583,3583,Winchester College
+3584,3584,Ancaster
+3585,3585,St. Joseph's Co-Ed School
+3586,3586,High School of Mathematics
+3587,3587,St. Thomas More Collegiate
+3588,3588,MLC School
+3589,3589,Pinetree Secondary School
+3590,3590,Portsmouth Priory
+3591,3591,St Benedict's College
+3592,3592,Evergreen Park Community
+3593,3593,Monsignor Farrell
+3594,3594,Andrew Jackson
+3595,3595,Sylvania Northview
+3596,3596,York
+3597,3597,San Francisco University
+3598,3598,Morton West
+3599,3599,Gavit
+3600,3600,Cherry Hill West
+3601,3601,Palm Harbor
+3602,3602,Windward
+3603,3603,St. Mildred's-Lightbourn School
+3604,3604,Gunnery
+3605,3605,Ivybridge Community College
+3606,3606,Iolani High School
+3607,3607,Christ Church Episcopal Center
+3608,3608,Kentucky Country Day
+3609,3609,Tustin
+3610,3610,Carl Sandberg HS
+3611,3611,Melbourne Grammar
+3612,3612,Saint Peter's
+3613,3613,Orion
+3614,3614,Westlake/Duke High School
+3615,3615,Benjamin Bosse
+3616,3616,Clinton
+3617,3617,"Buckingham, Browne and Nichols School"
+3618,3618,Lima Senior
+3619,3619,Ashland
+3620,3620,Bellermine College Prep
+3621,3621,Hereford
+3622,3622,Artesia
+3623,3623,Cincinnati Country Day School
+3624,3624,Southlakes
+3625,3625,Anglo Chinese Jr. College
+3626,3626,Whitnall
+3627,3627,Lovett School
+3628,3628,Philips Exeter Acad.
+3629,3629,Cumberland Valley
+3630,3630,Robert M. Beren Academy
+3631,3631,St. Joseph's Collegiate Institute
+3632,3632,JB Connally
+3633,3633,Eastwood
+3634,3634,Norco
