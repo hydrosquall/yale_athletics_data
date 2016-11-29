@@ -30,127 +30,243 @@
 			margin-top: 4px;
 			padding: 4px 0;
 			background-color: #fff;
-		</style>
-	</head>
+			border: 1px solid #ccc;
+			border: 1px solid rgba(0, 0, 0, 0.2);
+			-webkit-border-radius: 4px;
+			-moz-border-radius: 4px;
+			border-radius: 4px;
+			-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+			-moz-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+			box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+		}
 
-	<body>
-		<div id="search">
-			<form id="searchparams">
-				<fieldset>
+		.tt-suggestion {
+			padding: 3px 20px;
+			line-height: 24px;
+		}
+
+		.tt-suggestion.tt-cursor,
+		.tt-suggestion:hover {
+			color: #fff;
+			background-color: #0097cf;
+		}
+
+		.tt-suggestion p {
+			margin: 0;
+		}
+
+		.tt-hint {
+			color: #999;
+		}
+
+		.tt-menu {
+			/* UPDATE: newer versions use tt-menu instead of tt-dropdown-menu */
+			width: 422px;
+			margin-top: 12px;
+			padding: 8px 0;
+			background-color: #fff;
+			border: 1px solid #ccc;
+			border: 1px solid rgba(0, 0, 0, 0.2);
+			border-radius: 8px;
+			box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+		}
+
+		.tt-suggestion {
+			padding: 3px 20px;
+			font-size: 18px;
+			line-height: 24px;
+		}
+
+		.tt-suggestion.tt-is-under-cursor {
+			/* UPDATE: newer versions use .tt-suggestion.tt-cursor */
+			color: #fff;
+			background-color: #0097cf;
+		}
+
+		.tt-suggestion p {
+			margin: 0;
+		}
+
+		.tt-menu {
+			/* used to be tt-dropdown-menu in older versions */
+			width: 422px;
+			margin-top: 4px;
+			padding: 4px 0;
+			background-color: #fff;
+			border: 1px solid #ccc;
+			border: 1px solid rgba(0, 0, 0, 0.2);
+			-webkit-border-radius: 4px;
+			-moz-border-radius: 4px;
+			border-radius: 4px;
+			-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+			-moz-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+			box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+		}
+
+		.tt-suggestion {
+			padding: 3px 20px;
+			line-height: 24px;
+		}
+
+		.tt-suggestion.tt-cursor,
+		.tt-suggestion:hover {
+			color: #fff;
+			background-color: #0097cf;
+		}
+
+		.tt-suggestion p {
+			margin: 0;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="search">
+
+		<form id="searchparams">
+			<fieldset>
+				<p>
+					<label>Sport:</label>
+					<input class="typeahead-sport" name="sports" type="text" placeholder="sports">
+				</p>
+				<p>
+					<label>University:</label>
+					<select id="selUni">
+						<option value="3"></option>
+						<option value="1">Yale</option>
+						<option value="2">Harvard</option>
+					</select>
+				</p>
+				<div class="1">
 					<p>
-						<label>Sport:</label>
-						<input class="typeahead-sport" name="sports" type="text" placeholder="sports">
-					</p>
-					<p>
-						<label>University:</label>
-						<select id="selUni">
-							<option value="3"></option>
-							<option value="1">Yale</option>
-							<option value="2">Harvard</option>
+						<label>Residential College:</label>
+						<select id="Yale-college">
+							<option>Jonathan Edwards</option>
+							<option>Branford</option>
+							<option>Pierson</option>
+							<option>Silliman</option>
+							<option>Timothy Dwight</option>
+							<option>Berkeley</option>
+							<option>Saybrook</option>
+							<option>Morse</option>
+							<option>Ezra Stiles</option>
+							<option>Davenport</option>
+							<option>Trumbull</option>
+							<option>Calhoun</option>
 						</select>
 					</p>
-					<div class="1">
-						<p>
-							<label>Residential College:</label>
-							<select id="Yale-college">
-								<option>Jonathan Edwards</option>
-								<option>Branford</option>
-								<option>Pierson</option>
-								<option>Silliman</option>
-								<option>Timothy Dwight</option>
-								<option>Berkeley</option>
-								<option>Saybrook</option>
-								<option>Morse</option>
-								<option>Ezra Stiles</option>
-								<option>Davenport</option>
-								<option>Trumbull</option>
-								<option>Calhoun</option>
-							</select>
-						</p>
-					</div>
-					<div class="2">
-						<p>
-							<label>Residential House:</label>
-							<select id="Harvard-college">
-								<option>Adams</option>
-								<option>Cabot</option>
-								<option>Currier</option>
-								<option>Dunster</option>
-								<option>Eliot</option>
-								<option>Kirkland</option>
-								<option>Leverett</option>
-								<option>Lowell</option>
-								<option>Mather</option>
-								<option>Pforzheimer</option>
-								<option>Quincy</option>
-								<option>Winthrop</option>
-							</select>
-						</p>
-					</div>
+				</div>
+				<div class="2">
 					<p>
-						<label>Year:</label>
-						<select id="selyear">
-							<option></option>
-							<option>2016</option>
+						<label>Residential House:</label>
+						<select id="Harvard-college">
+							<option>Adams</option>
+							<option>Cabot</option>
+							<option>Currier</option>
+							<option>Dunster</option>
+							<option>Eliot</option>
+							<option>Kirkland</option>
+							<option>Leverett</option>
+							<option>Lowell</option>
+							<option>Mather</option>
+							<option>Pforzheimer</option>
+							<option>Quincy</option>
+							<option>Winthrop</option>
 						</select>
 					</p>
-					<p>
-						<label>First name:</label>
-						<input name="fname" type="text" />
-						<br>
-						<label>Last name:</label>
-						<input name="lname" type="text" />
-					</p>
-					<p>
-						<label>Gender:</label>
-						<input type="radio" name="gender" value="male"> Male &nbsp; &nbsp;
-						<input type="radio" name="gender" value="female"> Female &nbsp; &nbsp;
-						<input type="radio" name="gender" value="other"> Other
-						<br>
-					</p>
-					<p>
-						<label>City:</label>
-						<input class="typeahead-city" name="city" type="text" placeholder="city">
-					</p>
-					<p>
-						<label>Number:</label>
-						<input name="number" type="text" />
-					</p>
-					<p>
-						<label>Position:</label>
-						<input name="position" type="text" />
-					</p>
-					<p>
-						<label>High School:</label>
-						<input class="typeahead-hschool" name="hschool" type="text" placeholder="high school">
-					</p>
-					<input type="button" value="search" onclick="search()" />
-				</fieldset>
-			</form>
-		</div>
+				</div>
+				<p>
+					<label>Year:</label>
+					<select id="selyear">
+						<option></option>
+						<option>2016</option>
+					</select>
+				</p>
+				<p>
+					<label>Region:</label>
+					<select id="selregion">
+						<option></option>
+						<option>NorthEast</option>
+						<option>I dunno what sports regions are</option>
+					</select>
+				</p>
+				<p>
+					<label>First name:</label>
+					<input name="fname" type="text" />
+					<br>
+					<label>Last name:</label>
+					<input name="lname" type="text" />
+				</p>
+				<p>
+					<label>Gender:</label>
+					<input type="radio" name="gender" value="male"> Male &nbsp; &nbsp;
+					<input type="radio" name="gender" value="female"> Female &nbsp; &nbsp;
+					<input type="radio" name="gender" value="other"> Other
+					<br>
+				</p>
+				<p>
+					<label>Active Seasons:</label>
+					<input name="aseasons" type="text" />
+				</p>
+				<p>
+					<label>Height:</label>
+					<input name="height" type="text" placeholder="feet"/>
+				</p>
+				<p>
+					<label>Weight:</label>
+					<input name="weight" type="text" placeholder="kg"/>
+				</p>
+				<p>
+					<label>City:</label>
+					<input class="typeahead-city" name="city" type="text" placeholder="city">
+				</p>
+				<p>
+					<label>Number:</label>
+					<input name="number" type="text" />
+				</p>
+				<p>
+					<label>Position:</label>
+					<input name="position" type="text" />
+				</p>
+				<p>
+					<label>High School:</label>
+					<input class="typeahead-hschool" name="hschool" type="text" placeholder="high school">
+				</p>
+				<p>
+					<label>Hometown:</label>
+					<input class="typeahead-city" name="hometown" type="text" placeholder="city">
+				</p>
+				<input type="button" value="search" onclick="search()" />
+			</fieldset>
+		</form>
+	</div>
 
-		<script>
-			function search() {
-				document.getElementById("searchparams").submit();
-			}
-			$(document).ready(function() {
-				$('.1').hide();
-				$('.2').hide();
+	<script>
+		function search() {
+			document.getElementById("searchparams").submit();
+		}
+		$(document).ready(function() {
+			$('.1').hide();
+			$('.2').hide();
 
-				$("#selUni").change(function() {
-					if ($('#selUni option:selected').text() == "Yale") {
-						$('.1').show();
-						$('.2').hide();
-					} else if ($('#selUni option:selected').text() == "Harvard") {
-						$('.2').show();
-						$('.1').hide();
-					}
-				});
+			$("#selUni").change(function() {
+				if ($('#selUni option:selected').text() == "Yale") {
+					$('.1').show();
+					$('.2').hide();
+				} else if ($('#selUni option:selected').text() == "Harvard") {
+					$('.2').show();
+					$('.1').hide();
+				} else {
+					$('.2').hide();
+					$('.1').hide();
+				}
+
 			});
+		});
 
-			var substringMatcher = function(strs) {
-				return function findMatches(q, cb) {
-					var matches, substringRegex;
+		var substringMatcher = function(strs) {
+			return function findMatches(q, cb) {
+				var matches, substringRegex;
 
         // an array that will be populated with substring matches
         matches = [];
@@ -191,6 +307,7 @@
     	minLength: 1
     }, {
     	name: 'city',
+    	name: 'hometown',
     	source: substringMatcher(cities)
     });
 
