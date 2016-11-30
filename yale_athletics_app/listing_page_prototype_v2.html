@@ -16,138 +16,152 @@
       font-weight: 300;
       font-size: 12px;
       border-bottom: 1px solid;
+      width: 600px;
     }
 
-    input {
-      border: solid 1px #ccc;
-      border-radius: 5px;
-      padding: 7px 14px;
-      margin-bottom: 10px
+    th{
+      width: 600px;
     }
 
-    input:focus {
-      outline: none;
-      border-color: #aaa;
-    }
+    table tbody 
+    {
+     overflow: auto;
+     height: 500px;
+   }
 
-    .sort {
-      padding: 8px 30px;
-      border-radius: 6px;
-      border: none;
-      display: inline-block;
-      color: #fff;
-      text-decoration: none;
-      background-color: #28a8e0;
-      height: 30px;
-    }
+   table tbody, table thead
+   {
+    display: block;
+  }
 
-    .sort:hover {
-      text-decoration: none;
-      background-color: #1b8aba;
-    }
+  input {
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    padding: 7px 14px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+  }
 
-    .sort:focus {
-      outline: none;
-    }
+  input:focus {
+    outline: none;
+    border-color: #aaa;
+  }
 
-    .sort:after {
-      display: inline-block;
-      width: 0;
-      height: 0;
-      border-left: 5px solid transparent;
-      border-right: 5px solid transparent;
-      border-bottom: 5px solid transparent;
-      content: "";
-      position: relative;
-      top: -10px;
-      right: -5px;
-    }
+  .sort {
+    border-radius: 6px;
+    border: none;
+    color:#fff;
+    text-decoration: none;
+    background-color: #0074D9;
+    height: 30px;
+  }
 
-    .sort.asc:after {
-      width: 0;
-      height: 0;
-      border-left: 5px solid transparent;
-      border-right: 5px solid transparent;
-      border-top: 5px solid #fff;
-      content: "";
-      position: relative;
-      top: 4px;
-      right: -5px;
-    }
+  .sort:hover {
+    text-decoration: none;
+    background-color: #001f3f;
+  }
 
-    .sort.desc:after {
-      width: 0;
-      height: 0;
-      border-left: 5px solid transparent;
-      border-right: 5px solid transparent;
-      border-bottom: 5px solid #fff;
-      content: "";
-      position: relative;
-      top: -4px;
-      right: -5px;
-    }
+  .sort:focus {
+    outline: none;
+  }
 
-    * {
-      margin: 0;
-      padding: 0;
-    }
+  .sort:after {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    content: "";
+    position: relative;
+    top: -10px;
+    right: -5px;
+  }
 
-    html,
-    body,
-    .Container {
-      height: 100%;
-    }
+  .sort.asc:after {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #fff;
+    content: "";
+    position: relative;
+    top: 4px;
+    right: -5px;
+  }
 
-    .Container:before {
-      content: '';
-      height: 100%;
-      float: left;
-    }
+  .sort.desc:after {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #fff;
+    content: "";
+    position: relative;
+    top: -4px;
+    right: -5px;
+  }
 
-    .Header {
-      margin-bottom: 10px;
-      padding: 20px;
-      background-color: #0074D9;
-      font-size: 30px;
-      text-transform: uppercase;
-      font-weight: 300;
-      text-align: center;
-      margin-bottom: 15px;
-    }
+  * {
+    margin: 0;
+    padding: 0;
+  }
 
-    .Content {
-      position: relative;
-      z-index: 1;
-    }
+  html,
+  body,
+  .Container {
+    height: 100%;
+  }
 
-    .Content:after {
-      content: '';
-      clear: both;
-      display: block;
-    }
+  .Container:before {
+    content: '';
+    height: 100%;
+    float: left;
+  }
 
-    .Wrapper {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-    }
+  .Header {
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: #0074D9;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 15px;
+  }
 
-    .Wrapper > div {
-      height: 100%;
-    }
+  .Content {
+    position: relative;
+    z-index: 1;
+  }
 
-    .LeftContent {
-      overflow: auto;
-    }
+  .Content:after {
+    content: '';
+    clear: both;
+    display: block;
+  }
 
-    .RightContent {
-      padding: 10px;
-      background-color: #DDDDDD;
-      float: right;
-      margin-left: 10px;
-      width: 40%;
-    }
-  </style>
+  .Wrapper {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+
+  .Wrapper > div {
+    height: 100%;
+  }
+
+
+  .RightContent {
+    border-radius: 10px;
+    overflow: auto;
+    padding: 10px;
+    background-color: #DDDDDD;
+    float: right;
+    margin-left: 10px;
+    width: 40%;
+  }
+</style>
 </header>
 
 <div id="page">
@@ -155,31 +169,40 @@
   <div class="Container">
     <div class="Header">
       <p>Search Results</p>
-      
     </div>
     <div id="Content">
       <div class="Wrapper">
         <div id="bio" class="RightContent">
-          <div id="player1">2010-11: NCAA East Regional All-TournamentTeamâ€¦ Scored winner in OT against Air Force in NCAA regionalsemifinalâ€¦ Career-high eight goals and 15 pointsâ€¦Played in all 36 games.2009-10: Tallied first collegiate goaland first two-point outing vs. Princeton (Dec. 5)...Â Scoredgame-winning goalÂ vs. Ferris State on Jan 2.Â 2008-09: Played in 15 games at forward...Had two assists.Before Yale: Notched 27 goals and 52points in 52 games in 2007-08 playing for a combination of teams,Drayton Valley and Nanaimo Clippers... Had 20-19-39 in 2006-07 forDrayton Valley and was team rookie of the year... Also named team'stop playoff performer... Career stats in AJHL were 88 games playedwith 39-33-72... Participated in the AJHL Top Prospects Game inCanmore... Earned 2007 gold medal at World Junior AChampionships... Earned Alexander Rutherford Scholarship...Attended Spruce Grove Composite High School...Personal: Chad Nikolaus Ziegler is theson of Lon Ziegler and Valarie Goodman...Interested in major ineconomics.YearGPGAPPIM2008-091502282009-1029325102010-1136871512Total8011112230</div>
-          <div id="player2">2010: Appeared in five games... Recorded a 9.00 earned run average in seven innings of relief work.Stuper Says: "Avery came to our camp last summer and dominated. He has excellent movement and an above-average breaking ball which should translate into him getting innings right away."</div>
-          <div id="player3">t2014-15 (Senior): Named captain of Yale Heavyweight Crew2013-14 (Junior): Rowed bow in the 2V that beat Brown, Dartmouth, Cornell and finished 10th at IRAs... Rowed two-seat in the 2V that finished 12th at Sprints.2012-13 (Sophomore): Rowed two-seat in the Club Eight that finished second at HOCR... Rowed in the 3V that beat Dartmouth... Rowed in the 3V that finished 9th at Eastern Sprints. 2011-12 (Freshman): Rowed four-seat of the 1F that had dual season wins over Brown, Columbia,Dartmouth, Penn and Princeton. Before Yale: Played soccer, basketball and lacrosse at Falmouthâ€¦ Made the All-League Team in all three sports senior yea</div>
+          <div id="player1">2010-11: NCAA East Regional All-TournamentTeamâ€¦ Scored winner in OT against Air Force in NCAA regionalsemifinalâ€¦ Career-high eight goals and 15 pointsâ€¦Played in all 36 games.2009-10: Tallied first collegiate goaland first two-point outing
+            vs. Princeton (Dec. 5)...Â Scoredgame-winning goalÂ vs. Ferris State on Jan 2.Â 2008-09: Played in 15 games at forward...Had two assists.Before Yale: Notched 27 goals and 52points in 52 games in 2007-08 playing for a combination of teams,Drayton
+            Valley and Nanaimo Clippers... Had 20-19-39 in 2006-07 forDrayton Valley and was team rookie of the year... Also named team'stop playoff performer... Career stats in AJHL were 88 games playedwith 39-33-72... Participated in the AJHL Top Prospects
+            Game inCanmore... Earned 2007 gold medal at World Junior AChampionships... Earned Alexander Rutherford Scholarship...Attended Spruce Grove Composite High School...Personal: Chad Nikolaus Ziegler is theson of Lon Ziegler and Valarie Goodman...Interested
+            in major ineconomics.YearGPGAPPIM2008-091502282009-1029325102010-1136871512Total8011112230</div>
+          <div id="player2">2010: Appeared in five games... Recorded a 9.00 earned run average in seven innings of relief work.Stuper Says: "Avery came to our camp last summer and dominated. He has excellent movement and an above-average breaking ball which should translate
+            into him getting innings right away."</div>
+          <div id="player3">t2014-15 (Senior): Named captain of Yale Heavyweight Crew2013-14 (Junior): Rowed bow in the 2V that beat Brown, Dartmouth, Cornell and finished 10th at IRAs... Rowed two-seat in the 2V that finished 12th at Sprints.2012-13 (Sophomore): Rowed
+            two-seat in the Club Eight that finished second at HOCR... Rowed in the 3V that beat Dartmouth... Rowed in the 3V that finished 9th at Eastern Sprints. 2011-12 (Freshman): Rowed four-seat of the 1F that had dual season wins over Brown, Columbia,Dartmouth,
+            Penn and Princeton. Before Yale: Played soccer, basketball and lacrosse at Falmouthâ€¦ Made the All-League Team in all three sports senior yea</div>
         </div>
         <div id="menuleftcontent" class="LeftContent">
           <input class="search" placeholder="Search" />
-          <button class="sort" data-sort="name"> Sort by name </button>
           <table id="players">
-            <th><br>Name<br><br></th>
-            <th><br>City<br><br></th>
-            <th><br>High School<br><br></th>
-            <th><br>Hometown<br><br></th>
-            <th><br>Ht.<br><br></th>
-            <th><br>Number<br><br></th>
-            <th><br>Position<br><br></th>
-            <th><br>Region<br><br></th>
-            <th><br>Wt.<br><br></th>
-            <th><br>Active Seasons<br><br></th>
-            <th><br>Misc<br><br></th>
-            <th><br>College<br><br></th>
+            <thead>
+              <tr>
+                <th class="sort" data-sort="name">Name</th>
+                <th class="sort" data-sort="city">City</th>
+                <th class="sort" data-sort="hschool">High School</th>
+                <th class="sort" data-sort="hometown">Hometown</th>
+                <th class="sort" data-sort="ht">Ht.</th>
+                <th class="sort" data-sort="no">Number</th>
+                <th class="sort" data-sort="position">Position</th>
+                <th class="sort" data-sort="region">Region</th>
+                <th class="sort" data-sort="wt">Wt.</th>
+                <th class="sort" data-sort="aseasons">Active Seasons</th>
+                <th class="sort" data-sort="misc">Misc</th>
+                <th class="sort" data-sort="college">College</th>
+              </tr>
+            </thead>
             <tbody class="list">
               <tr>
                 <td class="name">
