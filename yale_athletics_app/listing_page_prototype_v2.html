@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
+</script>
+<script src="http://listjs.com/assets/javascripts/list.min.js"></script>
+<header>
+  <style type="text/css">
+    .list {
+      font-family: small sans-serif;
+    }
+
+    td {
+      text-align: center;
+      vertical-align: middle;
+      font-weight: 300;
+      font-size: 12px;
+      border-bottom: 1px solid;
+    }
+
+    input {
+      border: solid 1px #ccc;
+      border-radius: 5px;
+      padding: 7px 14px;
+      margin-bottom: 10px
+    }
+
+    input:focus {
+      outline: none;
+      border-color: #aaa;
+    }
+
+    .sort {
+      padding: 8px 30px;
+      border-radius: 6px;
+      border: none;
+      display: inline-block;
+      color: #fff;
+      text-decoration: none;
+      background-color: #28a8e0;
+      height: 30px;
+    }
+
+    .sort:hover {
+      text-decoration: none;
+      background-color: #1b8aba;
+    }
+
+    .sort:focus {
+      outline: none;
+    }
+
+    .sort:after {
+      display: inline-block;
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-bottom: 5px solid transparent;
+      content: "";
+      position: relative;
+      top: -10px;
+      right: -5px;
+    }
+
+    .sort.asc:after {
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 5px solid #fff;
+      content: "";
+      position: relative;
+      top: 4px;
+      right: -5px;
+    }
+
+    .sort.desc:after {
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-bottom: 5px solid #fff;
+      content: "";
+      position: relative;
+      top: -4px;
+      right: -5px;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    html,
+    body,
+    .Container {
+      height: 100%;
+    }
+
+    .Container:before {
+      content: '';
+      height: 100%;
+      float: left;
+    }
+
+    .Header {
+      margin-bottom: 10px;
+      padding: 20px;
+      background-color: #0074D9;
+      font-size: 30px;
+      text-transform: uppercase;
+      font-weight: 300;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+
+    .Content {
+      position: relative;
+      z-index: 1;
+    }
+
+    .Content:after {
+      content: '';
+      clear: both;
+      display: block;
+    }
+
+    .Wrapper {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+
+    .Wrapper > div {
+      height: 100%;
+    }
+
+    .LeftContent {
+      overflow: auto;
+    }
+
+    .RightContent {
+      padding: 10px;
+      background-color: #DDDDDD;
+      float: right;
+      margin-left: 10px;
+      width: 40%;
+    }
+  </style>
+</header>
+
+<script type="text/javascript">
+  $(function () {
+    $("#bio > div:gt(0)").hide();
+    $("#players a").on("click", function (e) {
+      var href = $(this).attr("href");
+      $("#bio > " + href).show();
+      $("#bio > :not(" + href + ")").hide();
+    });
+  });
+
+  var options = {
+    valueNames: [ 'name', 'city','hschool','hometown','ht', 'no','position','region','wt','aseasons','misc','college' ]
+  };
+
+  var userList = new List('menuleftcontent', options);
+</script>
+
+<div id="page">
+
+  <div class="Container">
+    <div class="Header">
+      <p>Search Results</p>
+      
+    </div>
+    <div id="Content">
+      <div class="Wrapper">
+        <div id="bio" class="RightContent">
+          <div id="player1">2010-11: NCAA East Regional All-TournamentTeamâ€¦ Scored winner in OT against Air Force in NCAA regionalsemifinalâ€¦ Career-high eight goals and 15 pointsâ€¦Played in all 36 games.2009-10: Tallied first collegiate goaland first two-point outing vs. Princeton (Dec. 5)...Â Scoredgame-winning goalÂ vs. Ferris State on Jan 2.Â 2008-09: Played in 15 games at forward...Had two assists.Before Yale: Notched 27 goals and 52points in 52 games in 2007-08 playing for a combination of teams,Drayton Valley and Nanaimo Clippers... Had 20-19-39 in 2006-07 forDrayton Valley and was team rookie of the year... Also named team'stop playoff performer... Career stats in AJHL were 88 games playedwith 39-33-72... Participated in the AJHL Top Prospects Game inCanmore... Earned 2007 gold medal at World Junior AChampionships... Earned Alexander Rutherford Scholarship...Attended Spruce Grove Composite High School...Personal: Chad Nikolaus Ziegler is theson of Lon Ziegler and Valarie Goodman...Interested in major ineconomics.YearGPGAPPIM2008-091502282009-1029325102010-1136871512Total8011112230</div>
+          <div id="player2">2010: Appeared in five games... Recorded a 9.00 earned run average in seven innings of relief work.Stuper Says: "Avery came to our camp last summer and dominated. He has excellent movement and an above-average breaking ball which should translate into him getting innings right away."</div>
+          <div id="player3">t2014-15 (Senior): Named captain of Yale Heavyweight Crew2013-14 (Junior): Rowed bow in the 2V that beat Brown, Dartmouth, Cornell and finished 10th at IRAs... Rowed two-seat in the 2V that finished 12th at Sprints.2012-13 (Sophomore): Rowed two-seat in the Club Eight that finished second at HOCR... Rowed in the 3V that beat Dartmouth... Rowed in the 3V that finished 9th at Eastern Sprints. 2011-12 (Freshman): Rowed four-seat of the 1F that had dual season wins over Brown, Columbia,Dartmouth, Penn and Princeton. Before Yale: Played soccer, basketball and lacrosse at Falmouthâ€¦ Made the All-League Team in all three sports senior yea</div>
+        </div>
+        <div id="menuleftcontent" class="LeftContent">
+          <input class="search" placeholder="Search" />
+          <button class="sort" data-sort="name"> Sort by name </button>
+          <table id="players">
+            <th><br>Name<br><br></th>
+            <th><br>City<br><br></th>
+            <th><br>High School<br><br></th>
+            <th><br>Hometown<br><br></th>
+            <th><br>Ht.<br><br></th>
+            <th><br>Number<br><br></th>
+            <th><br>Position<br><br></th>
+            <th><br>Region<br><br></th>
+            <th><br>Wt.<br><br></th>
+            <th><br>Active Seasons<br><br></th>
+            <th><br>Misc<br><br></th>
+            <th><br>College<br><br></th>
+            <tbody class="list">
+              <tr>
+                <td class="name">
+                  <p><br><a href="#player1">A.J. Haase</a><br><br></p>
+                </td>
+                <td class="city">
+                  <p><br>Bonne Terre<br><br></p>
+                </td>
+                <td class="hschool">
+                  <p><br>North County<br><br></p>
+                </td>
+                <td class="hometown">
+                  <p><br>Bonne Terre, MO / North County<br><br></p>
+                </td>
+                <td class="ht">
+                  <p><br>4-Jun<br><br></p>
+                </td>
+                <td class="no">
+                  <p><br><br><br></p>
+                </td>
+                <td class="position">
+                  <p><br>TE<br><br></p>
+                </td>
+                <td class="region">
+                  <p><br>MO<br><br></p>
+                </td>
+                <td class="wt">
+                  <p><br>245<br><br></p>
+                </td>
+                <td class="aseasons">
+                  <p><br>2006-10<br><br></p>
+                </td>
+                <td class="misc">
+                  <p><br><br><br></p>
+                </td>
+                <td class="college">
+                  <p><br>Yale<br><br></p>
+                </td>
+              </tr>
+              <tr>
+                <td class="name">
+                  <p><br><a href="#player2">A</a><br><br></p>
+                </td>
+                <td class="city">
+                  <p><br>B<br><br></p>
+                </td>
+                <td class="hschool">
+                  <p><br>C<br><br></p>
+                </td>
+                <td class="hometown">
+                  <p><br>D<br><br></p>
+                </td>
+                <td class="ht">
+                  <p><br>E<br><br></p>
+                </td>
+                <td class="no">
+                  <p><br>F<br><br></p>
+                </td>
+                <td class="position">
+                  <p><br>G<br><br></p>
+                </td>
+                <td class="region">
+                  <p><br>H<br><br></p>
+                </td>
+                <td class="wt">
+                  <p><br>I<br><br></p>
+                </td>
+                <td class="aseasons">
+                  <p><br>J<br><br></p>
+                </td>
+                <td class="misc">
+                  <p><br>K<br><br></p>
+                </td>
+                <td class="college">
+                  <p><br>L<br><br></p>
+                </td>
+              </tr>
+              <tr>
+                <td class="name">
+                  <p><br><a href="#player3">M</a><br><br></p>
+                </td>
+                <td class="city">
+                  <p><br>N<br><br></p>
+                </td>
+                <td class="hschool">
+                  <p><br>O<br><br></p>
+                </td>
+                <td class="hometown">
+                  <p><br>P<br><br></p>
+                </td>
+                <td class="ht">
+                  <p><br>Q<br><br></p>
+                </td>
+                <td class="no">
+                  <p><br>R<br><br></p>
+                </td>
+                <td class="position">
+                  <p><br>S<br><br></p>
+                </td>
+                <td class="region">
+                  <p><br>T<br><br></p>
+                </td>
+                <td class="wt">
+                  <p><br>U<br><br></p>
+                </td>
+                <td class="aseasons">
+                  <p><br>V<br><br></p>
+                </td>
+                <td class="misc">
+                  <p><br>W<br><br></p>
+                </td>
+                <td class="college">
+                  <p><br>X<br><br></p>
+                </td>
+              </tr>
+              <tr>
+                <td class="name">
+                  <p><br><a href="#player3">M</a><br><br></p>
+                </td>
+                <td class="city">
+                  <p><br>N<br><br></p>
+                </td>
+                <td class="hschool">
+                  <p><br>O<br><br></p>
+                </td>
+                <td class="hometown">
+                  <p><br>P<br><br></p>
+                </td>
+                <td class="ht">
+                  <p><br>Q<br><br></p>
+                </td>
+                <td class="no">
+                  <p><br>R<br><br></p>
+                </td>
+                <td class="position">
+                  <p><br>S<br><br></p>
+                </td>
+                <td class="region">
+                  <p><br>T<br><br></p>
+                </td>
+                <td class="wt">
+                  <p><br>U<br><br></p>
+                </td>
+                <td class="aseasons">
+                  <p><br>V<br><br></p>
+                </td>
+                <td class="misc">
+                  <p><br>W<br><br></p>
+                </td>
+                <td class="college">
+                  <p><br>X<br><br></p>
+                </td>
+              </tr>
+              <tr>
+                <td class="name">
+                  <p><br><a href="#player3">M</a><br><br></p>
+                </td>
+                <td class="city">
+                  <p><br>N<br><br></p>
+                </td>
+                <td class="hschool">
+                  <p><br>O<br><br></p>
+                </td>
+                <td class="hometown">
+                  <p><br>P<br><br></p>
+                </td>
+                <td class="ht">
+                  <p><br>Q<br><br></p>
+                </td>
+                <td class="no">
+                  <p><br>R<br><br></p>
+                </td>
+                <td class="position">
+                  <p><br>S<br><br></p>
+                </td>
+                <td class="region">
+                  <p><br>T<br><br></p>
+                </td>
+                <td class="wt">
+                  <p><br>U<br><br></p>
+                </td>
+                <td class="aseasons">
+                  <p><br>V<br><br></p>
+                </td>
+                <td class="misc">
+                  <p><br>W<br><br></p>
+                </td>
+                <td class="college">
+                  <p><br>X<br><br></p>
+                </td>
+              </tr>
+              <tr>
+                <td class="name">
+                  <p><br><a href="#player3">M</a><br><br></p>
+                </td>
+                <td class="city">
+                  <p><br>N<br><br></p>
+                </td>
+                <td class="hschool">
+                  <p><br>O<br><br></p>
+                </td>
+                <td class="hometown">
+                  <p><br>P<br><br></p>
+                </td>
+                <td class="ht">
+                  <p><br>Q<br><br></p>
+                </td>
+                <td class="no">
+                  <p><br>R<br><br></p>
+                </td>
+                <td class="position">
+                  <p><br>S<br><br></p>
+                </td>
+                <td class="region">
+                  <p><br>T<br><br></p>
+                </td>
+                <td class="wt">
+                  <p><br>U<br><br></p>
+                </td>
+                <td class="aseasons">
+                  <p><br>V<br><br></p>
+                </td>
+                <td class="misc">
+                  <p><br>W<br><br></p>
+                </td>
+                <td class="college">
+                  <p><br>X<br><br></p>
+                </td>
+              </tr>
+              <tr>
+                <td class="name">
+                  <p><br><a href="#player3">M</a><br><br></p>
+                </td>
+                <td class="city">
+                  <p><br>N<br><br></p>
+                </td>
+                <td class="hschool">
+                  <p><br>O<br><br></p>
+                </td>
+                <td class="hometown">
+                  <p><br>P<br><br></p>
+                </td>
+                <td class="ht">
+                  <p><br>Q<br><br></p>
+                </td>
+                <td class="no">
+                  <p><br>R<br><br></p>
+                </td>
+                <td class="position">
+                  <p><br>S<br><br></p>
+                </td>
+                <td class="region">
+                  <p><br>T<br><br></p>
+                </td>
+                <td class="wt">
+                  <p><br>U<br><br></p>
+                </td>
+                <td class="aseasons">
+                  <p><br>V<br><br></p>
+                </td>
+                <td class="misc">
+                  <p><br>W<br><br></p>
+                </td>
+                <td class="college">
+                  <p><br>X<br><br></p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</html>
