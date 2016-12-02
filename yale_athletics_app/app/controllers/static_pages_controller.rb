@@ -17,18 +17,27 @@ class StaticPagesController < ApplicationController
     @name = params[:name]
     @hometown = params[:hometown]
 
-    # query rosters if sport specified, otherwise get all players
+    # query rosters if sport specified, otherwise get players with name and homt
     if @sport.nil?
       @students = Student.where(name: @name, hometown: @hometown)
     else
-      @rosters = Roster.where(sport: @sport)
-      @students = []
+      @rosters = Roster.where(college: @college, sport: @sport)
+      @students_ids = []
 
       @rosters.each do |roster|
-        @students << roster.players
+        roster.players.each do |i|
+          @students_ids << i
+        end
+      end
+      @students_ids.uniq!
+      @students []
+
+      @student_ids.each do |i|
+        @students << Student.find(i)
       end
 
-      @students.where(name: @name, hometown: @hometown)
-   end
+      @students = @students.select { |player| player.name == @name }
+      @students = @students.select { |player| player.hometown == @hometown }
+    end
   end
 end
