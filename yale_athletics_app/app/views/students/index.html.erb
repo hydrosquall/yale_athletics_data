@@ -1,8 +1,10 @@
 <%= flash[:notice] %>
 <h1>All Athletes</h1>
-<table>
+<table BORDER="5">
   <thead>
+    <TH COLSPAN="2">
     <tr>
+      <th>ID</th>
       <th>Name</th>
       <th>College</th>
       <th>City</th>
@@ -19,8 +21,9 @@
     </tr>
   </thead>
   <tbody>
-    <% @students.each do |student| %>
+    <% @students.limit(10).each do |student| %>
       <tr>
+        <td><%= student.student_id %></td>
         <td><%= student.name %></td>
         <td><%= student.college %></td>
         <td><%= student.city %></td>
@@ -38,11 +41,3 @@
     <% end %>
   </tbody>
 </table>
-
-<div>
-  <h4>Import Athletes Data</h4>
-    <%= form_tag import_students_path, multipart: true do %>
-      <%= file_field_tag :file %>
-      <%= submit_tag "Import CSV" %>
-    <% end %>
-</div>

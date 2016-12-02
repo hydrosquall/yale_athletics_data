@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+  <h1>Search Results</h1>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"> </script>
+  <script src="http://listjs.com/assets/javascripts/list.min.js"></script>
+
+  <header>
+    <style>
+      .list {
+        font-family: small sans-serif;
+      }
+
+      td {
+        text-align: center;
+        vertical-align: middle;
+        font-weight: 300;
+        font-size: 12px;
+        border-bottom: 1px solid;
+      }
+
+      input {
+        border: solid 1px #ccc;
+        border-radius: 5px;
+        padding: 7px 14px;
+        margin-bottom: 10px;
+        margin-left: 15px;
+      }
+
+      input:focus {
+        outline: none;
+        border-color: #aaa;
+      }
+
+      .sort {
+        border-radius: 6px;
+        border: none;
+        color:#fff;
+        text-decoration: none;
+        background-color: #0074D9;
+        height: 30px;
+      }
+
+      .sort:hover {
+        text-decoration: none;
+        background-color: #001f3f;
+      }
+
+      .sort:focus {
+        outline: none;
+      }
+
+      .sort:after {
+        display: inline-block;
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        content: "";
+        position: relative;
+        top: -10px;
+        right: -5px;
+      }
+
+      .sort.asc:after {
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid #fff;
+        content: "";
+        position: relative;
+        top: 4px;
+        right: -5px;
+      }
+
+      .sort.desc:after {
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-bottom: 5px solid #fff;
+        content: "";
+        position: relative;
+        top: -4px;
+        right: -5px;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      html,
+      body,
+      .Container {
+        height: 100%;
+      }
+
+      .Container:before {
+        content: '';
+        height: 100%;
+        float: left;
+      }
+
+      .Header {
+        margin-bottom: 10px;
+        padding: 20px;
+        background-color: #0074D9;
+        font-size: 30px;
+        text-transform: uppercase;
+        font-weight: 300;
+        text-align: center;
+        margin-bottom: 15px;
+      }
+
+      .Content {
+        position: relative;
+        z-index: 1;
+      }
+
+      .Content:after {
+        content: '';
+        clear: both;
+        display: block;
+      }
+
+      .Wrapper {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+      }
+
+      .Wrapper > div {
+        height: 100%;
+      }
+
+      .RightContent {
+        border-radius: 10px;
+        overflow: auto;
+        padding: 10px;
+        background-color: #DDDDDD;
+        float: right;
+        margin-left: 10px;
+        width: 40%;
+      }
+    </style>
+  </header>
+
+  <div id="page">
+
+    <div class="Container">
+      <div class="Header">
+        <p>Search Results</p>
+      </div>
+      <div id="Content">
+        <div class="Wrapper">
+          <div id="bio" class="RightContent">
+            <% @students.each do |student| %>
+              <div id="player<%= student.id %>">
+                <%= student.bio %>
+              </div>
+            <% end %>
+            </div>
+          <div id="menuleftcontent" class="LeftContent">
+            <input class="search" placeholder="Search" />
+            <table id="players">
+              <thead>
+                <tr>
+                  <th class="sort" data-sort="name">Name</th>
+                  <th class="sort" data-sort="city">City</th>
+                  <th class="sort" data-sort="hschool">High School</th>
+                  <th class="sort" data-sort="hometown">Hometown</th>
+                  <th class="sort" data-sort="ht">Ht.</th>
+                  <th class="sort" data-sort="no">Number</th>
+                  <th class="sort" data-sort="position">Position</th>
+                  <th class="sort" data-sort="region">Region</th>
+                  <th class="sort" data-sort="wt">Wt.</th>
+                  <th class="sort" data-sort="aseasons">Active Seasons</th>
+                  <th class="sort" data-sort="misc">Misc</th>
+                  <th class="sort" data-sort="college">College</th>
+                </tr>
+              </thead>
+              <tbody class="list">
+                <% @students.each do |student| %>
+                  <tr>
+                    <td class="name">
+                      <p><br><a href="#player<%= student.id %>"><%= student.name %></a><br><br></p>
+                    </td>
+                    <td class="city">
+                      <p><br><%= student.city %><br><br></p>
+                    </td>
+                    <td class="hschool">
+                      <p><br><%= student.read_attribute("high school") %><br><br></p>
+                    </td>
+                    <td class="hometown">
+                      <p><br><%= student.hometown %><br><br></p>
+                    </td>
+                    <td class="ht">
+                      <p><br><%= student.read_attribute("ht.") %><br><br></p>
+                    </td>
+                    <td class="no">
+                      <p><br><%= student.read_attribute("no.") %><br><br></p>
+                    </td>
+                    <td class="position">
+                      <p><br><%= student.position %><br><br></p>
+                    </td>
+                    <td class="region">
+                      <p><br><%= student.region %><br><br></p>
+                    </td>
+                    <td class="wt">
+                      <p><br><%= student.read_attribute("wt.") %><br><br></p>
+                    </td>
+                    <td class="aseasons">
+                      <p><br><%= student.read_attribute("active seasons") %><br><br></p>
+                    </td>
+                    <td class="misc">
+                      <p><br><%= student.misc %><br><br></p>
+                    </td>
+                    <td class="college">
+                      <p><br><%= student.college %><br><br></p>
+                    </td>
+                  </tr>
+                <% end %>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <script type="text/javascript">
+
+    $(function () {
+      $("#bio > div:gt(0)").hide();
+      $("#players a").on("click", function (e) {
+        var href = $(this).attr("href");
+        $("#bio > " + href).show();
+        $("#bio > :not(" + href + ")").hide();
+      });
+    });
+
+    var options = {
+      valueNames: [ 'name', 'city','hschool','hometown','ht', 'no','position','region','wt','aseasons','misc','college' ]
+    };
+
+    var userList = new List('menuleftcontent', options);
+
+  </script>
+</html>
