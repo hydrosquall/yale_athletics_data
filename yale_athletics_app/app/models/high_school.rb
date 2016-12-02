@@ -4,6 +4,9 @@ class HighSchool < ApplicationRecord
   # associations
   has_many :students
 
+  # integrity constraints
+  validates 'high school'.to_sym, presence: true
+
   # imports csv file into db
   def self.import
     csv_text = File.read('../data/processed/high_schools_processed.csv')

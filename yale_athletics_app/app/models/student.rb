@@ -6,6 +6,14 @@ class Student < ApplicationRecord
   has_one :roster
   has_one :high_school
 
+  # integrity constraints
+  validates :name, presence: true
+  # deny special characters
+  # validates_format_of :name, with: /^[a-zA-Z]+$/
+  validates :college, presence: true
+  validates_inclusion_of :college, in: %w(Yale Harvard),
+                                   allow_nil: false
+
   # imports csv file into db
   def self.import
     csv_text = File.read('../data/processed/player_bios_processed.csv')
