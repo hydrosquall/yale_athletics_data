@@ -12,16 +12,18 @@ sys.setdefaultencoding('utf8')
 def geocode_latlng(address):
     APIKEY = "YOURKEY" #replace with actual mapquest key, can get for free
     # writer = csv.writer(sys.stdout)
+    # fullname looks similar to hometown, except for it fixes up badly spelled things.
+    print "hometown,lat,lng,city,county,state,country,fullname"
     try:
         g = geocoder.mapquest(address, key=APIKEY)
-        print("{},{},{},{},{},{},{}".format(address, g.lat, g.lng, g.city, g.county, g.state, g.country))
+        print("{},{},{},{},{},{},{}".format(address, g.lat, g.lng, g.city, g.county, g.state, g.country,g.location))
     except:
         try:
             g = geocoder.mapquest(address, key=APIKEY)
             # print(address + "," + g.lat + "," + g.lng + ",")
-            print("{},{},{},{},{},{},{}".format(address, g.lat, g.lng, g.city, g.county, g.state, g.country ))
+            print("{},{},{},{},{},{},{}".format(address, g.lat, g.lng, g.city, g.county, g.state, g.country,g.location))
         except:
-            print("{},{},{},{},{},{},{}".format(address, None, None, None, None, None, None))
+            print("{},{},{},{},{},{},{}".format(address, None, None, None, None, None, None, None))
 
     # writer.writerow([
     #     address,
