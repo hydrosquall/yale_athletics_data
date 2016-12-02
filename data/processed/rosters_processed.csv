@@ -327,429 +327,429 @@
 325,2011-12,Volleyball,"[1063, 2110, 1664, 2791, 1094, 144, 440, 1709, 1009, 2231, 1922, 773, 1132]",Yale
 326,2013-14,Volleyball,"[1063, 2110, 1396, 677, 1618, 1691, 2108, 1709, 1009, 2231, 1922, 2867, 446, 1901, 653]",Yale
 327,2010-11,Volleyball,"[2110, 1664, 2791, 1094, 440, 1694, 1709, 1009, 1132]",Yale
-0,2008-09,bsb,[],Harvard
-1,2012-13,bsb,[],Harvard
-2,2014-15,bsb,[],Harvard
-3,2016-17,bsb,[],Harvard
-4,2009-10,bsb,[],Harvard
-5,2015-16,bsb,[],Harvard
-6,2011-12,bsb,[],Harvard
-7,2013-14,bsb,[],Harvard
-8,2010-11,bsb,[],Harvard
-9,1989-90,mbkb,[],Harvard
-10,1949-50,mbkb,[],Harvard
-11,1976-77,mbkb,[],Harvard
-12,1987-88,mbkb,[],Harvard
-13,2003-04,mbkb,[],Harvard
-14,2001-02,mbkb,[],Harvard
-15,1994-95,mbkb,[],Harvard
-16,1985-86,mbkb,[],Harvard
-17,2013-14,mbkb,[],Harvard
-18,1978-79,mbkb,[],Harvard
-19,1951-52,mbkb,[],Harvard
-20,1999-00,mbkb,[],Harvard
-21,1963-64,mbkb,[],Harvard
-22,1965-66,mbkb,[],Harvard
-23,2012-13,mbkb,[],Harvard
-24,2002-03,mbkb,[],Harvard
-25,2015-16,mbkb,[],Harvard
-26,1969-70,mbkb,[],Harvard
-27,2008-09,mbkb,[],Harvard
-28,1977-78,mbkb,[],Harvard
-29,1956-57,mbkb,[],Harvard
-30,1972-73,mbkb,[],Harvard
-31,1982-83,mbkb,[],Harvard
-32,1995-96,mbkb,[],Harvard
-33,1996-97,mbkb,[],Harvard
-34,2007-08,mbkb,[],Harvard
-35,2016-17,mbkb,[],Harvard
-36,2005-06,mbkb,[],Harvard
-37,1997-98,mbkb,[],Harvard
-38,2009-10,mbkb,[],Harvard
-39,1993-94,mbkb,[],Harvard
-40,1959-60,mbkb,[],Harvard
-41,1980-81,mbkb,[],Harvard
-42,1986-87,mbkb,[],Harvard
-43,2010-11,mbkb,[],Harvard
-44,1990-91,mbkb,[],Harvard
-45,1948-49,mbkb,[],Harvard
-46,2000-01,mbkb,[],Harvard
-47,1988-89,mbkb,[],Harvard
-48,1975-76,mbkb,[],Harvard
-49,1968-69,mbkb,[],Harvard
-50,2011-12,mbkb,[],Harvard
-51,1946-47,mbkb,[],Harvard
-52,1955-56,mbkb,[],Harvard
-53,1964-65,mbkb,[],Harvard
-54,1957-58,mbkb,[],Harvard
-55,1962-63,mbkb,[],Harvard
-56,1991-92,mbkb,[],Harvard
-57,1947-48,mbkb,[],Harvard
-58,1984-85,mbkb,[],Harvard
-59,1971-72,mbkb,[],Harvard
-60,1945-46,mbkb,[],Harvard
-61,1950-51,mbkb,[],Harvard
-62,2006-07,mbkb,[],Harvard
-63,1992-93,mbkb,[],Harvard
-64,1961-62,mbkb,[],Harvard
-65,2014-15,mbkb,[],Harvard
-66,1958-59,mbkb,[],Harvard
-67,1960-61,mbkb,[],Harvard
-68,1970-71,mbkb,[],Harvard
-69,1983-84,mbkb,[],Harvard
-70,2004-05,mbkb,[],Harvard
-71,1998-99,mbkb,[],Harvard
-72,1952-53,mbkb,[],Harvard
-73,1966-67,mbkb,[],Harvard
-74,1974-75,mbkb,[],Harvard
-75,1973-74,mbkb,[],Harvard
-76,1981-82,mbkb,[],Harvard
-77,1954-55,mbkb,[],Harvard
-78,1979-80,mbkb,[],Harvard
-79,1967-68,mbkb,[],Harvard
-80,1953-54,mbkb,[],Harvard
-81,1944-45,mbkb,[],Harvard
-82,2008-09,mcrew-hw,[],Harvard
-83,2012-13,mcrew-hw,[],Harvard
-84,2014-15,mcrew-hw,[],Harvard
-85,2016-17,mcrew-hw,[2185],Harvard
-86,2009-10,mcrew-hw,[],Harvard
-87,2015-16,mcrew-hw,[2185],Harvard
-88,2011-12,mcrew-hw,[],Harvard
-89,2013-14,mcrew-hw,[],Harvard
-90,2010-11,mcrew-hw,[],Harvard
-91,2008-09,mcrew-lw,[],Harvard
-92,2012-13,mcrew-lw,[],Harvard
-93,2014-15,mcrew-lw,[],Harvard
-94,2016-17,mcrew-lw,[],Harvard
-95,2009-10,mcrew-lw,[1305],Harvard
-96,2015-16,mcrew-lw,[],Harvard
-97,2011-12,mcrew-lw,[1305],Harvard
-98,2013-14,mcrew-lw,[],Harvard
-99,2010-11,mcrew-lw,[],Harvard
-100,2008-09,xc,[],Harvard
-101,2012-13,xc,[],Harvard
-102,2014-15,xc,[],Harvard
-103,2016-17,xc,[],Harvard
-104,2009-10,xc,[],Harvard
-105,2015-16,xc,[],Harvard
-106,2011-12,xc,[],Harvard
-107,2013-14,xc,[],Harvard
-108,2010-11,xc,[],Harvard
-109,2008-09,mfencing,[],Harvard
-110,2012-13,mfencing,[],Harvard
-111,2014-15,mfencing,[],Harvard
-112,2016-17,mfencing,[],Harvard
-113,2009-10,mfencing,[],Harvard
-114,2015-16,mfencing,[],Harvard
-115,2011-12,mfencing,[],Harvard
-116,2013-14,mfencing,[],Harvard
-117,2010-11,mfencing,[],Harvard
-118,2008-09,fball,[],Harvard
-119,2003-04,fball,[],Harvard
-120,2012-13,fball,[2561],Harvard
-121,2006-07,fball,[],Harvard
-122,2007-08,fball,[],Harvard
-123,2001-02,fball,[],Harvard
-124,2005-06,fball,[],Harvard
-125,2014-15,fball,"[2561, 814]",Harvard
-126,2004-05,fball,[],Harvard
-127,2016-17,fball,[],Harvard
-128,2009-10,fball,[],Harvard
-129,2000-01,fball,[],Harvard
-130,2015-16,fball,[],Harvard
-131,2011-12,fball,[2561],Harvard
-132,2013-14,fball,[2561],Harvard
-133,2002-03,fball,[],Harvard
-134,2010-11,fball,[],Harvard
-135,2008-09,mgolf,[],Harvard
-136,2012-13,mgolf,[1730],Harvard
-137,2014-15,mgolf,[],Harvard
-138,2016-17,mgolf,[],Harvard
-139,2009-10,mgolf,[],Harvard
-140,2015-16,mgolf,[],Harvard
-141,2011-12,mgolf,[1730],Harvard
-142,2013-14,mgolf,[1730],Harvard
-143,2010-11,mgolf,[1730],Harvard
-144,2008-09,mice,[],Harvard
-145,2003-04,mice,[],Harvard
-146,2012-13,mice,[],Harvard
-147,2006-07,mice,[],Harvard
-148,2007-08,mice,[],Harvard
-149,2014-15,mice,[],Harvard
-150,2004-05,mice,[],Harvard
-151,2016-17,mice,[],Harvard
-152,2009-10,mice,[],Harvard
-153,2005-06,mice,[],Harvard
-154,2015-16,mice,[],Harvard
-155,2011-12,mice,[],Harvard
-156,2013-14,mice,[],Harvard
-157,2002-03,mice,[],Harvard
-158,2010-11,mice,[],Harvard
-159,2008-09,mlax,[2542],Harvard
-160,2003-04,mlax,[],Harvard
-161,2012-13,mlax,[],Harvard
-162,2006-07,mlax,[2542],Harvard
-163,2007-08,mlax,[2542],Harvard
-164,2014-15,mlax,[320],Harvard
-165,2004-05,mlax,[],Harvard
-166,2016-17,mlax,[],Harvard
-167,2009-10,mlax,[],Harvard
-168,2005-06,mlax,[],Harvard
-169,2015-16,mlax,[],Harvard
-170,2011-12,mlax,[],Harvard
-171,2013-14,mlax,[320],Harvard
-172,2010-11,mlax,[],Harvard
-173,2008-09,sailing,[],Harvard
-174,2012-13,sailing,[],Harvard
-175,2014-15,sailing,[],Harvard
-176,2016-17,sailing,[],Harvard
-177,2009-10,sailing,[],Harvard
-178,2015-16,sailing,[],Harvard
-179,2011-12,sailing,[],Harvard
-180,2013-14,sailing,[],Harvard
-181,2010-11,sailing,[],Harvard
-182,2015-16,skiing,[],Harvard
-183,2016-17,skiing,[],Harvard
-184,2012-13,skiing,[],Harvard
-185,2013-14,skiing,[],Harvard
-186,2014-15,skiing,[],Harvard
-187,2016-17,msoc,[],Harvard
-188,2008-09,msquash,[],Harvard
-189,2012-13,msquash,[],Harvard
-190,2014-15,msquash,[],Harvard
-191,2016-17,msquash,[],Harvard
-192,2009-10,msquash,[],Harvard
-193,2015-16,msquash,[],Harvard
-194,2011-12,msquash,[],Harvard
-195,2013-14,msquash,[],Harvard
-196,2010-11,msquash,[],Harvard
-197,2008-09,mswimdive,[],Harvard
-198,2012-13,mswimdive,[],Harvard
-199,2014-15,mswimdive,[],Harvard
-200,2016-17,mswimdive,[],Harvard
-201,2009-10,mswimdive,[],Harvard
-202,2015-16,mswimdive,[],Harvard
-203,2011-12,mswimdive,[],Harvard
-204,2013-14,mswimdive,[],Harvard
-205,2010-11,mswimdive,[],Harvard
-206,2008-09,mten,[],Harvard
-207,2012-13,mten,[],Harvard
-208,2007-08,mten,[],Harvard
-209,2014-15,mten,[],Harvard
-210,2016-17,mten,[],Harvard
-211,2009-10,mten,[],Harvard
-212,2015-16,mten,[],Harvard
-213,2011-12,mten,[],Harvard
-214,2013-14,mten,[],Harvard
-215,2010-11,mten,[],Harvard
-216,2008-09,track,[],Harvard
-217,2012-13,track,[],Harvard
-218,2014-15,track,[2048],Harvard
-219,2016-17,track,[2048],Harvard
-220,2009-10,track,[],Harvard
-221,2015-16,track,[2048],Harvard
-222,2011-12,track,[],Harvard
-223,2013-14,track,[],Harvard
-224,2010-11,track,[],Harvard
-225,2008-09,mvball,[],Harvard
-226,2012-13,mvball,[],Harvard
-227,2014-15,mvball,[],Harvard
-228,2016-17,mvball,[],Harvard
-229,2009-10,mvball,[],Harvard
-230,2015-16,mvball,[],Harvard
-231,2011-12,mvball,[],Harvard
-232,2013-14,mvball,[],Harvard
-233,2010-11,mvball,[],Harvard
-234,2008-09,mwaterpolo,[],Harvard
-235,2012-13,mwaterpolo,[],Harvard
-236,2007-08,mwaterpolo,[],Harvard
-237,2014-15,mwaterpolo,[],Harvard
-238,2016-17,mwaterpolo,[],Harvard
-239,2009-10,mwaterpolo,[],Harvard
-240,2015-16,mwaterpolo,[],Harvard
-241,2011-12,mwaterpolo,[],Harvard
-242,2013-14,mwaterpolo,[],Harvard
-243,2010-11,mwaterpolo,[],Harvard
-244,2008-09,wrest,[],Harvard
-245,2012-13,wrest,[],Harvard
-246,2014-15,wrest,[],Harvard
-247,2016-17,wrest,[],Harvard
-248,2009-10,wrest,[],Harvard
-249,2015-16,wrest,[],Harvard
-250,2011-12,wrest,[],Harvard
-251,2013-14,wrest,[],Harvard
-252,2010-11,wrest,[],Harvard
-253,1989-90,wbkb,[],Harvard
-254,1998-99,wbkb,[],Harvard
-255,1987-88,wbkb,[],Harvard
-256,2003-04,wbkb,[],Harvard
-257,1994-95,wbkb,[],Harvard
-258,1999-00,wbkb,[],Harvard
-259,2012-13,wbkb,[],Harvard
-260,2002-03,wbkb,[],Harvard
-261,2015-16,wbkb,[],Harvard
-262,2008-09,wbkb,[],Harvard
-263,2013-14,wbkb,[],Harvard
-264,1982-83,wbkb,[],Harvard
-265,1995-96,wbkb,[],Harvard
-266,1996-97,wbkb,[],Harvard
-267,2016-17,wbkb,[],Harvard
-268,2005-06,wbkb,[],Harvard
-269,1997-98,wbkb,[],Harvard
-270,2010-11,wbkb,[],Harvard
-271,1980-81,wbkb,[],Harvard
-272,1986-87,wbkb,[],Harvard
-273,1990-91,wbkb,[],Harvard
-274,2000-01,wbkb,[],Harvard
-275,2001-02,wbkb,[],Harvard
-276,2011-12,wbkb,[],Harvard
-277,1991-92,wbkb,[],Harvard
-278,1984-85,wbkb,[],Harvard
-279,1993-94,wbkb,[],Harvard
-280,1985-86,wbkb,[],Harvard
-281,2006-07,wbkb,[],Harvard
-282,1992-93,wbkb,[],Harvard
-283,2007-08,wbkb,[],Harvard
-284,2014-15,wbkb,[],Harvard
-285,1983-84,wbkb,[],Harvard
-286,2004-05,wbkb,[],Harvard
-287,2009-10,wbkb,[],Harvard
-288,1981-82,wbkb,[],Harvard
-289,1979-80,wbkb,[],Harvard
-290,1988-89,wbkb,[],Harvard
-291,2008-09,wcrew-hw,[2119],Harvard
-292,2012-13,wcrew-hw,[],Harvard
-293,2014-15,wcrew-hw,[],Harvard
-294,2016-17,wcrew-hw,[],Harvard
-295,2009-10,wcrew-hw,[2119],Harvard
-296,2015-16,wcrew-hw,[],Harvard
-297,2011-12,wcrew-hw,[],Harvard
-298,2013-14,wcrew-hw,[],Harvard
-299,2010-11,wcrew-hw,[2119],Harvard
-300,2008-09,wcrew-lw,[],Harvard
-301,2012-13,wcrew-lw,[],Harvard
-302,2014-15,wcrew-lw,[],Harvard
-303,2016-17,wcrew-lw,[],Harvard
-304,2009-10,wcrew-lw,[],Harvard
-305,2015-16,wcrew-lw,[],Harvard
-306,2011-12,wcrew-lw,[],Harvard
-307,2013-14,wcrew-lw,[],Harvard
-308,2010-11,wcrew-lw,[],Harvard
-309,2008-09,wfencing,[],Harvard
-310,2012-13,wfencing,[],Harvard
-311,2007-08,wfencing,[],Harvard
-312,2014-15,wfencing,[],Harvard
-313,2016-17,wfencing,[],Harvard
-314,2009-10,wfencing,[],Harvard
-315,2015-16,wfencing,[],Harvard
-316,2011-12,wfencing,[],Harvard
-317,2013-14,wfencing,[],Harvard
-318,2010-11,wfencing,[],Harvard
-319,2012-13,fh,[],Harvard
-320,2014-15,fh,[],Harvard
-321,2011-12,fh,[],Harvard
-322,2016-17,fh,[],Harvard
-323,2013-14,fh,[],Harvard
-324,2015-16,fh,[],Harvard
-325,2008-09,wgolf,[],Harvard
-326,2012-13,wgolf,[],Harvard
-327,2014-15,wgolf,[],Harvard
-328,2016-17,wgolf,[243],Harvard
-329,2009-10,wgolf,[],Harvard
-330,2015-16,wgolf,[243],Harvard
-331,2011-12,wgolf,[],Harvard
-332,2013-14,wgolf,[],Harvard
-333,2010-11,wgolf,[],Harvard
-334,2012-13,wice,[],Harvard
-335,2014-15,wice,[],Harvard
-336,2016-17,wice,[],Harvard
-337,2009-10,wice,[],Harvard
-338,2015-16,wice,[],Harvard
-339,2011-12,wice,[],Harvard
-340,2013-14,wice,[],Harvard
-341,2010-11,wice,[],Harvard
-342,2008-09,wlax,[],Harvard
-343,2012-13,wlax,[],Harvard
-344,2007-08,wlax,[],Harvard
-345,2014-15,wlax,[],Harvard
-346,2016-17,wlax,[],Harvard
-347,2009-10,wlax,[],Harvard
-348,2015-16,wlax,[],Harvard
-349,2011-12,wlax,[],Harvard
-350,2013-14,wlax,[],Harvard
-351,2010-11,wlax,[],Harvard
-352,2015-16,wrugby,[],Harvard
-353,2016-17,wrugby,[],Harvard
-354,2013-14,wrugby,[],Harvard
-355,2014-15,wrugby,[],Harvard
-356,2008-09,wsoc,[],Harvard
-357,2012-13,wsoc,[],Harvard
-358,2006-07,wsoc,[],Harvard
-359,2007-08,wsoc,[],Harvard
-360,2014-15,wsoc,[],Harvard
-361,2004-05,wsoc,[],Harvard
-362,2016-17,wsoc,[],Harvard
-363,2009-10,wsoc,[],Harvard
-364,2005-06,wsoc,[],Harvard
-365,2015-16,wsoc,[],Harvard
-366,2011-12,wsoc,[],Harvard
-367,2013-14,wsoc,[],Harvard
-368,2010-11,wsoc,[],Harvard
-369,2008-09,sball,[],Harvard
-370,2012-13,sball,[],Harvard
-371,2014-15,sball,[],Harvard
-372,2016-17,sball,[2626],Harvard
-373,2009-10,sball,[],Harvard
-374,2015-16,sball,[2626],Harvard
-375,2011-12,sball,[],Harvard
-376,2013-14,sball,[],Harvard
-377,2010-11,sball,[],Harvard
-378,2008-09,wsquash,[],Harvard
-379,2012-13,wsquash,[],Harvard
-380,2014-15,wsquash,[],Harvard
-381,2016-17,wsquash,[],Harvard
-382,2009-10,wsquash,[],Harvard
-383,2015-16,wsquash,[],Harvard
-384,2011-12,wsquash,[],Harvard
-385,2013-14,wsquash,[],Harvard
-386,2010-11,wsquash,[],Harvard
-387,2008-09,wswimdive,[],Harvard
-388,2012-13,wswimdive,[],Harvard
-389,2014-15,wswimdive,[],Harvard
-390,2016-17,wswimdive,[],Harvard
-391,2009-10,wswimdive,[],Harvard
-392,2015-16,wswimdive,[],Harvard
-393,2011-12,wswimdive,[],Harvard
-394,2013-14,wswimdive,[],Harvard
-395,2010-11,wswimdive,[],Harvard
-396,2008-09,wten,[],Harvard
-397,2012-13,wten,[],Harvard
-398,2006-07,wten,[],Harvard
-399,2007-08,wten,[],Harvard
-400,2014-15,wten,[],Harvard
-401,2016-17,wten,[],Harvard
-402,2009-10,wten,[],Harvard
-403,2005-06,wten,[],Harvard
-404,2015-16,wten,[],Harvard
-405,2011-12,wten,[],Harvard
-406,2013-14,wten,[],Harvard
-407,2010-11,wten,[],Harvard
-408,2012-13,wvball,[],Harvard
-409,2014-15,wvball,[],Harvard
-410,2016-17,wvball,[],Harvard
-411,2009-10,wvball,[653],Harvard
-412,2015-16,wvball,[],Harvard
-413,2011-12,wvball,[653],Harvard
-414,2013-14,wvball,[],Harvard
-415,2010-11,wvball,[653],Harvard
-416,2008-09,wwaterpolo,[],Harvard
-417,2012-13,wwaterpolo,[],Harvard
-418,2007-08,wwaterpolo,[],Harvard
-419,2014-15,wwaterpolo,[],Harvard
-420,2016-17,wwaterpolo,[],Harvard
-421,2009-10,wwaterpolo,[],Harvard
-422,2015-16,wwaterpolo,[],Harvard
-423,2011-12,wwaterpolo,[],Harvard
-424,2013-14,wwaterpolo,[],Harvard
-425,2010-11,wwaterpolo,[],Harvard
+0,2008-09,Baseball,[],Harvard
+1,2012-13,Baseball,[],Harvard
+2,2014-15,Baseball,[],Harvard
+3,2016-17,Baseball,[],Harvard
+4,2009-10,Baseball,[],Harvard
+5,2015-16,Baseball,[],Harvard
+6,2011-12,Baseball,[],Harvard
+7,2013-14,Baseball,[],Harvard
+8,2010-11,Baseball,[],Harvard
+9,1989-90,Basketball,[],Harvard
+10,1949-50,Basketball,[],Harvard
+11,1976-77,Basketball,[],Harvard
+12,1987-88,Basketball,[],Harvard
+13,2003-04,Basketball,[],Harvard
+14,2001-02,Basketball,[],Harvard
+15,1994-95,Basketball,[],Harvard
+16,1985-86,Basketball,[],Harvard
+17,2013-14,Basketball,[],Harvard
+18,1978-79,Basketball,[],Harvard
+19,1951-52,Basketball,[],Harvard
+20,1999-00,Basketball,[],Harvard
+21,1963-64,Basketball,[],Harvard
+22,1965-66,Basketball,[],Harvard
+23,2012-13,Basketball,[],Harvard
+24,2002-03,Basketball,[],Harvard
+25,2015-16,Basketball,[],Harvard
+26,1969-70,Basketball,[],Harvard
+27,2008-09,Basketball,[],Harvard
+28,1977-78,Basketball,[],Harvard
+29,1956-57,Basketball,[],Harvard
+30,1972-73,Basketball,[],Harvard
+31,1982-83,Basketball,[],Harvard
+32,1995-96,Basketball,[],Harvard
+33,1996-97,Basketball,[],Harvard
+34,2007-08,Basketball,[],Harvard
+35,2016-17,Basketball,[],Harvard
+36,2005-06,Basketball,[],Harvard
+37,1997-98,Basketball,[],Harvard
+38,2009-10,Basketball,[],Harvard
+39,1993-94,Basketball,[],Harvard
+40,1959-60,Basketball,[],Harvard
+41,1980-81,Basketball,[],Harvard
+42,1986-87,Basketball,[],Harvard
+43,2010-11,Basketball,[],Harvard
+44,1990-91,Basketball,[],Harvard
+45,1948-49,Basketball,[],Harvard
+46,2000-01,Basketball,[],Harvard
+47,1988-89,Basketball,[],Harvard
+48,1975-76,Basketball,[],Harvard
+49,1968-69,Basketball,[],Harvard
+50,2011-12,Basketball,[],Harvard
+51,1946-47,Basketball,[],Harvard
+52,1955-56,Basketball,[],Harvard
+53,1964-65,Basketball,[],Harvard
+54,1957-58,Basketball,[],Harvard
+55,1962-63,Basketball,[],Harvard
+56,1991-92,Basketball,[],Harvard
+57,1947-48,Basketball,[],Harvard
+58,1984-85,Basketball,[],Harvard
+59,1971-72,Basketball,[],Harvard
+60,1945-46,Basketball,[],Harvard
+61,1950-51,Basketball,[],Harvard
+62,2006-07,Basketball,[],Harvard
+63,1992-93,Basketball,[],Harvard
+64,1961-62,Basketball,[],Harvard
+65,2014-15,Basketball,[],Harvard
+66,1958-59,Basketball,[],Harvard
+67,1960-61,Basketball,[],Harvard
+68,1970-71,Basketball,[],Harvard
+69,1983-84,Basketball,[],Harvard
+70,2004-05,Basketball,[],Harvard
+71,1998-99,Basketball,[],Harvard
+72,1952-53,Basketball,[],Harvard
+73,1966-67,Basketball,[],Harvard
+74,1974-75,Basketball,[],Harvard
+75,1973-74,Basketball,[],Harvard
+76,1981-82,Basketball,[],Harvard
+77,1954-55,Basketball,[],Harvard
+78,1979-80,Basketball,[],Harvard
+79,1967-68,Basketball,[],Harvard
+80,1953-54,Basketball,[],Harvard
+81,1944-45,Basketball,[],Harvard
+82,2008-09,Crew (Heavyweight),[],Harvard
+83,2012-13,Crew (Heavyweight),[],Harvard
+84,2014-15,Crew (Heavyweight),[],Harvard
+85,2016-17,Crew (Heavyweight),[2185],Harvard
+86,2009-10,Crew (Heavyweight),[],Harvard
+87,2015-16,Crew (Heavyweight),[2185],Harvard
+88,2011-12,Crew (Heavyweight),[],Harvard
+89,2013-14,Crew (Heavyweight),[],Harvard
+90,2010-11,Crew (Heavyweight),[],Harvard
+91,2008-09,Crew (Lightweight),[],Harvard
+92,2012-13,Crew (Lightweight),[],Harvard
+93,2014-15,Crew (Lightweight),[],Harvard
+94,2016-17,Crew (Lightweight),[],Harvard
+95,2009-10,Crew (Lightweight),[1305],Harvard
+96,2015-16,Crew (Lightweight),[],Harvard
+97,2011-12,Crew (Lightweight),[1305],Harvard
+98,2013-14,Crew (Lightweight),[],Harvard
+99,2010-11,Crew (Lightweight),[],Harvard
+100,2008-09,Cross Country,[],Harvard
+101,2012-13,Cross Country,[],Harvard
+102,2014-15,Cross Country,[],Harvard
+103,2016-17,Cross Country,[],Harvard
+104,2009-10,Cross Country,[],Harvard
+105,2015-16,Cross Country,[],Harvard
+106,2011-12,Cross Country,[],Harvard
+107,2013-14,Cross Country,[],Harvard
+108,2010-11,Cross Country,[],Harvard
+109,2008-09,Fencing,[],Harvard
+110,2012-13,Fencing,[],Harvard
+111,2014-15,Fencing,[],Harvard
+112,2016-17,Fencing,[],Harvard
+113,2009-10,Fencing,[],Harvard
+114,2015-16,Fencing,[],Harvard
+115,2011-12,Fencing,[],Harvard
+116,2013-14,Fencing,[],Harvard
+117,2010-11,Fencing,[],Harvard
+118,2008-09,Football,[],Harvard
+119,2003-04,Football,[],Harvard
+120,2012-13,Football,[2561],Harvard
+121,2006-07,Football,[],Harvard
+122,2007-08,Football,[],Harvard
+123,2001-02,Football,[],Harvard
+124,2005-06,Football,[],Harvard
+125,2014-15,Football,"[2561, 814]",Harvard
+126,2004-05,Football,[],Harvard
+127,2016-17,Football,[],Harvard
+128,2009-10,Football,[],Harvard
+129,2000-01,Football,[],Harvard
+130,2015-16,Football,[],Harvard
+131,2011-12,Football,[2561],Harvard
+132,2013-14,Football,[2561],Harvard
+133,2002-03,Football,[],Harvard
+134,2010-11,Football,[],Harvard
+135,2008-09,Golf,[],Harvard
+136,2012-13,Golf,[1730],Harvard
+137,2014-15,Golf,[],Harvard
+138,2016-17,Golf,[],Harvard
+139,2009-10,Golf,[],Harvard
+140,2015-16,Golf,[],Harvard
+141,2011-12,Golf,[1730],Harvard
+142,2013-14,Golf,[1730],Harvard
+143,2010-11,Golf,[1730],Harvard
+144,2008-09,Ice Hockey,[],Harvard
+145,2003-04,Ice Hockey,[],Harvard
+146,2012-13,Ice Hockey,[],Harvard
+147,2006-07,Ice Hockey,[],Harvard
+148,2007-08,Ice Hockey,[],Harvard
+149,2014-15,Ice Hockey,[],Harvard
+150,2004-05,Ice Hockey,[],Harvard
+151,2016-17,Ice Hockey,[],Harvard
+152,2009-10,Ice Hockey,[],Harvard
+153,2005-06,Ice Hockey,[],Harvard
+154,2015-16,Ice Hockey,[],Harvard
+155,2011-12,Ice Hockey,[],Harvard
+156,2013-14,Ice Hockey,[],Harvard
+157,2002-03,Ice Hockey,[],Harvard
+158,2010-11,Ice Hockey,[],Harvard
+159,2008-09,Lacrosse,[2542],Harvard
+160,2003-04,Lacrosse,[],Harvard
+161,2012-13,Lacrosse,[],Harvard
+162,2006-07,Lacrosse,[2542],Harvard
+163,2007-08,Lacrosse,[2542],Harvard
+164,2014-15,Lacrosse,[320],Harvard
+165,2004-05,Lacrosse,[],Harvard
+166,2016-17,Lacrosse,[],Harvard
+167,2009-10,Lacrosse,[],Harvard
+168,2005-06,Lacrosse,[],Harvard
+169,2015-16,Lacrosse,[],Harvard
+170,2011-12,Lacrosse,[],Harvard
+171,2013-14,Lacrosse,[320],Harvard
+172,2010-11,Lacrosse,[],Harvard
+173,2008-09,Sailing (Coed),[],Harvard
+174,2012-13,Sailing (Coed),[],Harvard
+175,2014-15,Sailing (Coed),[],Harvard
+176,2016-17,Sailing (Coed),[],Harvard
+177,2009-10,Sailing (Coed),[],Harvard
+178,2015-16,Sailing (Coed),[],Harvard
+179,2011-12,Sailing (Coed),[],Harvard
+180,2013-14,Sailing (Coed),[],Harvard
+181,2010-11,Sailing (Coed),[],Harvard
+182,2015-16,Skiing,[],Harvard
+183,2016-17,Skiing,[],Harvard
+184,2012-13,Skiing,[],Harvard
+185,2013-14,Skiing,[],Harvard
+186,2014-15,Skiing,[],Harvard
+187,2016-17,Soccer,[],Harvard
+188,2008-09,Squash,[],Harvard
+189,2012-13,Squash,[],Harvard
+190,2014-15,Squash,[],Harvard
+191,2016-17,Squash,[],Harvard
+192,2009-10,Squash,[],Harvard
+193,2015-16,Squash,[],Harvard
+194,2011-12,Squash,[],Harvard
+195,2013-14,Squash,[],Harvard
+196,2010-11,Squash,[],Harvard
+197,2008-09,Swimming & Diving,[],Harvard
+198,2012-13,Swimming & Diving,[],Harvard
+199,2014-15,Swimming & Diving,[],Harvard
+200,2016-17,Swimming & Diving,[],Harvard
+201,2009-10,Swimming & Diving,[],Harvard
+202,2015-16,Swimming & Diving,[],Harvard
+203,2011-12,Swimming & Diving,[],Harvard
+204,2013-14,Swimming & Diving,[],Harvard
+205,2010-11,Swimming & Diving,[],Harvard
+206,2008-09,Tennis,[],Harvard
+207,2012-13,Tennis,[],Harvard
+208,2007-08,Tennis,[],Harvard
+209,2014-15,Tennis,[],Harvard
+210,2016-17,Tennis,[],Harvard
+211,2009-10,Tennis,[],Harvard
+212,2015-16,Tennis,[],Harvard
+213,2011-12,Tennis,[],Harvard
+214,2013-14,Tennis,[],Harvard
+215,2010-11,Tennis,[],Harvard
+216,2008-09,Track & Field,[],Harvard
+217,2012-13,Track & Field,[],Harvard
+218,2014-15,Track & Field,[2048],Harvard
+219,2016-17,Track & Field,[2048],Harvard
+220,2009-10,Track & Field,[],Harvard
+221,2015-16,Track & Field,[2048],Harvard
+222,2011-12,Track & Field,[],Harvard
+223,2013-14,Track & Field,[],Harvard
+224,2010-11,Track & Field,[],Harvard
+225,2008-09,Volleyball,[],Harvard
+226,2012-13,Volleyball,[],Harvard
+227,2014-15,Volleyball,[],Harvard
+228,2016-17,Volleyball,[],Harvard
+229,2009-10,Volleyball,[],Harvard
+230,2015-16,Volleyball,[],Harvard
+231,2011-12,Volleyball,[],Harvard
+232,2013-14,Volleyball,[],Harvard
+233,2010-11,Volleyball,[],Harvard
+234,2008-09,Water Polo,[],Harvard
+235,2012-13,Water Polo,[],Harvard
+236,2007-08,Water Polo,[],Harvard
+237,2014-15,Water Polo,[],Harvard
+238,2016-17,Water Polo,[],Harvard
+239,2009-10,Water Polo,[],Harvard
+240,2015-16,Water Polo,[],Harvard
+241,2011-12,Water Polo,[],Harvard
+242,2013-14,Water Polo,[],Harvard
+243,2010-11,Water Polo,[],Harvard
+244,2008-09,Wrestling,[],Harvard
+245,2012-13,Wrestling,[],Harvard
+246,2014-15,Wrestling,[],Harvard
+247,2016-17,Wrestling,[],Harvard
+248,2009-10,Wrestling,[],Harvard
+249,2015-16,Wrestling,[],Harvard
+250,2011-12,Wrestling,[],Harvard
+251,2013-14,Wrestling,[],Harvard
+252,2010-11,Wrestling,[],Harvard
+253,1989-90,Basketball,[],Harvard
+254,1998-99,Basketball,[],Harvard
+255,1987-88,Basketball,[],Harvard
+256,2003-04,Basketball,[],Harvard
+257,1994-95,Basketball,[],Harvard
+258,1999-00,Basketball,[],Harvard
+259,2012-13,Basketball,[],Harvard
+260,2002-03,Basketball,[],Harvard
+261,2015-16,Basketball,[],Harvard
+262,2008-09,Basketball,[],Harvard
+263,2013-14,Basketball,[],Harvard
+264,1982-83,Basketball,[],Harvard
+265,1995-96,Basketball,[],Harvard
+266,1996-97,Basketball,[],Harvard
+267,2016-17,Basketball,[],Harvard
+268,2005-06,Basketball,[],Harvard
+269,1997-98,Basketball,[],Harvard
+270,2010-11,Basketball,[],Harvard
+271,1980-81,Basketball,[],Harvard
+272,1986-87,Basketball,[],Harvard
+273,1990-91,Basketball,[],Harvard
+274,2000-01,Basketball,[],Harvard
+275,2001-02,Basketball,[],Harvard
+276,2011-12,Basketball,[],Harvard
+277,1991-92,Basketball,[],Harvard
+278,1984-85,Basketball,[],Harvard
+279,1993-94,Basketball,[],Harvard
+280,1985-86,Basketball,[],Harvard
+281,2006-07,Basketball,[],Harvard
+282,1992-93,Basketball,[],Harvard
+283,2007-08,Basketball,[],Harvard
+284,2014-15,Basketball,[],Harvard
+285,1983-84,Basketball,[],Harvard
+286,2004-05,Basketball,[],Harvard
+287,2009-10,Basketball,[],Harvard
+288,1981-82,Basketball,[],Harvard
+289,1979-80,Basketball,[],Harvard
+290,1988-89,Basketball,[],Harvard
+291,2008-09,Crew (Heavyweight),[2119],Harvard
+292,2012-13,Crew (Heavyweight),[],Harvard
+293,2014-15,Crew (Heavyweight),[],Harvard
+294,2016-17,Crew (Heavyweight),[],Harvard
+295,2009-10,Crew (Heavyweight),[2119],Harvard
+296,2015-16,Crew (Heavyweight),[],Harvard
+297,2011-12,Crew (Heavyweight),[],Harvard
+298,2013-14,Crew (Heavyweight),[],Harvard
+299,2010-11,Crew (Heavyweight),[2119],Harvard
+300,2008-09,Crew (Lightweight),[],Harvard
+301,2012-13,Crew (Lightweight),[],Harvard
+302,2014-15,Crew (Lightweight),[],Harvard
+303,2016-17,Crew (Lightweight),[],Harvard
+304,2009-10,Crew (Lightweight),[],Harvard
+305,2015-16,Crew (Lightweight),[],Harvard
+306,2011-12,Crew (Lightweight),[],Harvard
+307,2013-14,Crew (Lightweight),[],Harvard
+308,2010-11,Crew (Lightweight),[],Harvard
+309,2008-09,Fencing,[],Harvard
+310,2012-13,Fencing,[],Harvard
+311,2007-08,Fencing,[],Harvard
+312,2014-15,Fencing,[],Harvard
+313,2016-17,Fencing,[],Harvard
+314,2009-10,Fencing,[],Harvard
+315,2015-16,Fencing,[],Harvard
+316,2011-12,Fencing,[],Harvard
+317,2013-14,Fencing,[],Harvard
+318,2010-11,Fencing,[],Harvard
+319,2012-13,Field Hockey,[],Harvard
+320,2014-15,Field Hockey,[],Harvard
+321,2011-12,Field Hockey,[],Harvard
+322,2016-17,Field Hockey,[],Harvard
+323,2013-14,Field Hockey,[],Harvard
+324,2015-16,Field Hockey,[],Harvard
+325,2008-09,Golf,[],Harvard
+326,2012-13,Golf,[],Harvard
+327,2014-15,Golf,[],Harvard
+328,2016-17,Golf,[243],Harvard
+329,2009-10,Golf,[],Harvard
+330,2015-16,Golf,[243],Harvard
+331,2011-12,Golf,[],Harvard
+332,2013-14,Golf,[],Harvard
+333,2010-11,Golf,[],Harvard
+334,2012-13,Ice Hockey,[],Harvard
+335,2014-15,Ice Hockey,[],Harvard
+336,2016-17,Ice Hockey,[],Harvard
+337,2009-10,Ice Hockey,[],Harvard
+338,2015-16,Ice Hockey,[],Harvard
+339,2011-12,Ice Hockey,[],Harvard
+340,2013-14,Ice Hockey,[],Harvard
+341,2010-11,Ice Hockey,[],Harvard
+342,2008-09,Lacrosse,[],Harvard
+343,2012-13,Lacrosse,[],Harvard
+344,2007-08,Lacrosse,[],Harvard
+345,2014-15,Lacrosse,[],Harvard
+346,2016-17,Lacrosse,[],Harvard
+347,2009-10,Lacrosse,[],Harvard
+348,2015-16,Lacrosse,[],Harvard
+349,2011-12,Lacrosse,[],Harvard
+350,2013-14,Lacrosse,[],Harvard
+351,2010-11,Lacrosse,[],Harvard
+352,2015-16,Rugby,[],Harvard
+353,2016-17,Rugby,[],Harvard
+354,2013-14,Rugby,[],Harvard
+355,2014-15,Rugby,[],Harvard
+356,2008-09,Soccer,[],Harvard
+357,2012-13,Soccer,[],Harvard
+358,2006-07,Soccer,[],Harvard
+359,2007-08,Soccer,[],Harvard
+360,2014-15,Soccer,[],Harvard
+361,2004-05,Soccer,[],Harvard
+362,2016-17,Soccer,[],Harvard
+363,2009-10,Soccer,[],Harvard
+364,2005-06,Soccer,[],Harvard
+365,2015-16,Soccer,[],Harvard
+366,2011-12,Soccer,[],Harvard
+367,2013-14,Soccer,[],Harvard
+368,2010-11,Soccer,[],Harvard
+369,2008-09,Softball,[],Harvard
+370,2012-13,Softball,[],Harvard
+371,2014-15,Softball,[],Harvard
+372,2016-17,Softball,[2626],Harvard
+373,2009-10,Softball,[],Harvard
+374,2015-16,Softball,[2626],Harvard
+375,2011-12,Softball,[],Harvard
+376,2013-14,Softball,[],Harvard
+377,2010-11,Softball,[],Harvard
+378,2008-09,Squash,[],Harvard
+379,2012-13,Squash,[],Harvard
+380,2014-15,Squash,[],Harvard
+381,2016-17,Squash,[],Harvard
+382,2009-10,Squash,[],Harvard
+383,2015-16,Squash,[],Harvard
+384,2011-12,Squash,[],Harvard
+385,2013-14,Squash,[],Harvard
+386,2010-11,Squash,[],Harvard
+387,2008-09,Swimming & Diving,[],Harvard
+388,2012-13,Swimming & Diving,[],Harvard
+389,2014-15,Swimming & Diving,[],Harvard
+390,2016-17,Swimming & Diving,[],Harvard
+391,2009-10,Swimming & Diving,[],Harvard
+392,2015-16,Swimming & Diving,[],Harvard
+393,2011-12,Swimming & Diving,[],Harvard
+394,2013-14,Swimming & Diving,[],Harvard
+395,2010-11,Swimming & Diving,[],Harvard
+396,2008-09,Tennis,[],Harvard
+397,2012-13,Tennis,[],Harvard
+398,2006-07,Tennis,[],Harvard
+399,2007-08,Tennis,[],Harvard
+400,2014-15,Tennis,[],Harvard
+401,2016-17,Tennis,[],Harvard
+402,2009-10,Tennis,[],Harvard
+403,2005-06,Tennis,[],Harvard
+404,2015-16,Tennis,[],Harvard
+405,2011-12,Tennis,[],Harvard
+406,2013-14,Tennis,[],Harvard
+407,2010-11,Tennis,[],Harvard
+408,2012-13,Volleyball,[],Harvard
+409,2014-15,Volleyball,[],Harvard
+410,2016-17,Volleyball,[],Harvard
+411,2009-10,Volleyball,[653],Harvard
+412,2015-16,Volleyball,[],Harvard
+413,2011-12,Volleyball,[653],Harvard
+414,2013-14,Volleyball,[],Harvard
+415,2010-11,Volleyball,[653],Harvard
+416,2008-09,Water Polo,[],Harvard
+417,2012-13,Water Polo,[],Harvard
+418,2007-08,Water Polo,[],Harvard
+419,2014-15,Water Polo,[],Harvard
+420,2016-17,Water Polo,[],Harvard
+421,2009-10,Water Polo,[],Harvard
+422,2015-16,Water Polo,[],Harvard
+423,2011-12,Water Polo,[],Harvard
+424,2013-14,Water Polo,[],Harvard
+425,2010-11,Water Polo,[],Harvard
