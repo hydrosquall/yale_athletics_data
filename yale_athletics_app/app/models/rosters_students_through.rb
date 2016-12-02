@@ -10,8 +10,8 @@ class RostersStudentsThrough < ApplicationRecord
     csv_text = File.read('../data/processed/rosters_players_processed.csv')
     csv = CSV.parse(csv_text, headers: true)
     csv.each do |row|
-      RostersStudentsThrough.create!(:student_id => row[1],
-                                     :roster_id => row[2])
+      RostersStudentsThrough.create!(:roster_id => row[1],
+                                     :student_id => row[2])
     end
   end
 end

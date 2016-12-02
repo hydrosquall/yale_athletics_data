@@ -21,23 +21,33 @@ class StaticPagesController < ApplicationController
     if @sport.nil?
       @students = Student.where(name: @name, hometown: @hometown)
     else
-      @rosters = Roster.where(college: @college, sport: @sport)
+      @rosters_ids = []
+      @rosters_ids = Roster.where(college: @college, sport: @sport).ids
+      @rosters_ids.each(&:to_s)
+
       @students_ids = []
 
-      @rosters.each do |roster|
-        roster.players.each do |i|
-          @students_ids << i
-        end
+      @rosters_ids.each do |roster|
+        @students_ids +=
+          RostersStudentsThrough.where(roster_id: roster).pluck(:student_id)
       end
-      @students_ids.uniq!
-      @students []
 
-      @student_ids.each do |i|
+      @students_ids.uniq!
+
+      @students = []
+
+      @students_ids.each do |i|
         @students << Student.find(i)
       end
 
-      @students = @students.select { |player| player.name == @name }
-      @students = @students.select { |player| player.hometown == @hometown }
+      # filter students only if params are valid
+      unless @name.nil? || @name.empty?
+        @students = @students.select { |player| player.name == @name }
+      end
+
+      unless @hometown.nil? || @hometown.empty?
+        @students = @students.select { |player| player.hometown == @hometown }
+      end
     end
   end
 end

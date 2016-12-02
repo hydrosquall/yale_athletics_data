@@ -158,9 +158,10 @@
         <div class="Wrapper">
           <div id="bio" class="RightContent">
             <% @students.each do |student| %>
-              <div id="<%= student.id %>">
+              <div id="player<%= student.id %>">
                 <%= student.bio %>
               </div>
+            <% end %>
             </div>
           <div id="menuleftcontent" class="LeftContent">
             <input class="search" placeholder="Search" />
@@ -182,272 +183,46 @@
                 </tr>
               </thead>
               <tbody class="list">
-                <tr>
-                  <td class="name">
-                    <p><br><a href="#player1">A.J. Haase</a><br><br></p>
-                  </td>
-                  <td class="city">
-                    <p><br>Bonne Terre<br><br></p>
-                  </td>
-                  <td class="hschool">
-                    <p><br>North County<br><br></p>
-                  </td>
-                  <td class="hometown">
-                    <p><br>Bonne Terre, MO / North County<br><br></p>
-                  </td>
-                  <td class="ht">
-                    <p><br>4-Jun<br><br></p>
-                  </td>
-                  <td class="no">
-                    <p><br><br><br></p>
-                  </td>
-                  <td class="position">
-                    <p><br>TE<br><br></p>
-                  </td>
-                  <td class="region">
-                    <p><br>MO<br><br></p>
-                  </td>
-                  <td class="wt">
-                    <p><br>245<br><br></p>
-                  </td>
-                  <td class="aseasons">
-                    <p><br>2006-10<br><br></p>
-                  </td>
-                  <td class="misc">
-                    <p><br><br><br></p>
-                  </td>
-                  <td class="college">
-                    <p><br>Yale<br><br></p>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="name">
-                    <p><br><a href="#player2">A</a><br><br></p>
-                  </td>
-                  <td class="city">
-                    <p><br>B<br><br></p>
-                  </td>
-                  <td class="hschool">
-                    <p><br>C<br><br></p>
-                  </td>
-                  <td class="hometown">
-                    <p><br>D<br><br></p>
-                  </td>
-                  <td class="ht">
-                    <p><br>E<br><br></p>
-                  </td>
-                  <td class="no">
-                    <p><br>F<br><br></p>
-                  </td>
-                  <td class="position">
-                    <p><br>G<br><br></p>
-                  </td>
-                  <td class="region">
-                    <p><br>H<br><br></p>
-                  </td>
-                  <td class="wt">
-                    <p><br>I<br><br></p>
-                  </td>
-                  <td class="aseasons">
-                    <p><br>J<br><br></p>
-                  </td>
-                  <td class="misc">
-                    <p><br>K<br><br></p>
-                  </td>
-                  <td class="college">
-                    <p><br>L<br><br></p>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="name">
-                    <p><br><a href="#player3">M</a><br><br></p>
-                  </td>
-                  <td class="city">
-                    <p><br>N<br><br></p>
-                  </td>
-                  <td class="hschool">
-                    <p><br>O<br><br></p>
-                  </td>
-                  <td class="hometown">
-                    <p><br>P<br><br></p>
-                  </td>
-                  <td class="ht">
-                    <p><br>Q<br><br></p>
-                  </td>
-                  <td class="no">
-                    <p><br>R<br><br></p>
-                  </td>
-                  <td class="position">
-                    <p><br>S<br><br></p>
-                  </td>
-                  <td class="region">
-                    <p><br>T<br><br></p>
-                  </td>
-                  <td class="wt">
-                    <p><br>U<br><br></p>
-                  </td>
-                  <td class="aseasons">
-                    <p><br>V<br><br></p>
-                  </td>
-                  <td class="misc">
-                    <p><br>W<br><br></p>
-                  </td>
-                  <td class="college">
-                    <p><br>X<br><br></p>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="name">
-                    <p><br><a href="#player3">M</a><br><br></p>
-                  </td>
-                  <td class="city">
-                    <p><br>N<br><br></p>
-                  </td>
-                  <td class="hschool">
-                    <p><br>O<br><br></p>
-                  </td>
-                  <td class="hometown">
-                    <p><br>P<br><br></p>
-                  </td>
-                  <td class="ht">
-                    <p><br>Q<br><br></p>
-                  </td>
-                  <td class="no">
-                    <p><br>R<br><br></p>
-                  </td>
-                  <td class="position">
-                    <p><br>S<br><br></p>
-                  </td>
-                  <td class="region">
-                    <p><br>T<br><br></p>
-                  </td>
-                  <td class="wt">
-                    <p><br>U<br><br></p>
-                  </td>
-                  <td class="aseasons">
-                    <p><br>V<br><br></p>
-                  </td>
-                  <td class="misc">
-                    <p><br>W<br><br></p>
-                  </td>
-                  <td class="college">
-                    <p><br>X<br><br></p>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="name">
-                    <p><br><a href="#player3">M</a><br><br></p>
-                  </td>
-                  <td class="city">
-                    <p><br>N<br><br></p>
-                  </td>
-                  <td class="hschool">
-                    <p><br>O<br><br></p>
-                  </td>
-                  <td class="hometown">
-                    <p><br>P<br><br></p>
-                  </td>
-                  <td class="ht">
-                    <p><br>Q<br><br></p>
-                  </td>
-                  <td class="no">
-                    <p><br>R<br><br></p>
-                  </td>
-                  <td class="position">
-                    <p><br>S<br><br></p>
-                  </td>
-                  <td class="region">
-                    <p><br>T<br><br></p>
-                  </td>
-                  <td class="wt">
-                    <p><br>U<br><br></p>
-                  </td>
-                  <td class="aseasons">
-                    <p><br>V<br><br></p>
-                  </td>
-                  <td class="misc">
-                    <p><br>W<br><br></p>
-                  </td>
-                  <td class="college">
-                    <p><br>X<br><br></p>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="name">
-                    <p><br><a href="#player3">M</a><br><br></p>
-                  </td>
-                  <td class="city">
-                    <p><br>N<br><br></p>
-                  </td>
-                  <td class="hschool">
-                    <p><br>O<br><br></p>
-                  </td>
-                  <td class="hometown">
-                    <p><br>P<br><br></p>
-                  </td>
-                  <td class="ht">
-                    <p><br>Q<br><br></p>
-                  </td>
-                  <td class="no">
-                    <p><br>R<br><br></p>
-                  </td>
-                  <td class="position">
-                    <p><br>S<br><br></p>
-                  </td>
-                  <td class="region">
-                    <p><br>T<br><br></p>
-                  </td>
-                  <td class="wt">
-                    <p><br>U<br><br></p>
-                  </td>
-                  <td class="aseasons">
-                    <p><br>V<br><br></p>
-                  </td>
-                  <td class="misc">
-                    <p><br>W<br><br></p>
-                  </td>
-                  <td class="college">
-                    <p><br>X<br><br></p>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="name">
-                    <p><br><a href="#player3">M</a><br><br></p>
-                  </td>
-                  <td class="city">
-                    <p><br>N<br><br></p>
-                  </td>
-                  <td class="hschool">
-                    <p><br>O<br><br></p>
-                  </td>
-                  <td class="hometown">
-                    <p><br>P<br><br></p>
-                  </td>
-                  <td class="ht">
-                    <p><br>Q<br><br></p>
-                  </td>
-                  <td class="no">
-                    <p><br>R<br><br></p>
-                  </td>
-                  <td class="position">
-                    <p><br>S<br><br></p>
-                  </td>
-                  <td class="region">
-                    <p><br>T<br><br></p>
-                  </td>
-                  <td class="wt">
-                    <p><br>U<br><br></p>
-                  </td>
-                  <td class="aseasons">
-                    <p><br>V<br><br></p>
-                  </td>
-                  <td class="misc">
-                    <p><br>W<br><br></p>
-                  </td>
-                  <td class="college">
-                    <p><br>X<br><br></p>
-                  </td>
-                </tr>
+                <% @students.each do |student| %>
+                  <tr>
+                    <td class="name">
+                      <p><br><a href="#player<%= student.id %>"><%= student.name %></a><br><br></p>
+                    </td>
+                    <td class="city">
+                      <p><br><%= student.city %><br><br></p>
+                    </td>
+                    <td class="hschool">
+                      <p><br><%= student.read_attribute("high school") %><br><br></p>
+                    </td>
+                    <td class="hometown">
+                      <p><br><%= student.hometown %><br><br></p>
+                    </td>
+                    <td class="ht">
+                      <p><br><%= student.read_attribute("ht.") %><br><br></p>
+                    </td>
+                    <td class="no">
+                      <p><br><%= student.read_attribute("no.") %><br><br></p>
+                    </td>
+                    <td class="position">
+                      <p><br><%= student.position %><br><br></p>
+                    </td>
+                    <td class="region">
+                      <p><br><%= student.region %><br><br></p>
+                    </td>
+                    <td class="wt">
+                      <p><br><%= student.read_attribute("wt.") %><br><br></p>
+                    </td>
+                    <td class="aseasons">
+                      <p><br><%= student.read_attribute("active seasons") %><br><br></p>
+                    </td>
+                    <td class="misc">
+                      <p><br><%= student.misc %><br><br></p>
+                    </td>
+                    <td class="college">
+                      <p><br><%= student.college %><br><br></p>
+                    </td>
+                  </tr>
+                <% end %>
               </tbody>
             </table>
           </div>
