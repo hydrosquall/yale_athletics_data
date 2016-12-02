@@ -126,7 +126,7 @@
 	<body>
 		<div id="search">
 
-			<form id="searchparams">
+			<form id="searchparams" action="static_pages/listing" method="get">
 				<fieldset>
 					<p>
 						<label>Sport:</label>
@@ -173,7 +173,7 @@
 						<label>Hometown:</label>
 						<input class="typeahead-city" name="hometown" type="text" placeholder="city">
 					</p>
-					<input type="button" value="search" onclick="search()" />
+					<input type="submit" value="submit"/>
 				</fieldset>
 			</form>
 		</div>
@@ -181,7 +181,7 @@
 		<script>
 			function search() {
 				document.getElementById("searchparams").submit();
-				window.location.href = "static_pages/listing";
+				// window.location.href = "static_pages/listing";
 			}
 
 			$(document).ready(function() {
