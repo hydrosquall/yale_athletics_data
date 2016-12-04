@@ -1,13 +1,13 @@
 // Bubble chart script for popular majors for athletes
 
-var diameter = 500; // Max size of bubble
+var diameter = 700; // Max size of bubble
 var color = d3.scale.category10();
 
 // Initialize the layout object
 var bubble = d3.layout.pack()
 	.sort(null)
 	.size([diameter, diameter])
-	.padding(1.5);
+	.padding(10);
 
 var svg = d3.select("body")
 	.append("svg")
@@ -47,11 +47,17 @@ d3.csv(csvPath, function(error, data) {
 		.attr("x", function(d) { return d.x; })
 		.attr("y", function(d) {return d.y + 5; })
 		.attr("text-anchor", "middle")
-		.text(function(d) { return d["Major"]; })
+		.style("font-size", function(d) {
+			var len = d["Major"].substring(0, d.r / 3).length;
+			var size = d.r/3;
+			size *= 10 / len;
+			size += 1;
+			return Math.round(size)+'px';
+		})
+		.text(function(d) { return d["Major"].substring(0, d.r / 3); })
 		.style({
 			"fill": "white",
-			"font-family": "Helvetica Neue, Helvetica, Arial, sans-serif",
-			"font-size": "12px"
+			"font-family": "Helvetica, Arial, sans-serif",
 		});
 	
 });
