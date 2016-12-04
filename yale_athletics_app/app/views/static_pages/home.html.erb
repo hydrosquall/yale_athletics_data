@@ -130,44 +130,23 @@
 				<fieldset>
 					<p>
 						<label>Sport:</label>
-						<input class="typeahead-sport" name="sports" type="text" placeholder="sports">
-					</p>
-					<p>
-						<label>University:</label>
-						<select id="selUni">
-							<option value="3"></option>
-							<option value="1">Yale</option>
-							<option value="2">Harvard</option>
+						<select class="typeahead-sport" id="sport" name="sport" type="text" placeholder="sport">
+							<% @all_sports.each do |sport| %>
+								<option value="<%= sport %>"> <%= sport %> </option>
+							<% end %>
 						</select>
 					</p>
 					<p>
-						<label>Year:</label>
-						<select id="selyear">
-							<option></option>
-							<option>2016</option>
+						<label>College:</label>
+						<select id="selUni" name="college" type="text" placeholder="college">
+							<option value="">Yale & Harvard</option>
+							<option value="Yale">Yale</option>
+							<option value="Harvard">Harvard</option>
 						</select>
-					</p>
-					<p>
 					</p>
 					<p>
 						<label>Name:</label>
 						<input name="name" type="text" />
-					</p>
-					<p>
-						<label>Active Seasons:</label>
-						<input name="aseasons" type="text" />
-					</p>
-					<p>
-						<label>City:</label>
-						<input class="typeahead-city" name="city" type="text" placeholder="city">
-					</p>
-					<p>
-						<label>Number:</label>
-						<input name="number" type="text" />
-					</p>
-					<p>
-						<label>Position:</label>
-						<input name="position" type="text" />
 					</p>
 					<p>
 						<label>Hometown:</label>

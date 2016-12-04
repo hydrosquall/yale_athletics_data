@@ -1,5 +1,6 @@
 class StaticPagesController < ApplicationController
   def home
+    @all_sports = Roster.uniq.pluck(:sport)
   end
 
   def help
@@ -13,14 +14,17 @@ class StaticPagesController < ApplicationController
 
   def listing
     # search params
-    @sport = params[:sports]
+    @sport = params[:sport]
     @name = params[:name]
     @hometown = params[:hometown]
+    @college = params[:college]
 
     # query rosters if sport specified, otherwise get players with name and homt
+
     if @sport.nil?
       @students = Student.where(name: @name, hometown: @hometown)
     else
+      debugger
       @rosters_ids = []
       @rosters_ids = Roster.where(college: @college, sport: @sport).ids
       @rosters_ids.each(&:to_s)

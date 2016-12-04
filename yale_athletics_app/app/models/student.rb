@@ -17,7 +17,8 @@ class Student < ApplicationRecord
   # imports csv file into db
   def self.import
     csv_text = File.read('../data/processed/player_bios_processed.csv')
-    csv = CSV.parse(csv_text, headers: true)
+
+    csv = CSV.parse(csv_text, headers: true :row_sep => :auto, :col_sep => ";")
     csv.each do |row|
       Student.create!(:student_id => row[0], :name => row[1], :city => row[2],
                       'high school'.to_sym => row[3], :hometown => row[4],
