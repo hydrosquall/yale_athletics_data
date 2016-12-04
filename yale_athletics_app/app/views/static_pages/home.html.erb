@@ -132,7 +132,7 @@
 				<fieldset>
 					<p>
 						<label>Sport:</label>
-						<input class="typeahead-sport" name="sports" type="text" placeholder="sports">
+						<select class="select2-sport" name="sports" type="text" placeholder="sports"></select>
 					</p>
 					<p>
 						<label>University:</label>
@@ -227,7 +227,7 @@
 	      };
 	    };
 
-	    var sports = ['Basketball', 'Baseball', 'Volleyball', 'Tennis', 'Football', 'Lacrosse', 'Fencing', 'Crew (Heavyweight)', 'Crew (Lightweight)', 'Swimming & Diving', 'Ice Hockey', 'Water Polo', 'Golf', 'Polo', 'Soccer', 'Squash', 'Track & Field'];
+	    var sports = ['', 'Basketball', 'Baseball', 'Volleyball', 'Tennis', 'Football', 'Lacrosse', 'Fencing', 'Crew (Heavyweight)', 'Crew (Lightweight)', 'Swimming & Diving', 'Ice Hockey', 'Water Polo', 'Golf', 'Polo', 'Soccer', 'Squash', 'Track & Field'];
 
 	    var cities = ['New Haven', 'Los Angeles', 'Boston', 'Bar Harbor', 'New York', 'Dallas', 'Indianapolis', 'Houson', 'Santa Barbara', 'San Francisco', 'Lansing', 'Philadelphia'];
 
@@ -260,6 +260,16 @@
 	    	name: 'hschool',
 	    	source: substringMatcher(hschools)
 	    });
+
+	    $(document).ready(function() {
+		  $(".select2-sport").select2();
+		});
+
+		$(".select2-sport").select2({
+		  placeholder: "Select a state",
+		  data: sports,
+		  allowClear: true
+		});
 
 	  </script>
 	</body>
