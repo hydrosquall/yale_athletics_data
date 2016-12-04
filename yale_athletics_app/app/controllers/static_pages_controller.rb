@@ -24,14 +24,12 @@ class StaticPagesController < ApplicationController
     if @sport.nil?
       @students = Student.where(name: @name, hometown: @hometown)
     else
-      debugger
       @rosters_ids = []
       @rosters_ids = Roster.where(college: @college, sport: @sport).ids
       @rosters_ids.each(&:to_s)
 
       @students_ids = []
 
-      debugger
       @rosters_ids.each do |roster|
         @students_ids +=
           RostersStudentsThrough.where(roster_id: roster).pluck(:student_id)
