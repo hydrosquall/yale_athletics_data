@@ -30,6 +30,7 @@ class StaticPagesController < ApplicationController
 
       @students_ids = []
 
+      debugger
       @rosters_ids.each do |roster|
         @students_ids +=
           RostersStudentsThrough.where(roster_id: roster).pluck(:student_id)
