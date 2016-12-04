@@ -166,15 +166,15 @@
               <thead>
                 <tr>
                   <th class="sort" data-sort="name">Name</th>
-                  <th class="sort" data-sort="city">City</th>
                   <th class="sort" data-sort="hschool">High School</th>
                   <th class="sort" data-sort="hometown">Hometown</th>
                   <th class="sort" data-sort="ht">Ht.</th>
                   <th class="sort" data-sort="no">Number</th>
                   <th class="sort" data-sort="position">Position</th>
-                  <th class="sort" data-sort="region">Region</th>
+                  <th class="sort" data-sort="major">Major</th>
                   <th class="sort" data-sort="wt">Wt.</th>
-                  <th class="sort" data-sort="aseasons">Active Seasons</th>
+                  <th class="sort" data-sort="startseasons">Start Season</th>
+                  <th class="sort" data-sort="endseasons">End Season</th>
                   <th class="sort" data-sort="misc">Misc</th>
                   <th class="sort" data-sort="college">College</th>
                 </tr>
@@ -184,9 +184,6 @@
                   <tr>
                     <td class="name">
                       <p><br><a href="#player<%= student.id %>"><%= student.name %></a><br><br></p>
-                    </td>
-                    <td class="city">
-                      <p><br><%= student.city %><br><br></p>
                     </td>
                     <td class="hschool">
                       <p><br><%= student.read_attribute("high school") %><br><br></p>
@@ -203,14 +200,17 @@
                     <td class="position">
                       <p><br><%= student.position %><br><br></p>
                     </td>
-                    <td class="region">
-                      <p><br><%= student.region %><br><br></p>
+                    <td class="major">
+                      <p><br><%= student.major %><br><br></p>
                     </td>
                     <td class="wt">
                       <p><br><%= student.read_attribute("wt.") %><br><br></p>
                     </td>
-                    <td class="aseasons">
-                      <p><br><%= student.read_attribute("active seasons") %><br><br></p>
+                    <td class="startseasons">
+                      <p><br><%= student.read_attribute("startseason") %><br><br></p>
+                    </td>
+                    <td class="endseasons">
+                      <p><br><%= student.read_attribute("endseason") %><br><br></p>
                     </td>
                     <td class="misc">
                       <p><br><%= student.misc %><br><br></p>
@@ -241,7 +241,7 @@
     });
 
     var options = {
-      valueNames: [ 'name', 'city','hschool','hometown','ht', 'no','position','region','wt','aseasons','misc','college' ]
+      valueNames: [ 'name','hschool','hometown','ht', 'no','position','wt', 'misc', 'college', 'startseasons', 'endseasons', 'major']
     };
 
     var userList = new List('menuleftcontent', options);
