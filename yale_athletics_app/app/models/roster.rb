@@ -7,7 +7,7 @@ class Roster < ApplicationRecord
 
   # integrity constraints
   validates :sport, presence: true
-  validates_format_of :sport, with: /^[a-zA-Z]+$/
+  validates_format_of :sport, with: /\A[a-zA-Z]+\z/
   validates :players, presence: true
   validates :college, presence: true
   validates_inclusion_of :college, in: %w(Yale Harvard),
